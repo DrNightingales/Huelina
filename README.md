@@ -6,10 +6,12 @@ No installation packeges are avaliable yet
 
 ## Dependencies 
 No dependencies yet
-In future pyqt library will be used for GUI
+
+In future PyQT5 library will be used for GUI
 
 ## Issues
 On windows 8 or later you should run huelina through powershell, since escape sequences for colors are not supported in standart cmd
+
 On linux you may change encoding for CSV files to utf8 rather than ansi
 
 
