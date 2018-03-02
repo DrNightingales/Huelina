@@ -2,7 +2,16 @@
 A program for creating and solving tests with multiple choice
 
 ## Installation
-No installation packeges are avalibale yet
+No installation packeges are avaliable yet
+
+## Dependencies 
+No dependencies yet
+In future pyqt library will be used for GUI
+
+## Issues
+On windows 8 or later you should run huelina through powershell, since escape sequences for colors are not supported in standart cmd
+On linux you may change encoding for CSV files to utf8 rather than ansi
+
 
 ## CSV for test
 *example:*
@@ -18,3 +27,4 @@ incorrect ans2
  2. If the first symbol is a colon, then it's a link to an image for a qusetion (not supported yet)
  3. If the first symbol is an asterisk(*), then it's a correct answer
  4. Any other first character will mean an incorrect answer
+ 
