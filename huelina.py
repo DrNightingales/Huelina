@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*- 
+
+# TODO: Unite encodings for windows and linux
+
 from question import Question
 import bgcolors as bg
 import re
