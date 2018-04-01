@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*- 
-
 # TODO: Unite encodings for windows and linux
 
 from question import Question
@@ -11,6 +10,7 @@ print(bg.OKBLUE)  # Color background text in blue
 print("Добро пожаловать в Хуелина 0.2-альфа")
 print("")
 print("Введите имя файла с тестами (по умолчанию anat.txt)")
+print("Используйте файлы anatN-ansi.txt на windows и anatN-utf8 на других OS")
 file = input()
 print("")
 

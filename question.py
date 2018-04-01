@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from collections import defaultdict
 from random import shuffle
 import bgcolors as bgc
@@ -73,6 +74,6 @@ class Question:
             return False
 
         except ValueError:
-            print(bgc.FAIL + "Пожалуйста вводите только цифры" + bgc.OKBLUE)
+            print(bgc.FAIL + "Пожалуйста, вводите только цифры" + bgc.OKBLUE)
             return False
         return no_mistakes
