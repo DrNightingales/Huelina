@@ -1,0 +1,1622 @@
+#Anatomy unit test 6: central nervous system 
+#Encoded in UTF-8
+1 Верхней границей спинного мозга (medulla spinalis) является:
+* нижний край большого затылочного отверстия (foramen magnum)
+* перекрест пирамид (decussatio pyramidum)
+* место выхода первой пары спинномозговых корешков (radix spinalis)
+граница между первым и вторым шейными позвонками
+межпозвоночный диск между вторым и третьим шейными позвонками
+2 Нижняя граница спинного мозга (medulla spinalis) находится на уровне:
+* межпозвоночного диска между первым и вторым поясничными позвонками
+мыса крестца (promontorium)
+первого копчикового позвонка (vertebra coccigygea)
+последнего копчикового позвонка (vertebra coccigygea)
+крестцовой расщелины (hiatus sacralis)
+3 Шейное утолщение (intumescentia cervicalis) спинного мозга (medulla spinalis) находится на уровне:
+* 5-8 шейных сегментов
+ 1-3 шейных сегментов
+ 3-4 шейных сегментов
+ 7-8 шейных сегментов
+ 1-8 шейных сегментов
+4 Пояснично-крестцовое утолщение (intumescentia lumbosacralis) спинного мозга (medulla spinalis) находится на уровне:
+* 1-5 поясничных и 1-4 крестцовых сегментов
+всех поясничных и крестцовых сегментов
+ 5-го поясничного и 1-го крестцового сегментов
+ 5 поясничных и 1-5 крестцовых сегментов
+только 1-5 поясничных сегментов
+5 Терминальная нить (filum terminale (spinale)):
+* заканчивается на уровне 2 копчикового позвонка
+* имеет 2 части
+* является рудиментом каудального конца спинного мозга (medulla spinalis)
+заканчивается на уровне 2 крестцового позвонка
+заканчивается на уровне 1-2 поясничного позвонка
+6 На уровне первого поясничного позвонка находятся:
+* копчиковые сегменты спинного мозга (medulla spinalis)
+* мозговой конус (conus medullaris)
+ 1-й поясничный сегмент спинного мозга (medulla spinalis)
+ 4-5 поясничные сегменты спинного мозга (medulla spinalis)
+грудные сегменты спинного мозга (medulla spinalis)
+7 Поясничные сегменты спинного мозга (medulla spinalis) находятся на уровне:
+* 10-11 грудных позвонков
+ 7-9 грудных позвонков
+ 1-2 поясничных позвонков
+ 1-5 поясничных позвонков
+крестцовых позвонков
+8 В спинном мозге (medulla spinalis) различают следующие борозды и щели
+* задняя срединная борозда (sulcus medianus posterior)
+* передняя срединная щель (fissura mediana anterior)
+* задняя промежуточная борозда (sulcus intermedius posterior)
+* заднелатеральная борозда (sulcus posterolateralis)
+терминальная борозда (sulcus terminalis)
+9 Cпинной мозг (medulla spinalis) имеет утолщения
+* в шейном отделе
+* в пояснично – крестцовом отделе
+в грудном отделе
+в копчиковом отделе
+в каудальном отделе
+10 Спинной мозг (medulla spinalis) заканчивается:
+* мозговым конусом (conus medullaris)
+пояснично-крестцовым утолщением (intumescentia lumbosacralis)
+крестцовыми сегментами (segmentum sacralis)
+конским хвостом (cauda equina)
+передним корешком (radix anterior)
+11 Передние корешки (radix anterior) спинного мозга (medulla spinalis) выходят из:
+* переднелатеральной борозды (sulcus anterolateralis)
+передней срединной щели (fissura mediana anterior)
+мозгового конуса (conus medullaris)
+заднелатеральной борозды (sulcus posterolateralis)
+терминальной нити (filum terminale)
+12 Передние канатики (funiculus anterior) спинного мозга (medulla spinalis):
+*ограничены передней срединной щелью (fissura mediana anterior)
+* ограничены переднелатеральной бороздой (sulcus anterolateralis)
+являются местом выхода передних корешков (radix anterior)
+являются местом выхода терминальной нити (filum terminale)
+имеются только в шейных сегментах (segmentum cervicalis)
+13 Задние корешки (radix posterior) спинного мозга (medulla spinalis) выходят из:
+* заднелатеральной борозды (sulcus posterolateralis)
+задней срединной борозды (sulcus medianus posterior)
+переднелатеральной борозды (sulcus anterolateralis)
+мозгового конуса (conus medullaris)
+заднего канатика (funiculus posterior)
+14 Границей между сегментами на спинном мозге (medulla spinalis) является:
+* граница между сегментами на спинном мозге не видна
+пограничная линия (linea terminalis)
+конечная нить (filum terminale (spinale))
+место выхода передних корешков
+место выхода задних корешков
+15 Количество сегментов в спинном мозге (medulla spinalis) равно:
+* количеству пар спинномозговых нервов
+количеству позвонков в позвоночном столбе
+количеству туловищных сомитов
+количеству передних корешков
+количеству задних корешков
+16 На поперечном срезе спинного мозга (medulla spinalis) серое вещество организовано в виде
+* задних рогов (cornu posterius)
+* передних рогов (cornu anterius)
+* боковых рогов (cornu laterale)
+аммоновых рогов (cornu ammonis)
+нижних рогов (cornu inferius)
+17 Боковые рога (cornu laterale) имеются в
+* сегментах с VIII шейного по II поясничный (C VIII-L II)
+сегментах с I шейного по VII шейный (C I-C VII)
+сегментах со II шейного по VIII грудной (C II-Th VIII)
+сегментах с V шейного по II крестцовый (C V-S II)
+18 В задних рогах (cornu posterius) спинного мозга лежат следующие ядра
+* студенистое вещество (substantia gelatinosa)
+* собственные ядра (nucleus рroprius)
+* заднее грудное ядро (nucleus thoracicus posterior)
+промежуточно-латеральное ядро (nucleus intermediolateralis)
+переднемедиальное ядро (nucleus anteromedialis)
+19 В двигательных ядрах передних рогов (сornu anterius) спинного мозга лежат
+* двигательные нейроны
+* мультиполярные клетки
+вставочные нейроны
+чувствительные нейроны
+биполярные клетки
+20 В белом веществе спинного мозга различают:
+* задние канатики (funiculus posterior)
+* боковые канатики(funiculus lateralis)
+* передние канатики (funiculus anterior)
+передний корешок (radix anterior)
+задний корешок (radix posterior)
+21 В задних канатиках (funiculus posterior) белого вещества спинного мозга проходят:
+* тонкий пучок (funiculus gracilis)
+* клиновидный пучок (funiculus cuneatus)
+передний корешок (radix anterior)
+задний корешок (radix posterior)
+центральный канал (canalis centralis)
+22 В передних канатиках (funiculus anterior) спинного мозга проходят:
+* передний корково-спинномозговой путь (tractus corticospinalis antgerior)
+* крышеспинномозговой путь (tractus tectospinalis)
+тонкий пучок (funiculus gracilis)
+клиновидный пучок (funiculus cuneatus)
+латеральный спинно-таламический путь (tractus spinothalamicus lateralis)
+23 Боковой канатик (funiculus lateralis) спинного мозга содержит волокна:
+* латерального спинно-таламического пути (tractus spinothalamicus lateralis)
+* крышеспинномозгового пути (tractus tectospinalis)
+тонкого пучка (funiculus gracilis)
+клиновидного пучка (funiculus cuneatus)
+переднего корково-спинномозгового пути (tractus corticospinalis anterior)
+24 Тонкий и клиновидный пучки (funiculus gracilis et funiculus cuneatus) - это проводники:
+* проприоцептивной чувствительности
+пирамидной системы
+экстрапирамидной системы
+болевой и температурной чувствительности
+интероцептивной чувствительности
+25 Белое вещество (substantia alba) спинного мозга:
+* локализуется кнаружи от серого вещества спинного мозга
+* образовано отростками нейронов
+* образует передний, задний и боковые канатики (funiculus anterior, posterior, lateralis)
+образовано телами нейронов
+в нем расположен центральный канал спинного мозга (canalis centralis)
+26 Положение тела чувствительного нейрона:
+* спинномозговой ганглий (ganglion spinale)
+задние рога (cornu posterius) спинного мозга
+боковые рога (cornu laterale) спинного мозга
+передние канатики (funiculus anterior)
+задние канатики (funiculus posterior)
+27 Положение тела вставочного нейрона соматической рефлекторной дуги в сером веществе спинного мозга (medulla spinalis):
+* задние рога (cornu posterius) спинного мозга
+передние рога (cornu anterius) спинного мозга
+боковые рога (cornu laterale) спинного мозга
+задние канатики (funiculus posterior)
+спинномозговой ганглий (ganglion spinale)
+28 Чувствительный нейрон по строению является:
+* псевдоуниполярной клеткой
+биполярной клеткой
+мультиполярной клеткой
+униполярной клеткой
+равноотростчатой клеткой
+29 Началом соматических рефлекторных дуг являются рецепторы, расположенные:
+* в коже
+* в сухожилиях мышц
+* в связках
+в стенке внутренних органов
+в стенке сосудов
+30 Первым звеном рефлекторной дуги является:
+* афферентный нейрон
+* чувствительный нейрон
+эфферентный нейрон
+ассоциативный нейрон
+двигательный нейрон
+31 Последним звеном рефлекторной дуги является:
+* эфферентный нейрон
+* двигательный нейрон
+афферентный нейрон
+ассоциативный нейрон
+чувствительный нейрон
+32 В соматической рефлекторной дуге могут быть задействованы следующие нейроны:
+* вставочные
+* эфферентные
+* афферентные
+нейросекреторные
+двигательные симпатические
+33 В спинном мозге выделяют мозговых оболочек:
+* 3 оболочки
+4 оболочки
+5 оболочек
+1 оболочку
+2 оболочки
+34 Твёрдая мозговая (dura mater spinalis) оболочка спинного мозга расположена:
+* в позвоночном канале (canalis vertebralis)
+* кнаружи от паутинной оболочки спинного мозга (arachnoidea mater spinalis)
+кнутри от паутинной оболочки спинного мозга (arachnoidea mater spinale)
+кнутри от мягкой оболочки спинного мозга (pia mater spinalis)
+окружает спинномозговой канал (canalis spinalis)
+35 Эпидуральное пространство (spatium epidurale):
+* содержит внутреннее позвоночное венозное сплетение (plexus venosus spinalis)
+* заполнено жировой клетчаткой
+заполнено кровью
+заполнено спинномозговой жидкостью (liquor cerebrospinalis)
+такое пространство отсутствует
+36 Мягкая оболочка спинного мозга (pia mater spinalis)
+* прилежит к спинному мозгу (medulla spinalis)
+* образует терминальную нить (filum terminale)
+* отделяется от паутинной оболочки подпаутинным пространством (spatium subarachnoideum)
+прилежит к позвонкам
+образует конский хвост (cauda equine)
+37 Подпаутинное пространство (spatium subarachnoideum) заполнено:
+* спинномозговой жидкостью (liquor cerebrospinalis)
+содержит внутреннее позвоночное венозное сплетение (plexus venosus spinalis)
+заполнено кровью
+заполнено жировой клетчаткой
+такое пространство отсутствует
+38 Подпаутинное пространство спинного мозга (spatium subarachnoideum):
+* заполнено спинномозговой жидкостью (liquor  cerebrospinalis)
+* продолжается в подпаутинное пространство головного мозга
+* расположено между мягкой и паутинной оболочками
+содержит внутреннее позвоночное венозное сплетение (plexus venosus spinalis)
+образует конский хвост (cauda equina)
+39 Твердая мозговая оболочка спинного мозга (dura mater spinalis)
+* расположена в позвоночном канале (canalis vertebralis)
+* отделена от надкостницы эпидуральным пространством (spatium epidurale)
+* образует терминальную нить (filum terminale)
+плотно сращена со спинным мозгом (medulla spinalis)
+образована сосудистыми сплетениями (plexus vasculosus)
+40 Из заднего мозгового пузыря (metencephalon) развиваются
+* мост (pons)
+* мозжечок (cerebellum)
+средний мозг (mesencephalon)
+ножки мозга (pedunculi cerebri)
+промежуточный мозг (diencephalon)
+41 Из среднего мозгового пузыря (mesencephalon)  развиваются
+* ножки мозга (pedunculi cerebri)
+* крыша среднего мозга (tectum mesencephalicum)
+промежуточный мозг (diencephalon)
+верхний мозговой парус (velum medullare superius)
+мозжечок (cerebellum)
+42 К стволу головного мозга (truncus encephali) относятся:
+* мост (pons)
+* средний мозг (mesencephalon)
+промежуточный мозг (diencephalon)
+* продолговатый мозг (medulla oblongata)
+мозжечок (cerebellum)
+43 Ствол головного мозга (truncus encephali) включает:
+* средний мозг (mesencephalon)
+* мост (pons)
+* продолговатый мозг (medulla oblongata)
+мозжечок (cerebellum)
+промежуточный мозг (diencephalon)
+44 Часть заднего мозга, входящая  в состав ствола головного мозга (truncus encephali):
+* мост (pons)
+мозжечок (cerebellum)
+промежуточный мозг (diencephalon)
+продолговатый мозг (medulla oblongata)
+средний мозг(mesencephalon)
+45 Поверхности продолговатого мозга (medulla oblongata)
+* передняя
+* латеральная
+* задняя
+верхняя
+нижняя
+46 На вентральной поверхности продолговатого мозга (medulla oblongata) находятся места выхода следующих черепных нервов:
+* блуждающего (nervus vagus, X)
+* добавочного (nervus accessorius, XI)
+преддверно-улиткового (nervus vestibulocochlearis, VIII)
+лицевого (nervus facialis, VII)
+тройничного (nervus trigeminus, V)
+47 К рельефу вентральной поверхности продолговатого мозга (medulla oblongata) относят:
+* оливы (oliva)
+* пирамиды (pyramis medullae oblongatae)
+* перекрест пирамид (decussatio pyramidum)
+ножки мозга (pedunculus cerebri)
+нижние мозжечковые ножки (pedunculus cerebellaris inferior)
+48 Пирамиды (pyramis medullae oblongatae) расположены:
+* медиальнее оливы (oliva)
+* по бокам от передней срединной щели (fissura mediana anterior)
+латеральнее переднелатеральной борозды (sulcus lateralis anterior)
+по бокам от основной борозды (sulcus basilaris)
+по бокам от задней срединной борозды (sulcus medianus posterior)
+49 Переднелатеральная борозда (sulcus anterolateralis):
+* находится на вентральной поверхности продолговатого мозга (medulla oblongata)
+* находится между пирамидой (pyramis medullae oblongatae) и оливой (oliva)
+* является продолжением одноименной борозды спинного мозга
+находится между пирамидами (pyramis medullae oblongatae)
+продолжается на вентральную поверхность моста (pons)
+50 Перекрест пирамид (decussatio pyramidum) расположен
+* на вентральной поверхности продолговатого мозга (medulla oblongata)
+* на границе продолговатого мозга (medulla oblongata) и спинного мозга (medulla spinalis)
+на дорзальной поверхности продолговатого мозга (medulla oblongata)
+на границе продолговатого мозга (medulla oblongata) и моста (pons)
+в задней срединной борозде (sulcus medianus posterior) продолговатого мозга (medulla oblongata)
+51 Рельеф дорзальной поверхности продолговатого мозга (medulla oblongata) образуют:
+* клиновидный бугорок (tuberculum cuneatum)
+* ромбовидная ямка (fossa rhomboidea)
+* тонкий пучок (fasciculus gracilis)
+олива (oliva)
+пирамида (pyramis medullae oblongatae)
+52 На дорзальной поверхности продолговатого мозга (medulla oblongata) находятся:
+* тонкий бугорок (tuberculum gracile)
+* клиновидный бугорок (tuberculum cuneatum)
+место выхода блокового нерва (n.trochlearis(IV))
+лицевой бугорок (colliculus facialis)
+задняя латеральная борозда ( sulcus posterolateralis)
+53 Клиновидный бугорок (tuberculum cuneatum) расположен:
+* на дорзальной поверхности продолговатого мозга (medulla oblongata)
+на вентральной поверхности продолговатого мозга (medulla oblongata)
+на вентральной поверхности моста (pons)
+на дорзальной поверхности среднего мозг (mesencephalon)
+в ромбовидной ямке (fossa rhomboidea)
+54 Тонкий бугорок (tuberculum gracile) расположен:
+* медиальнее клиновидного бугорка (tuberculum cuneatum)
+* на дорзальной поверхности продолговатого мозга (medulla oblongata)
+латеральнее клиновидного бугорка (tuberculum cuneatum)
+на вентральной поверхности моста (pons)
+на дорзальной поверхности среднего мозга (mesencephalon)
+55 Тонкий и клиновидный бугорки (tuberculum gracile et cuneatum):
+* лежат между задней латеральной (sulcus posterolateralis) и задней срединной бороздой (sulcus medianus posterior)
+* место окончания тонкого и клиновидного пучков (fasciculus gracilis et cuneatus)
+разделены задней латеральной бороздой (sulcus posterolateralis)
+лежат латерально от задней латеральной борозды (sulcus posterolateralis)
+место начала тонкого и клиновидного пучков (fasciculus gracilis et cuneatus)
+56 Задняя срединная борозда (sulcus medianus posterior) находится на: 
+* поверхности спинного мозга (medulla spinalis)
+* поверхности продолговатого мозга (medulla oblongata)
+поверхности среднего мозга (mesencephalon)
+поверхности моста (pons)
+поверхности ромбовидной ямки (fossa rhomboidea)
+57 Границей между продолговатым мозгом (medulla oblongata) и мостом (pons) является:
+* бульбомостовая борозда (sulcus bulbopontinus)
+место выхода тройничного нерва (n. trigeminus (V))
+нижние мозжечковые ножки (pedunculus cerebellaris inferior)
+перекрест пирамид (decussatio pyramidum)
+заднее продырявленное вещество (substantia perforata posterior)
+58 Латеральнее моста (pons) лежат:
+* средние мозжечковые ножки (pedunculus cerebellaris medius)
+ножки мозга (pedunculus cerebri)
+мозжечок (cerebellum)
+нижние мозжечковые ножки (pedunculus cerebellaris inferior)
+ручки нижних холмиков (brachium colliculi inferioris)
+59 Границей между мостом и средними мозжечковыми ножками является:
+* место выхода тройничного нерва (n. trigeminus (V))
+место выхода отводящего нерва (n. abducens (VI))
+конечная нить (filum terminale)
+заднее продырявленное вещество (substantia perforata posterior)
+место выхода блокового нерва (n. trochlearis(IV))
+60 На вентральной поверхности среднего мозга (mesencephalon) находятся:
+* ножки мозга (pedunculus cerebri)
+* межножковая ямка (fossa interpeduncularis)
+* заднее продырявленное вещество (substantia perforata posterior)
+верхние мозжечковые ножки (pedunculus cerebellaris superior)
+переднее продырявленное вещество (substantia perforata anterior)
+61 Межножковая ямка (fossa interpeduncularis) находится:
+* между ножками мозга (pedunculus cerebri)
+* на вентральной поверхности ствола головного мозга (truncus encephali)
+между верхними мозжечковыми ножками (pedunculus cerebellaris superior)
+на дорзальной поверхности ствола головного мозга (truncus encephali)
+между нижними мозжечковыми ножками (pedunculus cerebellaris inferior)
+62 На вентральной поверхности среднего мозга находятся
+* место выхода глазодвигательного нерва (n.oculomotorius (III))
+* заднее продырявленное вещество (substantia perforata posterior)
+* межножковая ямка (fossa interpeduncularis)
+место выхода блокового нерва (n.trochlearis (IV))
+верхние мозжечковые ножки (pedunculus cerebellaris superior)
+63 Ножки мозга (pedunculus cerebri):
+* относятся к среднему мозгу (mesencephalon)
+* расположены на вентральной поверхности ствола головного мозга (truncus encephali)
+расположены на дорзальной поверхности ствола головного мозга (truncus encephali)
+расположены латеральнее места выхода тройничного нерва (n. trigeminus (V))
+относятся к заднему мозгу (metencephalon)
+64 Структуры среднего мозга (mesencephalon), расположенные на его дорзальной поверхности:
+* пластинка четверохолмия (lamina quadrigemina)
+* верхние холмики (colliculus superior)
+верхние мозжечковые ножки (pedunculus cerebellaris superior)
+ножки мозга (pedunculus cerebri)
+медиальное возвышение (eminentia medialis)
+65 На дорзальной поверхности среднего мозга находятся:
+* ручки верхних холмиков (brachium colliculi superioris)
+* верхние холмики (colliculus superior)
+медиальное возвышение (eminentia medialis)
+место выхода глазодвигательного нерва (n. oculomotorius (III))
+место выхода отводящего нерва (n. abducens (VI))
+66 Ручки верхних холмиков (brachium colliculi superioris):
+* расположены на дорзальной поверхности среднего мозга
+* соединяют верхние холмики с латеральными коленчатыми телами (corpus geniculatum laterale)
+расположены на вентральной поверхности среднего мозга (mesencephalon)
+ограничивают треугольник петли (trigonum lemnisci)
+соединяют верхние холмики с медиальными коленчатыми телами (corpus geniculatum mediale)
+67 Ручки нижних холмиков (brachium colliculi inferioris):
+* ограничивают треугольник петли (trigonum lemnisci)
+* расположены на дорзальной поверхности среднего мозга
+* соединяют нижние холмики с медиальными коленчатыми телами (corpus geniculatum mediale)
+расположены на вентральной поверхности среднего мозга (mesencephalon)
+соединяют нижние холмики с латеральными коленчатыми телами (corpus geniculatum laterale)
+68 Треугольник петли (trigonum lemnisci) ограничен:
+* ручкой нижнего холмика (brachium colliculi inferioris)
+* верхней мозжечковой ножкой (pedunculus cerebellaris superior)
+ручкой верхнего холмика (brachium colliculi superioris)
+нижней мозжечковой ножкой (pedunculus cerebellaris inferior)
+средней мозжечковой ножкой (pedunculus cerebellaris medius)
+69 Ромбовидная ямка (fossa rhomboidea) образована:
+* частью дорзальной поверхности моста (pons)
+* частью дорзальной поверхности продолговатого мозга (medulla oblongata)
+на вентральной поверхности моста (pons)
+на вентральной поверхности продолговатого мозга (medulla oblongata)
+на дорзальной поверхности среднего мозга (mesencephalon)
+70 Ромбовидная ямка (fossa rhomboidea) ограничена:
+* верхними мозжечковыми ножками (pedunculus cerebellaris superior)
+* нижними мозжечковыми ножками (pedunculus cerebellaris inferior)
+ручками нижних холмиков (brachium colliculi inferioris)
+ножками мозга (pedunculus cerebri)
+ручками верхних холмиков (brachium colliculi superioris)
+71 Срединная борозда (sulcus medianus):
+* ограничена по бокам медиальным возвышением (eminentia medialis)
+* образует сторону треугольника подъязычного нерва (trigonum n.hypoglossi)
+ограничена по бокам преддверным полем (area vestibularis)
+образует сторону треугольника блуждающего нерва (trigonum n.vagi)
+является продолжением основной борозды (sulcus basilaris)
+72 Мозговые полоски четвертого желудочка (striae medullares ventriculi quarti) находятся:
+* в ромбовидной ямке (fossa rhomboidea)
+* на дорзальной поверхности ствола головного мозга (truncus encephali)
+на вентральной поверхности ствола головного мозга (truncus encephali)
+в треугольнике петли (trigonum lemnisci)
+в межножковой ямке (fossa interpeduncularis)
+73 Мозговые полоски четвертого желудочка (striae medullares ventriculi quarti):
+* находятся в ромбовидной ямке (fossa rhomboidea)
+* идут от вестибулярного поля (area vestibularis) к срединной борозде (sulcus medianus)
+идут параллельно срединной борозде (sulcus medianus)
+идут от верхнего угла ромбовидной ямки (fossa rhomboidea) к нижнему
+соединяют вестибулярные поля (area vestibularis)
+74 Треугольник подъязычного нерва (trigonum n.hypoglossi):
+* ограничен срединной бороздой (sulcus medianus)
+* является продолжением медиального возвышения (eminentia medialis)
+лежит рядом с медиальным возвышением (eminentia medialis)
+лежит латерально от треугольника блуждающего нерва (trigonum n.vagi)
+находится в латеральном углу ромбовидной ямки (fossa rhomboidea)
+75 Треугольник блуждающего нерва (trigonum n.vagi):
+* лежит рядом со срединным возвышением (eminentia medialis)
+* находится в нижнем углу ромбовидной ямки (fossa rhomboidea)
+ограничен срединной бороздой (sulcus medianus)
+лежит медиально от треугольника подъязычного нерва (trigonum n.hypoglossi)
+является частью медиального возвышения (eminentia medialis)
+76 Чувствительными ядрами черепных нервов являются
+* ядра одиночного пути (nuclei tractus solitarii)
+* спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+двойное ядро (nucleus ambiguus)
+дорзальное ядро блуждающего нерва (nucleus dorsalis n. vagi)
+77 Вегетативными ядрами черепных нервов являются
+* верхнее слюноотделительное ядро (nucleus salivatorius superior)
+* дорзальное ядро блуждающего нерва (nucleus dorsalis n.vagi)
+спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+ядра одиночного пути (nuclei tractus solitarii)
+двойное ядро (nucleus ambiguus)
+78 Двигательными ядрами черепных нервов являются
+* ядро подъязычного нерва (nucleus n. hypoglossi)
+* двойное ядро (nucleus ambiguus)
+спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+ядра одиночного пути (nuclei tractus solitarii)
+дорзальное ядро блуждающего нерва (nucleus dorsalis n.vagi)
+79 Ядрами преддверно-улиткового нерва (n. vestibulocochlearis (VIII)) являются:
+* переднее улитковое ядро (nucleus cochlearis anterior)
+* заднее улитковое ядро (nucleus cochlearis posterior)
+* верхнее преддверное ядро  (nucleus vestibularis superior)
+ядра одиночного пути (nuclei tractus solitarii)
+двойное ядро (nucleus ambiguus)
+80 Ядрами преддверно-улиткового нерва (n. vestibulocochlearis (VIII)) являются:
+* медиальное преддверное ядро (nucleus vestibularis medialis)
+* заднее улитковое ядро (nucleus cochlearis posterior)
+* верхнее преддверное ядро  (nucleus vestibularis superior)
+двойное ядро (nucleus ambiguus)
+ядра одиночного пути (nuclei tractus solitarii)
+81 К ядрам глазодвигательного нерва (n. oculomotorius (III)) относятся:
+* ядро глазодвигательного нерва (nucleus n. oculomotorii)
+* добавочное ядро глазодвигательного нерва (nucleus accessorius n. oculomotorii)
+ядро блокового нерва (nucleus n. trochlearis)
+ядро отводящего нерва (nucleus n. abducentis)
+ядро верхнего холмика (nucleus colliculi superioris)
+82 К чувствительным ядрам тройничного нерва (n. trigeminus (V)) относятся:
+* среднемозговое ядро тройничного нерва (nucleus mesencephalicus n. trigemini)
+* главное ядро тройничного нерва (nucleus principalis n. trigemini)
+* спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+двойное ядро (nucleus ambiguus)
+ядро одиночного пути (nucleus tractus solitarii)
+83 Двигательное ядро глазодвигательного нерва (nucleus n. oculomotorii)
+* расположено в среднем мозге (mesencephalon)
+* находится в центральном сером веществе (substantia grisea centralis)
+* лежит на дне водопровода мозга (aqueductus cerebri)
+* проецируется на уровне верхних холмиков (colliculi superiores)
+является парасимпатическим
+84 Добавочное ядро глазодвигательного нерва (nucleus accessorius n.oculomotorii)
+* является парасимпатическим
+* находится в центральном сером веществе (substantia grisea centralis)
+* лежит на дне водопровода мозга (aqueductus cerebri)
+* проецируется на уровне верхних холмиков (colliculi superiores)
+является двигательным
+85 Ядрами тройничного нерва (n. trigeminus) являются:
+* спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+* главное ядро тройничного нерва (nucleus principalis n. trigemini)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+ядро одиночного пути (nucleus tractus solitarii)
+двойное ядро (nucleus ambiguus)
+86 Ядро отводящего нерва (n. abducens (VI)) проецируется в области:
+* лицевого холмика (colliculus facialis)
+верхнего холмика (colliculus superior)
+нижнего холмика (colliculus inferior)
+клиновидного бугорка (tuberculum cuneatum)
+тонкого бугорка (tuberculum gracile)
+87 Ядрами лицевого нерва (n. facialis (VII)) являются:
+* верхнее слюноотделительное ядро (nucleus salivatorius superior)
+* ядра одиночного пути (nuclei tractus solitarii)
+* ядро лицевого нерва (nucleus nervi facialis)
+улитковые ядра (nuclei cochleares)
+двойное ядро (nucleus ambiguus)
+88 Верхнее слюноотделительное ядро (nucleus salivatorius superior) проецируется в ромбовидной ямке (fossa rhomboidea):
+* латеральнее медиального возвышения (eminentia medialis)
+* выше мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+на медиальном возвышении (eminentia medialis)
+ниже мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+в преддверном поле (area vestibularis)
+89 Ядро лицевого нерва (nucleus nervi facialis) проецируется в ромбовидной ямке (fossa rhomboidea):
+* на лицевом холмике (colliculus facialis)
+на мозговых полосках четвертого желудочка (striae medullares ventriculi quarti)
+в преддверном поле (area vestibularis)
+в верхней ямке (fovea superior)
+в нижней ямке (fovea inferior)
+90 Мозговые полоски четвертого желудочка (striae medullares ventriculi quarti) образованы отростками клеток ядра:
+* преддверно-улиткового нерва (n. vestibulocochlearis (VIII))
+тройничного нерва (n. trigeminus (V))
+отводящего нерва (n. abducens (VI))
+лицевого нерва (n. facialis VII))
+языкоглоточного нерва (n. glossopharyngeus (IX))
+91 Трапециевидное тело образовано отростками клеток ядра:
+* преддверно-улиткового нерва (n. vestibulocochlearis (VIII))
+тройничного нерва (n. trigeminus (V))
+отводящего нерва (n. abducens (VI))
+лицевого нерва (n. facialis VII))
+языкоглоточного нерва (n. glossopharyngeus (IX))
+92 В преддверном поле (area vestibularis) проецируются следующие ядра черепных нервов:
+* улитковые ядра (nuclei cochleares)
+* преддверные ядра (nuclei vestibulares)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+ядра одиночного пути (nuclei tractus solitarii)
+двойное ядро (nucleus ambiguus)
+93 Ядрами преддверно-улиткового нерва (n. vestibulocochlearis (VIII)) являются:
+* улитковые ядра (nuclei cochleares)
+* преддверные ядра (nuclei vestibulares)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+ядра одиночного пути (nuclei tractus solitarii)
+двойное ядро (nucleus ambiguus)
+94 Местом выхода из мозга языкоглоточного нерва (n. glossopharyngeus (IX)) является
+* заднеднебоковая борозда (sulcus posterolateralis)
+передняя срединная щель (fissura mediana anterior)
+переднебоковая борозда (sulcus anterolateralis)
+задняя промежуточная борозда (sulcus intermedius posterior)
+задняя срединная борозда (sulcus medianus posterior)
+95 Ядра одиночного пути (nuclei tractus solitarii) является общим для следующих нервов:
+* лицевого нерва (n. facialis (VII))
+* языкоглоточного нерва (n. glossopharyngeus (IX))
+* блуждающего нерва (n. vagus (X))
+преддверно-улиткового нерва (n. vestibulocochlearis (VIII))
+добавочного нерва (n. accessorius (XI))
+96 Ядра одиночного пути (nuclei tractus solitarii) проецируется в ромбовидной ямке (fossa rhomboidea):
+* латеральнее медиального возвышения (eminentia medialis)
+* ниже мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+на медиальном возвышении (eminentia medialis)
+выше мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+в области преддверия (area vestibularis)
+97 Нижнее слюноотделительное ядро (nucleus salivatorius inferior) проецируется в ромбовидной ямке (fossa rhomboidea):
+* латеральнее медиального возвышения (eminentia medialis)
+* ниже мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+на медиальном возвышении (eminentia medialis)
+выше мозговых полосок четвертого желудочка (striae medullares ventriculi quarti)
+в области преддверия (area vestibularis)
+98 Ядрами языкоглоточного нерва (n. glossopharyngeus (IX)) являются:
+* нижнее слюноотделительное ядро (nucleus salivatorius inferior)
+* ядра одиночного пути (nuclei tractus solitarii)
+* двойное ядро (nucleus ambiguus)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+преддверные ядра (nuclei vestibulares)
+99 Ядрами блуждающего нерва (n. vagus (X)) являются:
+* дорзальное ядро блуждающего нерва (nucleus dorsalis n. vagi)
+* ядра одиночного пути (nuclei tractus solitarii)
+* двойное ядро (nucleus ambiguus)
+нижнее слюноотделительное ядро (nucleus salivatorius inferior)
+преддверные ядра (nuclei vestibulares)
+100 Двойное ядро (nucleus ambiguus) является общим для следующих нервов:
+* языкоглоточный нерв (n. glossopharyngeus(IX))
+* блуждающий нерв (n. vagus(X))
+добавочный нерв (n. accessorius (XI))
+лицевой нерв (n. facialis (VII))
+преддверно-улитковый нерв (n. vestibulocochlearis (VIII))
+101 Местом выхода из мозга блуждающего нерва (n. vagus (X)) является
+передняя срединная щель (fissura mediana anterior)
+переднебоковая борозда (sulcus anterolateralis) 
+* заднеднебоковая борозда (sulcus posterolateralis)
+задняя промежуточная борозда (sulcus intermedius posterior)
+задняя срединная борозда (sulcus medianus posterior)
+102 Ядрами добавочного нерва (n. accessorius (XI)) являются:
+* ядро добавочного нерва (nucleus n. accessorii)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+нижнее слюноотделительное ядро (nucleus salivatorius inferior)
+ядра одиночного пути (nuclei tractus solitarii)
+преддверные ядра (nuclei vestibulares)
+103 Местом выхода из мозга добавочного нерва (n. accessorius (XI)) является
+* заднеднебоковая борозда (sulcus posterolateralis)
+передняя срединная щель (fissura mediana anterior)
+переднебоковая борозда (sulcus anterolateralis)
+задняя промежуточная борозда (sulcus intermedius posterior)
+задняя срединная борозда (sulcus medianus posterior)
+104 Местом выхода из мозга подъязычного нерва (n. hypoglossus (XII)) является
+* переднебоковая борозда (sulcus anterolateralis)
+передняя срединная щель (fissura mediana anterior)
+заднебоковая борозда (sulcus posterolateralis)
+задняя промежуточная борозда (sulcus intermedius posterior)
+задняя срединная борозда (sulcus medianus posterior)
+105 Белое вещество продолговатого мозга (medulla oblongata) представлено:
+* клиновидным пучком (fasciculus cuneatus)
+* наружными дугообразными волокнами (fibrae arcuatae externae)
+ядрами олив (oliva)
+тонким ядром (nucleus gracilis)
+ядрами ретикулярной формацией (formatio reticularis)
+106 Пирамида (pyramis):
+* пучок нервных волокон
+* находится на вентральной поверхности ствола головного мозга (truncus encephali)
+скопление тел нейронов
+находится в глубине продолговатого мозга (medulla oblongata)
+находится на дорзальной поверхности ствола головного мозга (truncus encephali)
+107 К восходящим путям продолговатого мозга (medulla oblongata) относят:
+* тонкий пучок (fasciculus gracilis)
+* спинномозговой путь тройничного нерва (tractus spinalis n.trigeminalis)
+* перекрест медиальных петель (decussatio lemnisci medialis)
+крышеспинномозговой путь (tractus tectospinalis)
+перекрест пирамид (decussatio pyramidum)
+108 К нисходящим путям продолговатого мозга (medulla oblongata) относят:
+* крышеспинномозговой путь (tractus tectospinalis)
+* перекрест пирамид (decussatio pyramidum)
+клиновидный пучок (fasciculus cuneatus)
+спинномозговой путь тройничного нерва (tractus spinalis n.trigeminalis)
+перекрест медиальных петель (decussatio lemnisci medialis)
+109 Пути, лежащие в продолговатом мозге (medulla oblongata) дорзально.
+* медиальный продольный пучок (fasciculus longitudinalis medialis)
+* спинномозговой путь тройничного нерва (tractus spinalis n.trigeminalis)
+* задний спиномозжечковый путь (tractus spinocerebellaris posterior)
+корково-ядерные бульбарные волокна (fibrae corticonucleares bulbi)
+корково-спинномозговые волокна (fibrae corticospinalis)
+110 К ядрам продолговатого мозга (medulla oblongata) относятся:
+* ядра оливы (oliva)
+* ядра ретикулярной формации (formatio reticularis)
+* клиновидное ядро (nucleus cuneatus)
+собственное ядро (nucleus proprius)
+грудное ядро (nucleus thoracicus)
+111 В продолговатом мозге (medulla oblongata) дорзально расположены ядра:
+* нижнее слюноотделительное (nucleus salivatorius inferior)
+* клиновидное ядро (nucleus cuneatus)
+оливы (oliva)
+верхнее слюноотделительное (nucleus salivatorius superior)
+собственное ядро (nucleus proprius)
+112 В продолговатом мозге (medulla oblongata) лежат следующие ядра черепных нервов:
+* дорзальное ядро блуждающего нерва (nucleus dorsalis n.vagi)
+* нижнее слюноотделительное ядро (nucleus salivatorius inferior)
+* вестибулярные ядра (nuclei vestibulares)
+среднемозговое ядро тройничного нерва (nucleus mesencephalicus n.trigemini)
+двигательное ядро лицевого нерва (nucleus nervi facialis)
+113 В продолговатом мозге (medulla oblongata) находятся жизненно важные центры:
+* дыхания
+* кровообращения
+обоняния
+зрения
+терморегуляции
+114 Трапециевидное тело (corpus trapezoideum):
+* состоит из нервных волокон
+* имеет в своем составе ядра
+* образовано волокнами пути слухового анализатора
+* делит мост (pons) на части
+образовано волокнами медиальной петли (lemniscus medialis)
+115 Трапециевидное тело (corpus trapezoideum):
+* делит мост на переднюю и заднюю части
+* содержит ядра
+* входит в состав проводящего пути слухового анализатора
+делит мост на правую и левую половины
+образовано только нервными волокнами
+116 Покрышка моста (tegmentum pontis) лежит:
+* дорзальнее трапециевидного тела (corpus trapezoideum)
+* вентральнее четвертого желудочка (ventriculus quartus)
+дорзальнее медиальной петли (lemniscus medialis)
+дорзальнее четвертого желудочка (ventriculus quartus)
+вентральнее трапециевидного тела (corpus trapezoideum)
+117 Передняя часть моста (pars anterior pontis):
+расположена между четвертым желудочком (ventriculus quartus) и покрышкой (pars tegmentum pontis)
+* отделена от задней части моста (pars posterior pontis) трапециевидным телом (corpus trapezoideum)
+* базилярная часть моста (pars basilaris pontis)
+покрышка моста (tegmentum pontis)
+отделена от задней части полостью четвертого желудочка (ventriculus quartus)
+118 Покрышка моста (tegmentum pontis) отделена от базилярной части (pars basilaris pontis):
+* трапециевидным телом (corpus trapezoideum)
+полостью четвертого желудочка (ventriculus quartus)
+ретикулярной формацией (formatio reticularis)
+верхним и нижним мозговыми парусами (velum medullare superius et inferius)
+перекрестом медиальных петель (decussatio lemnisci medialis)
+119 В передней части моста (pars anterior pontis) находятся:
+* ядра моста (nn.pontis)
+* корково-мостовые волокна (fibrae corticopontinae)
+* корково-ядерные волокна (fibrae corticonucleares pontis)
+главное ядро тройничного нерва (nucleus principalis nervi trigemini)
+ретикулярная формация (formatio reticularis)
+120 Ядра моста (nn.pontis):
+* являются окончанием корково-мостовых волокон (fibrae corticopontinae)
+* лежат в передней части моста (pars anterior pontis)
+лежат в передней и задней частях моста (pars anterior et posterior pontis)
+лежат в задней части моста (pars posterior pontis)
+являются окончанием корково-ядерных волокон (fibrae corticonucleares pontis)
+121 Корково-мостовые волокна (fibrae corticopontinae):
+* лежат в передней части моста (pars anterior pontis)
+* относятся к нисходящим путям
+* направляются к ядрам моста (nuclei pontis)
+относятся к восходящим путям
+лежат в задней части моста (pars posterior pontis)
+122 Белое вещество передней части моста (pars anterior pontis) представлено:
+* корково-мостовыми волокнами (fibrae corticopontinae)
+* корково-ядерными волокнами (fibrae corticonucleares pontis)
+* мостомозжечковыми волокнами (fibrae pontocerebellares)
+ядрами моста (nuclei pontis)
+ретикулярной формацией (formatio reticularis)
+123 В покрышке моста (tegmentum pontis) лежат:
+* ядра черепных нервов
+* волокна восходящих путей
+* ретикулярная формация (formatio reticularis)
+ядра моста (nuclei pontis)
+волокна пирамидных путей
+124 К ядрам покрышки моста (tegmentum pontis) относят:
+* среднемозговое ядро тройничного нерва (nucleus mesencephalicus nervi trigemini)
+* вестибулярные ядра (nuclei vestibulares)
+ядра олив (oliva)
+ядра моста (nuclei pontis)
+двойное ядро (nucleus ambiguus)
+125 Покрышка моста (tegmentum pontis) содержит:
+* ядро лицевого нерва (nucleus n. facialis)
+* спинномозговое ядро тройничного нерва (nucleus spinalis n. trigemini)
+дорзальное ядро блуждающего нерва (nucleus dorsalis n.vagi)
+грудное ядро (nucleus thoracicus)
+ядра моста (nuclei pontis)
+126 В среднем мозге (mesencephalon) выделяют следующие части:
+* крыша среднего мозга (tectum mesencephali)
+* покрышка среднего мозга (tegmentum mesencephali)
+* ножки мозга (pedunculus cerebri)
+водопровод мозга (aqueductus cerebri)
+красное ядро (nucleus ruber)
+127 Крыша среднего мозга (tectum mesencephali) представлена:
+* верхним холмиком (colliculus superior)
+* нижним холмиком (colliculus inferior)
+* ручкой верхнего холмика (brachium colliculi superioris)
+центральным серым веществом (substantia grisea centralis)
+верхней мозжечковой ножкой (pedunculus cerebellaris superior)
+128 Средний мозг (mesencephalon) делится на части:
+* водопроводом мозга (aqueductus cerebri)
+* черным веществом (substantia nigra)
+центральным серым веществом (substantia grisea centralis)
+пластинкой четверохолмия (lamina quadrigemina)
+трапециевидным телом (corpus trapezoideum)
+129 Границей между крышей среднего мозга и покрышкой среднего мозга является:
+* водопровод мозга (aqueductus cerebri)
+черное вещество (substantia nigra)
+пластинка четверохолмия (lamina quadrigemina)
+центральное серое вещество (substantia grisea centralis)
+красное ядро (nucleus ruber)
+130 Черное вещество (substantia nigra) разграничивает:
+* покрышку (tegmentum mesencephali) и основание (basis pedunculi cerebri)
+крышу (tectum mesencephali) и ножки мозга (pedunculus cerebri)
+покрышку (tegmentum) и крышу (tectum mesencephali)
+правую и левую ножки мозга (pedunculi cerebri)
+верхние и нижние холмики четверохолмия (colliculus superior et inferior)
+131 Крыша среднего мозга (tectum mesencephali) представлена:
+* пластинкой четверохолмия (lamina quadrigemina)
+* ручками холмиков четверохолмия (brachium colliculi)
+центральным серым веществом (substantia grisea centralis)
+коленчатыми телами (corpus geniculatum mediale et laterale)
+треугольником петли (trigonum lemnisci lateralis)
+132 Нижние холмики (colliculus inferior):
+* ручками (brachium colliculi inferioris) соединены с медиальными коленчатыми телами (corpus geniculatum mediale)
+* содержат подкорковый центр слуха
+ручками (brachium colliculi inferioris) соединены с латеральными коленчатыми телами (corpus geniculatum laterale)
+содержат подкорковый центр зрения
+относятся к покрышке среднего мозга (tegmentum mesencephalicum)
+133 Верхние холмики (colliculus superior):
+* ручками (brachium colliculi superioris) соединены с латеральными коленчатыми телами (corpus geniculatum laterale)
+* содержат подкорковый центр зрения
+* относятся к крыше среднего мозга (tectum mesencephalicum)
+ручками (brachium colliculi superioris) соединены с медиальными коленчатыми телами (corpus geniculatum mediale)
+содержат подкорковый центр слуха
+134 В крыше среднего мозга (tectum mesencephali) различают:
+* пластинку четверохолмия (lamina quadrigemina)
+* верхние холмики (colliculus superior)
+* нижние холмики (colliculus inferior)
+* ручки холмиков (brachium colliculi inferioris et superioris)
+водопровод мозга (aqueductus cerebri)
+135 Крыша среднего мозга (tectum mesencephali):
+* содержит центры зрения
+* содержит центры слуха
+* является началом нисходящих путей
+содержит центры пирамидной системы
+содержит центры общей чувствительности
+136 Серое вещество покрышки (tegmentum mesencephali) представлено:
+* центральным серым веществом (substantia grisea centralis)
+* красным ядром (nucleus ruber)
+* ретикулярной формацией (formatio reticularis)
+субталамическим ядром (nucleus subthalamicus)
+паравентрикулярным ядром (nucleus paraventricularis)
+137 К ядрам покрышки среднего мозга (tegmentum mesencephali) относят:
+* красное ядро (nucleus ruber)
+* добавочное ядро глазодвигательного нерва (nucleus accessorius n.oculomotorii)
+задние ядра таламуса (nuclei posteriores thalami)
+ядра холмиков (nucleus calliculi superiores et inferiores)
+двойное ядро (nucleus ambiquus)
+138 К центрам экстрапирамидной системы относятся:
+* субталамическое ядро (nucleus subthalamicus)
+* черное вещество (substantia nigra)
+* красное ядро (nucleus ruber)
+добавочное ядро глазодвигательного нерва (nucleus accessorius n.oculomotorii)
+ядро одиночного пути (nucleus tractus solitarii)
+139 Красное ядро (nucleus ruber):
+* находится в покрышке среднего мозга(tegmentum mesencephali)
+* относится к ядрам экстрапирамидной системы
+находится в основании ножек мозга (basis pedunculi cerebri)
+находится на границе основания ножек мозга (basis pedunculi cerebri) и покрышки (tegmentum mesencephali)
+относится к чувствительным ядрам
+140 В среднем мозге (mesencephalon) находятся следующие ядра черепных нервов:
+* добавочное ядро глазодвигательного нерва (nucleus accessorius n.oculomotorii)
+* среднемозговое тройничного нерва (nucleus mesencephalicus n. trigemini)
+верхнее слюноотделительное ядро (nucleus salivatorius superior)
+двигательное ядро тройничного нерва (nucleus motorius n. trigemini)
+красное ядро (nucleus ruber)
+141 В покрышке среднего мозга (tegmentum mesencephali) проходят:
+* медиальный продольный пучок (fasciculus longitudinalis medialis)
+* латеральная петля (lemniscus lateralis)
+* медиальная петля (lemniscus medialis)
+корково-мостовые волокна (fibrae corticopontinae)
+корково-ядерные волокна (fibrae corticonucleares)
+142 Белое вещество покрышки среднего мозга (tegmentum mesencephali) представлено:
+* красноядерно-спинномозговым путем (tractus rubrospinalis)
+* медиальным продольным пучком (fasciculus longitudinalis medialis)
+* медиальной петлей (lemniscus medialis)
+передним спиномозжечковым путем (tractus spinocerebellaris anterior)
+наружними дугообразными волокнами (fibrae arcuatae externae )
+143 В покрышке среднего мозга(tegmentum mesencephali) перекресты (decussationes tegmentales) образуются:
+* крышеспинномозговыми путями (tractus tectospinalis)
+* красноядерно-спинномозговыми путями (tractus rubrospinalis)
+корково-ядерными волокнами (fibrae corticonucleares)
+корково-спинномозговыми волокнами (fibrae corticospinales)
+корково-мостовыми путями (tractus corticopontinus)
+144 Нисходящие пути покрышки среднего мозга (tegmentum mesencephali):
+* красноядерно-спинномозговой путь (tractus rubrospinalis)
+* крышеспинномозговой путь (tractus tectospinalis)
+корково-ядерные волокна (fibrae corticonucleares)
+корково-спинномозговые волокна (fibrae corticospinales)
+передний спинно-мозжечковый путь (tractus spinocerebellaris anterior)
+145 Восходящие пути покрышки среднего мозга (tegmentum mesencephalicum):
+* спиноталамический путь (tractus spinothalamicus)
+* медиальная петля (lemniscus medialis)
+* латеральная петля (lemniscus lateralis)
+передний спинно-мозжечковый путь (tractus spinocerebellaris anterior)
+задний спинно-мозжечковый путь (tractus spinocerebellaris posterior)
+146 В основании ножек мозга (basis pedunculi cerebri) находятся:
+* нисходящие пути
+восходящие пути
+ядра черепных нервов
+ядра экстрапирамидной системы
+ретикулярная формация (formatio reticularis)
+147 В основании ножек мозга проходят пути:
+* корково-ядерные волокна (fibrae corticonucleares)
+* корково-спинномозговые волокна (fibrae corticospinales)
+* корково-мостовой путь (tractus corticopontinus)
+красноядерно-спинномозговой путь (tractus rubrospinalis)
+передний спиномозжечковый (tractus spinocerebellaris anterior)
+148 Мозжечок (cerebellum) является частью:
+* заднего мозга (metencephalon)
+* ромбовидного мозга (rhombencephalon)
+ствола головного мозга (truncus encephali)
+промежуточного мозга (diencephalon)
+среднего мозга (mesencephalon)
+149 На мозжечке (cerebellum) выделяют следующие поверхности:
+* верхняя
+* нижняя
+передняя
+задняя
+латеральные
+150 В мозжечке (cerebellum) выделяют следующие части:
+* червь (vermis)
+* полушария (hemispherium cerebelli)
+мозжечковые ножки (pedunculus cerebellares)
+зубчатое ядро (nucleus dentatus)
+древо жизни (arbor vitae)
+151 Кора мозжечка (cortex cerebelli):
+* образует листки (folia)
+* образует древо (arbor vitae)
+* имеет три слоя
+имеет два слоя
+имеет четыре слоя
+152 Червь (vermis):
+* часть мозжечка
+* включает белое вещество
+* включает серое вещество
+* содержит ядра
+долька мозжечка
+153 Серое вещество мозжечка представлено:
+* корой (cortex cerebelli)
+* зубчатым ядром (nucleus dentatus)
+* ядром шатра (nucleus fastigii)
+ретикулярной формацией (formatio reticularis)
+мостомозжечковыми волокнами (fibrae pontocerebellares)
+154 К серому веществу мозжечка относят:
+* кору (cortex cerebelli)
+* пробковидное ядро (nucleus emboliformis)
+* ядро шатра (nucleus fastigii)
+ретикулярную формацию (formatio reticularis)
+студенистое вещество (substantia gelatinosa)
+155 Ядра мозжечка:
+* лежат в глубине белого вещества мозжечка
+* включают зубчатое ядро (nucleus dentatus)
+участки коры мозжечка (cortex cerebelli)
+включают узелок (nodulus)
+включают клочок (flocculus)
+156 К ядрам мозжечка относят:
+* зубчатое ядро (nucleus dentatus)
+* ядро шатра (nucleus fastigii)
+* пробковидное ядро (nucleus emboliformis)
+* шаровидное ядро (nucleus globosus)
+узелок (nodulus)
+157 Древо жизни (arbor vitae) - это:
+* рисунок белого и серого вещества на сагиттальном срезе мозжечка
+участок коры полушарий мозжечка (hemispherium cerebelli)
+участок коры червя (vermis)
+рисунок серого вещества полушария мозжечка (hemispherium cerebelli)
+ядра мозжечка (nuclei cerebelli)
+158 Филогенетические части мозжечка:
+* старая часть мозжечка (archicerebellum)
+* новая часть мозжечка (neocerebellum)
+* древняя часть мозжечка (paleocerebellum)
+полушария (hemispherium cerebell)i
+червь (vermis)
+159 Старая часть мозжечка (archicerebellum) включает:
+* клочок (flocculus)
+* узелок (nodulus)
+зубчатое ядро (nucleus dentatus)
+часть полушария (hemispherium cerebelli)
+пробковидное ядро (nucleus emboliformis)
+160 Клочок (flocculus) – это:
+* долька полушария мозжечка (hemispherium cerebelli)
+* относится к старой части мозжечка (archicerebellum)
+долька червя (vermis)
+относится к новой части мозжечка (neocerebellum)
+относится к древней части мозжечка (paleocerebellum)
+161 Старая часть мозжечка (archicerebellum) включает:
+* клочок (flocculus)
+* узелок (nodulus)
+* ядро шатра (nucleus fastigii)
+часть полушария (hemispherium cerebelli), прилежащего к червю (vermis)
+пробковидное ядро (nucleus emboliformis)
+162 Структуры мозжечка, входящие в старую часть мозжечка (archicerebellum):
+* клочок (flocculus)
+* узелок (nodulus) 
+полушария мозжечка (hemispherium cerebelli)
+червь (vermis)
+шаровидное ядро (nucleus globosus)
+163 В состав древней части мозжечка (paleocerebellum) входят:
+* червь (vermis)
+клочок (flocculus)
+узелок (nodulus)
+ядро шатра (nucleus fastigii)
+зубчатое ядро (nucleus dentatus)
+164 Древняя часть мозжечка (paleocerebellum) включает:
+* червь (vermis)
+* пробковидное ядро (nucleus emboliformis)
+полушария (hemispherium cerebelli)
+клочок (flocculus)
+узелок (nodulus)
+165 Новая часть мозжечка (neocerebellum) включает:
+* зубчатое ядро (nucleus dentatus)
+червь (vermis)
+узелок (nodulus)
+шаровидное ядро (Nucleus globosus)
+пробковидное ядро (nucleus emboliformis)
+166 В состав нового мозжечка (neocerebellum) входят:
+* зубчатое ядро (nucleus dentatus)
+* полушария мозжечка (hemispherium cerebelli)
+олива (oliva)
+червь (vermis)
+клочок (flocculus)
+167 Нижние мозжечковые ножки (pedunculus cerebellaris inferior):
+* состоят из белого вещества
+* идут к продолговатому мозгу (medulla oblongata)
+состоят из серого вещества
+состоят из белого и серого вещества
+идут от спинного мозга (medulla spinalis)
+168 Нижние мозжечковые ножки (pedunculus cerebellaris inferior):
+* соединяют мозжечок с продолговатым мозгом (medulla oblongata)
+* содержат задний спиномозжечковый путь (tractus spinocerebellaris posterior)
+* содержат преддверномозжечковый путь (tr.vestibulocerebellaris)
+соединяют мозжечок (cerebellum) с мостом (pons)
+содержат мостомозжечковые волокна (fibrae pontocerebellares)
+169 Средние мозжечковые ножки (pedunculus cerebellaris medius):
+* идут к мосту (pons)
+* содержат мостомозжечковые волокна (fibrae pontocerebellares)
+содержат и ядра и волокна
+направляются к среднему мозгу (mesencephalon)
+содержат передний спиномозжечковый путь (tractus spinocerebellaris anterior)
+170 Средние мозжечковые ножки (pedunculus cerebellaris medius):
+* расположены латерально от моста (pons)
+* образованы волокнами, идущими от передней части моста (pars anterior pontis)
+* образованы волокнами, идущими от ядер моста (nuclei pontis)
+находятся латерально от продолговатого мозга (medulla oblongata)
+образованы волокнами, идущими от задней части моста (pars posterior pontis)
+171 Верхние мозжечковые ножки (pedunculus cerebellaris superior):
+* соединяют мозжечок (cerebellum) со средним мозгом (mesencephalon)
+* содержат передний спиномозжечковый путь (tr.spinocerebellaris anterior)
+соединяют мозжечок (cerebellum) с мостом (pons)
+соединяют мозжечок (cerebellum) с промежуточным мозгом (diencephalon)
+содержат мостомозжечковые волокна (fibrae pontocerebellares)
+172 Верхние мозжечковые ножки (pedunculus cerebellaris superior):
+* ограничивают ромбовидную ямку (Fossa rhomboidea)
+* идут к среднему мозгу (mesencephalon)
+* содержат передний спиномозжечковый путь (tr.spinocerebellaris anterior)
+содержит пути, идущие только из мозжечка
+содержит пути, идущие только в мозжечок
+173 Четвертый желудочек (ventriculus quartus) является полостью:
+* ромбовидного мозга (rhombencephalon)
+моста (pons)
+всего ствола головного мозга (truncus encephali)
+только заднего мозга (metencephalon)
+промежуточного мозга (diencephalon)
+174 Четвертый желудочек (ventriculus quartus) ограничивают:
+* ромбовидная ямка (fossa rhomboidea)
+* верхний мозговой парус (velum medullare superius)
+* нижний мозговой парус (velum medullare inferius)
+* вещество мозжечка (cerebellum)
+средние мозжечковые ножки (pedunculus cerebellaris medius)
+175 Четвертый желудочек (ventriculus quartus) имеет:
+* дно
+* крышу
+боковые стенки
+переднюю стенку
+заднюю стенку
+176 Срединная апертура (apertura mediana) это:
+* сообщение четвертого желудочка (ventriculus quartus) с подпаутинным пространством (spatium subarachnoideum)
+* отверстие Мажанди (Magendi)
+сообщение четвертого желудочка (ventriculus quartus) с центральным каналом (canalis centralis)
+сообщение четвертого желудочка (ventriculus quartus) с субдуральным пространством (spatium subduralis)
+отверстие Люшка (Luschka)
+177 Латеральная апертура (apertura lateralis) это:
+* сообщение четвертого желудочка (ventriculus quartus) с подпаутинным пространством (spatium subarachnoideum)
+* отверстие Люшка (Luschka)
+сообщение четвертого желудочка (ventriculus quartus) с субдуральным пространством (spatium subduralis)
+сообщение четвертого желудочка (ventriculus quartus) с центральным каналом (canalis centralis)
+отверстие Мажанди (Magendi)
+178 Части промежуточного мозга (diencephalon):
+* таламус (thalamus)
+* гипоталамус (hypothalamus)
+передняя (anterior)
+задняя (posterior)
+латеральная(lateralis)
+179 Промежуточный мозг (diencephalon) включает:
+* таламус (thalamus)
+* метаталамус (metathalamus)
+* эпиталамус (epithalamus)
+* гипоталамус (hypothalamus)
+четвертый желудочек (ventriculus quartus)
+180 Границы промежуточного мозга (diencephalon) образованы:
+* зрительными трактами (tractus opticus)
+* зрительным перекрестом (chiasma opticum)
+* сосцевидными телами (corpus mamillare)
+зрительными нервами (nervus opticus)
+коленчатыми телами (corpus geniculatum)
+181 Промежуточный мозг (diencephalon):
+* имеет полость - третий желудочек (ventriculus tertius)
+* является частью переднего мозга (prosencephalon)
+является частью ствола головного мозга (truncus encephali)
+является частью конечного мозга (telencephalon)
+является частью заднего мозга (metencephalon)
+182 Граница между промежуточным мозгом (diencephalon) и конечным (telencephalon) проходит по:
+* зрительному перекресту (chiasma opticum)
+* зрительным трактам (tractus opticus)
+сосцевидным телам (corpus mamillare)
+заднему продырявленному веществу (substantia perforata posterior)
+зрительным нервам (nervus opticus)
+183 Граница между промежуточным мозгом (diencephalon) и средним (mesencephalon) проходит по:
+* сосцевидным телам (corpus mamillare)
+* заднему продырявленному веществу (substantia perforata posterior)
+мозговым полоскам (striae medullares)
+пограничной линии (linea terminalis)
+зрительному перекресту (chiasma opticum)
+184 Элементы внешнего строения зрительного бугра (thalamus):
+* подушка таламуса (pulvinar thalami)
+* межталамическое сращение (adhesio interthalamica)
+* передний бугорок (tuberculum anterius)
+шишковидное тело (corpus pineale)
+зрительный перекрест(chiasma opticum)
+185 В состав эпиталамуса (epithalamus) входят:
+* поводки (habenula)
+* шишковидное тело (corpus pineale)
+* спайка поводков (commissura habenularum)
+* треугольник поводков (trigonum habenulae)
+коленчатые тела (corpus geniculatum)
+186 К эпиталамусу (epithalamus) относят:
+* треугольник поводков (trigonum habenulae)
+* спайку поводков (commissura habenularum)
+* шишковидное тело (corpus pineale)
+треугольник петли (trigonum lemnisci)
+серый бугор (tuber cinereum)
+187 К метаталамусу (metathalamus) относят:
+* коленчатые тела (corpus geniculatum laterale et mediale)
+подушку таламуса (pulvinar thalami)
+поводки (habenula)
+воронку (infundibulum)
+ручки холмиков (brachium colliculi)
+188 Метаталамус (metathalamus):
+* включает коленчатые тела (corpus geniculatum)
+* является подкорковым центром слуха
+* связан ручками (brachium colliculi) с крышей среднего мозга (tectum mesencephalicum)
+является подкорковым центром общей чувствительности
+связан ножками (pedunculus cerebellaris superior) с мозжечком
+189 Субталамус (subthalamus) включает:
+* субталамическое ядро (nucleus subthalamicus)
+поводки (habenula)
+центральное серое вещество (substantia grisea centralis)
+красное ядро (nucleus ruber)
+сосцевидные тела (corpus mamillare)
+190 К гипоталамусу (hypothalamus) относят:
+* зрительный перекрест (chiasma opticum)
+* воронку (infundibulum)
+* зрительные тракты (tractus opticus)
+зрительный нерв (nervus opticus)
+коленчатые тела (corpus geniculatum)
+191 Гипоталамус (hypothalamus):
+* образует стенку третьего желудочка (ventriculus tertius)
+* образован и серым и белым веществом
+* включает серый бугор (tuber cinereum), воронку (infundibulum), сосцевидные тела (corpus mamillare)
+образован только серым веществом
+включает зрительные бугор (thalamus), нерв (nervus opticus)
+192 Передняя область гипоталамуса (area hypothalamica rostralis):
+* соответствует зрительному перекресту (chiasma opticum)
+* содержит паравентрикулярные ядра гипоталамуса (nucleus paraventricularis hypothalami)
+соответствует серому бугру (tuber cinereum)
+соответствует сосцевидным телам (corpus mamillare)
+содержит дугообразное ядро (nucleus arcuatus)
+193 Ядра передней области гипоталамуса (area hypothalamica rostralis):
+* супраоптическое ядро (nucleus supraopticus)
+* паравентрикулярное ядро гипоталамуса (nucleus paraventricularis hypothalami)
+* вырабатывают нейросекрет
+содержит дугообразное ядро (nucleus arcuatus)
+являются окончанием столбов свода (columna fornicis)
+194 Промежуточная область гипоталамуса (area hypothalamica intermedia):
+* соответствует серому бугру (tuber cinereum)
+* содержит дугообразное ядро (nucleus arcuatus)
+соответствует зрительному перекресту (chiasma opticum)
+соответствует сосцевидным телам (corpus mamillare)
+содержит паравентрикулярные ядра (nucleus paraventricularis)
+195 Ядра промежуточной области гипоталамуса (area hypothalamica intermedia):
+* дугообразное ядро (nucleus arcuatus)
+* вентромедиальное ядро гипоталамуса (nucleus ventromedialis hypothalami)
+* вырабатывают либерины и статины
+паравентрикулярное ядро гипоталамуса (nucleus paraventricularis hypothalami)
+вырабатывают гормоны задней доли гипофиза
+196 Задняя область гипоталамуса (area hypothalamica posterior):
+* соответствует сосцевидным телам (corpus mamillare)
+соответствует коленчатым телам (corpus geniculatum)
+соответствует серому бугру (tuber cinereum)
+соответствует ножкам мозга (pedunculus cerebri)
+имеет прямую связь с гипофизом (hypophysis)
+197 Ядра задней области гипоталамуса(area hypothalamica posterior):
+* сосцевидные (nucleus mammilaris medialis et lateralis)
+* на них заканчиваются столбы свода (columna fornicis)
+паравентрикулярное ядро (nucleus paraventricularis)
+вентромедиальное ядро гипоталамуса (nucleus ventromedialis hypothalami)
+имеют связи с гипофизом (hypophysis)
+198 Третий желудочек (ventriculus tertius):
+* является полостью промежуточного мозга (diencephalon)
+* имеет сосудистое сплетение (plexus chorioideus)
+* содержит спинномозговую жидкость (liquor cerebrospinalis)
+является полостью среднего мозга (mesencephalon)
+имеет пять стенок
+199 Верхняя стенка третьего желудочка (ventriculus tertius) образована
+* сосудистым сплетением (plexus chorioideus)
+веществом конечного мозга
+эпиталамусом (epithalamus)
+сводом (fornix)
+верхней поверхностью таламусов (thalamus)
+200 Нижняя стенка третьего желудочка (ventriculus tertius):
+* образована гипоталамусом (hypothalamus)
+* имеет два углубления
+образована сводом (fornix)
+имеет три углубления
+имеет одно углубление
+201 Задняя стенка третьего желудочка (ventriculus tertius):
+* образована эпиталамусом (epithalamus)
+* имеет одно углубление
+* имеет вход в водопровод мозга (aqueductus cerebri)
+образована метаталамусом (metathalamus)
+имеет два углубления
+202 Передняя стенка третьего желудочка (ventriculus tertius):
+* образована столбами свода
+* образована терминальной пластинкой (lamina terminalis)
+* имеет два межжелудочковых отверстий (foramen interventriculare)
+образована сосудистым сплетением (plexus chorioideus)
+имеет одно межжелудочковое отверстие (foramen interventriculare)
+203 Между корой островка (insula) и оградой (claustrum) расположена:
+* самая наружная капсула (capsula extrema)
+наружная капсула (capsula externa)
+внутренняя капсула (capsula interna)
+скорлупа (putamen)
+терминальная пластинка (lamina terminalis)
+204 Между оградой (claustrum) и чечевицеобразным ядром (nucleus lentiformis) расположена:
+самая наружная капсула (capsula extrema)
+* наружная капсула (capsula externa)
+внутренняя капсула (capsula interna)
+скорлупа (putamen)
+терминальная пластинка (lamina terminalis)
+205 Чечевицеобразное ядро (nucleus lentiformis) от хвостатого ядра (nucleus caudatus) и таламуса (thalamus) отделяет:
+* внутренняя капсула (capsula interna)
+самая наружная капсула (capsula extrema)
+наружная капсула (capsula externa)
+скорлупа (putamen)
+терминальная пластинка (lamina terminalis)
+206 В состав полосатого тела (striatum) входят анатомические образования:
+* хвостатое ядро (nucleus caudatus)
+* чечевицеобразное ядро (nucleus lentiformis)
+сводчатая извилина (gyrus fornicates)
+ограда (claustrum)
+гиппокамп (hippocampus)
+207 Хвостатому ядру (nucleus caudatus) принадлежат анатомические образования:
+* головка (caput)
+* тело (corpus)
+* хвост (cauda)
+ствол (truncus)
+клюв (rostrum)
+208 Стриопаллидарная система включает анатомические образования:
+* хвостатое ядро (nucleus caudatus)
+* скорлупа (putamen)
+* бледный шар (globus pallidus)
+ограда (claustrum)
+гиппокамп (hippocampus)
+209 Компонентами боковых желудочков (ventriculus lateralis) являются:
+* центральная часть (pars centralis)
+* передний рог (cornu anterius)
+* задний рог (cornu posterius)
+* нижний рог (cornu inferius)
+верхний рог (cornu superius)
+210 Передний рог (cornu anterius) боковых желудочков расположен в доле:
+* лобной (lobus frontalis)
+теменной (lobus parietalis)
+височной (lobus temporalis)
+затылочной (lobus occipitalis)
+островковой (insula)
+211 Задний рог (cornu posterius) боковых желудочков расположен в доле:
+* затылочной (lobus occipitalis)
+лобной (lobus frontalis)
+теменной (lobus parietalis)
+височной (lobus temporalis)
+островковой (insula)
+212 Нижний рог (cornu inferius) боковых желудочков расположен в доле:
+* височной (lobus temporalis)
+лобной (lobus frontalis)
+теменной (lobus parietalis)
+затылочной (lobus occipitalis)
+островковой (insula)
+213 Боковые желудочки сообщаются с III желудочком через:
+* межжелудочковое отверстие (foramen interventriculare)
+срединное отверстие (apertura mediana)
+боковое отверстие (apertura lateralis)
+водопровод мозга (aqueductus cerebri)
+подпаутинное пространство (spatium subarachnoideum)
+214 4-ый желудочек с подпаутинным пространством (сavitas subarachnoidalis) сообщается через
+* срединную апертуру (apertura mediana)
+* латеральные апертуры (apertura lateralis)
+центральный канал (canalis centralis)
+межжелудочковое отверстие (foramen interventriculare)
+водопровод мозга (aqueductus cerebri)
+215 Конечный мозг (telencephalon) является производным:
+* переднего мозга (prosencephalon)
+ромбовидного мозга (rhombencephalon)
+среднего мозга (mesencephalon)
+заднего мозга (metencephalon)
+промежуточного мозга (diencephalon)
+216 Большой мозг (cerebrum) разделяет на правое и левое полушария (hemispherium cerebri):
+* продольная щель мозга (fissura longitudinalis cerebri)
+поперечная щель мозга (fissura transversa cerebri)
+центральная борозда (sulcus centralis)
+парагиппокампальная извилина (gyrus parahippocampalis)
+сводчатая извилина (gyrus fornicatus)
+217 Полушария большого мозга (hemispherium cerebri) отделены от мозжечка:
+* поперечной щелью мозга (fissura transversa cerebri)
+продольной щелью мозга (fissura longitudinalis cerebri)
+центральной бороздой (sulcus centralis)
+парагиппокампальной извилиой (gyrus parahippocampalis)
+сводчатой извилиной (gyrus fornicatus)
+218 Углубления на поверхностях полушарий большого мозга – это:
+* борозды (sulci cerebri)
+извилины (gyri cerebri)
+вырезки (incissurae)
+ямки (fossae)
+полоски (striae)
+219 Возвышения на поверхностях полушарий большого мозга – это:
+* извилины (gyri cerebri)
+вырезки (incissurae)
+борозды (sulci cerebri)
+ямки (fossae)
+полоски (striae)
+220 Каждое полушарие большого мозга включает:
+* плащ (pallium)
+* базальные ядра (nuclei basales)
+* обонятельный мозг (rhinencephalon)
+черное вещество (substantia nigra)
+серый бугор (tuber cinereum)
+221 Полушария большого мозга (hemispherium cerebri) соединены между собой с помощью:
+* мозолистого тела (corpus callosum)
+* спайки свода (comissura fornicis)
+* передней спайки (comissura anterior)
+перешейка (isthmus)
+моста (pons)
+222 Височную долю (lobus temporalis) от лобной (lobus frontalis) и теменной долей (lobus parietalis) отделяет:
+* латеральная (сильвиева) борозда (sulcus lateralis)
+центральная (роландова) борозда (sulcus centralis)
+теменно-затылочная борозда (sulcus parietooccipitalis)
+верхняя височная борозда (sulcus temporalis superior)
+нижняя лобная извилина (sulcus frontalis inferior)
+223 Лобную долю (lobus frontalis) отделяет от теменной (lobus parietalis):
+* центральная (роландова) борозда (sulcus centralis)
+латеральная (сильвиева) борозда (sulcus lateralis)
+теменно-затылочная борозда (sulcus parietooccipitalis)
+верхняя височная борозда (sulcus temporalis superior)
+нижняя лобная извилина (sulcus frontalis inferior)
+224 Теменную долю (lobus parietalis) от затылочной (lobus occipitalis) отделяет:
+* теменно-затылочная борозда (sulcus parietooccipitalis)
+латеральная (сильвиева) борозда (sulcus lateralis)
+центральная (роландова) борозда (sulcus centralis)
+верхняя височная борозда (sulcus temporalis superior)
+нижняя лобная извилина (sulcus frontalis inferior)
+225 У каждого полушария большого мозга (hemispherium cerebri) имеются поверхности:
+* верхнелатеральная поверхность (facies superolateralis hemispherii cerebri)
+* медиальная поверхность (facies medialis hemispherii cerebri)
+* нижняя поверхность (facies inferior hemispherii cerebri)
+ушковидная поверхность (facies auricularis)
+глазничная поверхность (facies orbitalis)
+226 К серому веществу полушарий большого мозга относится:
+* кора большого мозга (cortex cerebri)
+* базальные ядра (nuclei basales)
+мозолистое тело (corpus callosum)
+внутренняя капсула (capsula interna)
+ограда (claustrum)
+227 К белому веществу полушарий большого мозга относится:
+* мозолистое тело (corpus callosum)
+* свод (fornix)
+* внутренняя капсула (capsula interna)
+миндалевидное тело (corpus amygdaloideum)
+клин (cuneus)
+228 Полость конечного мозга – это:
+* левый боковой желудочек (ventriculus lateralis sinister)
+* правый боковой желудочек (ventriculus lateralis dexster)
+IV желудочек (ventriculus quartus)
+III желудочек (ventriculus tertius)
+водопровод мозга (aqueductus cerebri)
+229 Скопления серого вещества в толще белого вещества полушарий большого мозга – это:
+* базальные ядра (nuclei basales)
+борозды (sulci cerebri)
+извилины (gyri cerebri)
+черное вещество (substantia nigra)
+червь (vermis)
+230 На верхнелатеральной поверхности каждого полушария имеются извилины:
+* предцентральная извилина (g. precentralis)
+* постцентральная извилина (g. postcentralis)
+* угловая извилина (g. angularis)
+* надкраевая извилина (g. supramarginalis)
+сводчатая извилина (g. fornicatus)
+231 На медиальной поверхности каждого полушария имеются борозды:
+* гиппокампальная борозда (s. hippocampalis)
+* поясная борозда (s. cinguli)
+* шпорная борозда (s. calcarinus)
+нижняя височная борозда (s. temporalis inferior)
+постцентральная борозда (s. postcentralis)
+232 На нижней поверхности каждого полушария имеются борозды:
+* обонятельная борозда (s. olfactorius)
+* глазничные борозды (sulci orbitales)
+верхняя предцентральная борозда (s. precentralis superior)
+шпорная борозда (s. calcarinus)
+поясная борозда (s. cinguli)
+233 На нижней поверхности каждого полушария имеются извилины:
+* глазничные извилины (g. orbitales)
+* прямая извилина (g. rectus)
+язычная извилина (g. ligualis)
+нижняя височная извилина (g. temporalis inferior)
+сводчатая извилина (g. fornicatus)
+234 В теменной доле (lobus temporalis) каждого полушария имеются извилины:
+* постцентральная извилина (g. postcentralis)
+* надкраевая извилина (g. supramarginalis)
+* угловая извилина (g. angularis)
+предцентральная извилина (g. precentralis)
+прямая извилина (g. rectus)
+235 С филогенетических позиций выделяют кору:
+* древнюю
+* старую
+* новую
+древнейшую
+новейшую
+236 К слоям новой коры (neocortex) относится:
+* молекулярная пластинка (lamina molecularis)
+* наружная зернистая пластинка (lamina granularis externa)
+* наружная пирамидная пластинка (lamina pyramidalis externa)
+* внутренняя зернистая пластинка (lamina granularis interna)
+горизонтальная пластинка (lamina horizontalis)
+237 Слой коры, в котором расположены большие пирамидные клетки Беца, дающие начало корково-спинномозговому пути – это:
+* внутренняя пирамидная пластинка (lamina pyramidalis interna)
+наружная зернистая пластинка (lamina granularis externa)
+наружная пирамидная пластинка (lamina pyramidalis externa)
+внутренняя зернистая пластинка (lamina granularis interna)
+мультиформная пластинка (lamina multiformis)
+238 Моторные зоны коры находится в:
+* предцентральной извилине (gyrus precentralis)
+* парацентральной дольке (lobules paracentralis)
+постцентральной извилине (gyrus postcentralis)
+верхней височной извилине (gyrus temporalis superior)
+парагиппокампальной извилине (gyrus parahippocampalis)
+239 Кора затылочной доли (lobus occipitalis) содержит центры:
+* зрения
+* зрительной памяти
+слуха
+произвольных движений
+моторный центр речи
+240 В коре лобной доли (lobus frontalis) находится:
+* центры двигательных функций
+* моторный речевой центр (центр Брока)
+* двигательный анализатор письменной речи и других знаков
+слуховой центр речи (центр Вернике)
+зрительный анализатор письменной речи (центр Дежерина)
+241 Кора височной доли (lobus temporalis) содержит корковые представительства анализаторов:
+* слухового
+* вкусового
+* обонятельного
+* вестибулярного
+зрительного
+242 Кора теменной доли (lobus parietalis) содержит проекционный центр чувствительности:
+* тактильной
+* болевой
+* температурной
+* сознательной проприоцептивной
+вкусовой
+243 В состав коркового представительства обонятельного анализатора входят:
+* гиппокамп (hippocampus)
+* крючок (uncus)
+* зубчатая извилина (gyrus dentatus)
+черное вещество (substantia nigra)
+* сводчатая извилина (g. fornicatus)
+244 Лимбическая система включает анатомические структуры:
+* гиппокамп (hippocampus)
+* крючок (uncus)
+* зубчатая извилина (g. dentatus)
+пробковидное ядро (nucleus emboliformis)
+*миндалевидное тело (corpus amygdaloideum)
+245 Лимбическая система выполняет функции:
+* формирования эмоций
+* формирования мотиваций, связанных с удовлетворением первичных потребностей (голод, жажда, сексуальное влечение)
+* запоминания и долговременной памяти
+* регуляции циклов сна и бодрствования
+непосредственной регуляции сложных целенаправленных действий
+246 Нервные волокна, соединяющие между собой участки коры правого и левого полушарий, - это волокна:
+* комиссуральные
+ассоциативные
+проекционные
+нисходящие двигательные
+восходящие чувствительные
+247 Нервные волокна, соединяющие между собой различные функциональные участки коры одного полушария, - это волокна:
+* ассоциативные
+комиссуральные
+проекционные
+нисходящие двигательные
+восходящие чувствительные
+248 Восходящие и нисходящие нервные волокна, соединяющие проекционные центры коры полушарий с ядрами серого вещества головного и спинного мозга, - это волокна:
+* проекционные
+комиссуральные
+ассоциативные
+нисходящие двигательные
+восходящие чувствительные
+249 Комиссуральные волокна образуют:
+* мозолистое тело (corpus callosum)
+* переднюю спайку (commissura anterior)
+* спайку свода (commissura fornicis)
+внутреннюю капсулу (capsula interna)
+наружную капсулу (capsula externa)
+250 Комиссуральные волокна, связывающие структуры, относящиеся к обонятельному анализатору, образуют анатомические структуры:
+* переднюю спайку (commissura anterior)
+* спайку свода (commissura fornicis)
+мозолистое тело (corpus callosum)
+заднюю спайку (commissura posterior)
+самую наружную капсулу (capsula extrema)
+251 Волокна передней спайки (commissura anterior) соединяют кору правого и левого полушарий:
+* крючка (uncus)
+* парагиппокампальных извилин (g. parahippocampalis)
+предцентральных извилин (g. precentralis)
+постцентральных извилин (g. postcentralis)
+верхних затылочных извилин (g. occipitals superiores)
+252 Экстероцептивные проводящие пути проводят импульсы от рецепторов:
+* болевых
+* температурных
+* тактильных
+регистрирующих степень растяжения мышц
+регистрирующих степень растяжения связок
+253 Проприоцептивные проводящие пути проводят импульсы от рецепторов:
+* регистрирующих степень растяжения мышц
+* регистрирующих степень растяжения связок
+болевых
+температурных
+тактильных
+254 Второй нейрон латерального спиноталамического пути (tr. spinothalamicus lateralis) находится в:
+* задних рогах (cornu posterius) спинного мозга 
+спинномозговом узле (ganglion spinale)
+передних рогах (cornu anterius) спинного мозга
+боковых рогах (cornu laterale) спинного мозга
+таламусе (thalamus)
+255
+Второй нейрон переднего спиноталамического пути (tr. spinothalamicus anterior) находится в:
+* задних рогах (cornu posterius) спинного мозга
+спинномозговом узле (ganglion spinale)
+передних рогах (cornu anterius) спинного мозга
+боковых рогах (cornu laterale) спинного мозга
+таламусе (thalamus)
+256 Медиальный бульботаламический путь (tractus bulbothalamicus medialis) несет чувствительную информацию от:
+* нижних конечностей
+* нижней половины туловища
+головы
+верхних конечностей
+верхней половины туловища
+257 Латеральный бульботаламический путь (tractus bulbothalamicus lateralis) несет чувствительную информацию от:
+* верхних конечностей
+* верхней половины туловища
+головы
+нижних конечностей
+нижней половины туловища
+258 Передний и задний спиноталамический пути, объединяясь, образуют:
+* спинномозговую петлю (lemniscus spinalis)
+медиальную петлю (lemniscus medialis)
+латеральную петлю (lemniscus lateralis)
+тройничную петлю (lemniscus trigeminalis)
+медиальный продольный пучок (fasciculus longitudinalis medialis)
+259 Второй нейрон бульботаламического пути расположены в:
+* тонком ядре (nucleus gracilis) продолговатого мозга
+* клиновидном ядре (nucleus cuneatus) продолговатого мозга
+ядрах передних рогов (cornu anterius) спинного мозга
+ядрах задних рогов (cornu posterius) спинного мозга
+ядрах моста (nuclei pontis)
+260 Внутренние дугообразные волокна (fibrae arcuatae internae) формируют:
+* медиальную петлю (lemniscus medialis)
+латеральную петлю (lemniscus lateralis)
+тройничную петлю (lemniscus trigeminalis)
+медиальный продольный пучок (fasciculus longitudinalis medialis)
+спинномозговую петлю (lemniscus spinalis)
+261 Тройнично-таламический путь (tr. trigeminothalamicus) проводит импульсы от:
+* экстерорецепторов кожи лица
+* проприорецепторов мимических и жевательных мышц лица
+экстерорецепторов кожи
+проприорецепторов мышц верхних конечностей
+проприорецепторов мышц нижних конечностей
+262 Только бессознательную проприоцептивную чувствительность проводят:
+* передний спинномозжечковый путь (tr. spinothalamicus anterior)
+* задний спинномозжечковый путь (tr. spinocerebellaris posterior)
+передний спинноталамический путь (tr. spinothalamicus anterior)
+латеральный спинноталамический путь (tr. spinothalamicus lateralis )
+тройнично-таламический путь (tr. trigeminothalamicus)
+263 Нервные импульсы, обеспечивающие сознательные (произвольные) движения, проводят пути:
+* экстрапирамидные
+* пирамидные
+экстероцептивные
+проприоцептивные
+интероцептивные
+264 К пирамидным относятся пути:
+* передний корково-спинномозговой (tr. corticospinalis anterior) 
+* латеральный корково-спинномозговой (tr. corticospinalis lateralis)
+* корково-ядерный (tr. corticonuclearis)
+красноядерно-спинномозговой (tr. rubrospinalis)
+ретикулярно-спинномозговой (tr. reticulospinalis)
+265 Первый нейрон переднего корково-спинномозгового пути располагается в коре извилины:
+* предцентральной (g. precentralis)
+постцентральной (g. postcentralis)
+верхней лобной (g. frontalis superior)
+нижней лобной (g. frontalis inferior)
+верхней височной (g. temporalis superior)
+266 Второй нейрон латерального корково-спинномозгового пути (tr. corticospinalis lateralis) может располагаться в спинном мозге в:
+* передних рогах (cornu anterius)
+* промежуточной зоне
+задних рогах (cornu posterius)
+задних канатиках (funiculus posterior)
+передних канатиках (funiculus anterior)
+267 От больших пирамидных клеток Беца начинаются пути:
+* передний корково-спинномозговой (tr. corticospinalis anterior)
+* латеральный корково-спинномозговой (tr. corticospinalis lateralis)
+* корково-ядерный (tr. corticonuclearis)
+красноядерно-спинномозговой (tr. rubrospinalis)
+преддверно-спинномозговой (tr. vestibulospinalis)
+268 Корково-ядерный путь (tr. corticonuclearis) может заканчиваться на:
+* двигательных ядрах черепных нервов
+двигательных ядрах передних рогов спинного мозга
+чувствительных ядрах задних рогов спинного мозга
+чувствительных ядрах черепных нервов
+парасимпатических ядрах черепных нервов
+269 Экстрапирамидная система осуществляет свое влияние через следующие пути:
+* красноядерно-спинномозговой (tr. rubrospinalis)
+* крыше-спинномозговой (tr. tectospinalis)
+* ретикулярно-спинномозговой (tr. reticulospinalis)
+корково-спинномозговой (tr. corticospinalis)
+корково-ядерный (tr. corticonuclearis)
+270 К ассоциативным волокнам относятся:
+* верхний продольный пучок (fasciculus longitudinalis superior)
+* нижний продольный пучок (fasciculus longitudinalis inferior)
+* лобно-затылочный пучок (fasciculus frontooccipitalis)
+* крючковидный пучок (fasciculus uncinatus)
+медиальный продольный пучок (fasciculus longitudinalis medialis)
