@@ -1523,8 +1523,7 @@ III желудочек (ventriculus tertius)
 передних рогах (cornu anterius) спинного мозга
 боковых рогах (cornu laterale) спинного мозга
 таламусе (thalamus)
-255
-Второй нейрон переднего спиноталамического пути (tr. spinothalamicus anterior) находится в:
+255 Второй нейрон переднего спиноталамического пути (tr. spinothalamicus anterior) находится в:
 * задних рогах (cornu posterius) спинного мозга
 спинномозговом узле (ganglion spinale)
 передних рогах (cornu anterius) спинного мозга
