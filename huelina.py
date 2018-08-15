@@ -3,14 +3,15 @@
 
 from question import Question
 import bgcolors as bg
-import re
 from random import shuffle
 
 print(bg.OKBLUE)  # Color background text in blue
-print("Добро пожаловать в Хуелина 0.2-альфа")
-print("")
-print("Введите имя файла с тестами (по умолчанию anat.txt)")
-print("Используйте файлы anatN-ansi.txt на windows и anatN-utf8 на других OS")
+
+print(
+"Добро пожаловать в Хуелина 0.2-альфа\n \
+\nВведите имя файла с тестами (по умолчанию anat.txt) \
+\nИспользуйте файлы anatN-ansi.txt на windows и anatN-utf8 на других OS")
+
 file = input()
 print("")
 
@@ -22,17 +23,13 @@ mistakes = set()
 
 
 def load_questions(filepath):
-    q_pattern = r"\d"
-    c_pattern = r"\*"
-    h_pattern = r"\#"
-
     with open(filepath) as f:
         for line in f.readlines():
-            if re.match(q_pattern, line) != None:
+            if line[0].isnumeric():
                 questions.append(Question(line))
-            elif re.match(c_pattern, line) != None:
+            elif line[0] == "*":
                 questions[-1].add_correct(line[2:len(line) - 1])
-            elif re.match(h_pattern, line) != None:
+            elif line[0] == "#":
                 pass
             else:
                 questions[-1].add_incorrect(line[:len(line) - 1])
