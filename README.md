@@ -5,7 +5,7 @@ A program for creating and solving tests with multiple choice
 No installation packeges are avaliable yet
 
 ## Requirements & Dependencies 
-python 3.6.x+
+python 3.6.x+ <br />
 [Colorama](https://pypi.org/project/colorama/)
 
 
