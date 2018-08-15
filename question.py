@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*- 
 from collections import defaultdict
 from random import shuffle
-import bgcolors as bgc
+from colorama import Fore, Back, Style, init
+
 
 
 class Question:
@@ -26,11 +27,7 @@ class Question:
         self.__rnd_answers = [k for k in self.__answers.keys()]
         shuffle(self.__rnd_answers)
         for a in self.__rnd_answers:
-            print("{}{}. {}{}".format(
-                bgc.WHITE,
-                self.__rnd_answers.index(a) + 1,
-                a,
-                bgc.OKBLUE))
+            print(f"{Fore.WHITE}{self.__rnd_answers.index(a) + 1}. {a}{Fore.CYAN}")
 
     def check(self, user_answer):
         no_mistakes = True
@@ -40,40 +37,23 @@ class Question:
 
             for a in self.__rnd_answers:
                 if not self.__answers[a] and a not in answers:
-                    print("{}{}. {}{}".format(
-                        bgc.WHITE,
-                        self.__rnd_answers.index(a) + 1,
-                        a,
-                        bgc.OKBLUE))
+                    print(f"{Fore.WHITE}{self.__rnd_answers.index(a) + 1}. {a}{Fore.CYAN}")
                 elif not self.__answers[a] and a in answers:
-                    print("{}{}. {} {}{}".format(
-                        bgc.FAIL,
-                        self.__rnd_answers.index(a) + 1,
-                        a,
-                        "(Вы отметили неправильный ответ)",
-                        bgc.OKBLUE))
+                    print(f"{Fore.RED}{self.__rnd_answers.index(a) + 1}. {a} \
+(Вы отметили неправильный ответ){Fore.CYAN}")
                     no_mistakes = False
                 elif self.__answers[a] and a in answers:
-                    print("{}{}. {}{}".format(
-                        bgc.OKGREEN,
-                        self.__rnd_answers.index(a) + 1,
-                        a,
-                        bgc.OKBLUE))
+                    print(f"{Fore.GREEN}{self.__rnd_answers.index(a) + 1}. {a}{Fore.CYAN}")
                 else:
-                    print("{}{}. {}{} {}{}".format(
-                        bgc.OKGREEN,
-                        self.__rnd_answers.index(a) + 1,
-                        a,
-                        bgc.FAIL,
-                        "(Вы не отметили правильный ответ)",
-                        bgc.OKBLUE))
+                    print(f"{Fore.GREEN}{self.__rnd_answers.index(a) + 1}. {a}{Fore.RED} \
+(Вы не отметили правильный ответ){Fore.CYAN}")
                     no_mistakes = False
 
         except IndexError:
-            print(bgc.FAIL + "Этого ответа нет в списке" + bgc.OKBLUE)
+            print(Fore.RED + "Этого ответа нет в списке" + Fore.CYAN)
             return False
 
         except ValueError:
-            print(bgc.FAIL + "Пожалуйста, вводите только цифры" + bgc.OKBLUE)
+            print(Fore.RED + "Пожалуйста, вводите только цифры" + Fore.CYAN)
             return False
         return no_mistakes
