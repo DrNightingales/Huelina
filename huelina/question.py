@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 from collections import defaultdict
 from random import shuffle
-from colorama import Fore, Back, Style, init
+from colorama import Fore
 
 
 

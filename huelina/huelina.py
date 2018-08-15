@@ -2,7 +2,7 @@
 # TODO: Unite encodings for windows and linux
 
 from question import Question
-from colorama import Fore, Back, Style, init
+from colorama import Fore, init
 from random import shuffle
 init()
 
