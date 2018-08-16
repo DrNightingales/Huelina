@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 # TODO: Unite encodings for windows and linux
-
+version = 0.3
 from question import Question
 from colorama import Fore, init
 from random import shuffle
@@ -9,7 +9,7 @@ init()
 #print(Style.BRIGHT) # Set style 
 print(Fore.CYAN) # Color background text in blue
 
-print("Добро пожаловать в Хуелина 0.2-альфа\n \
+print(f"Добро пожаловать в Хуелина v{version}\n \
     \nВведите имя файла с тестами (по умолчанию anat.txt) \
     \nИспользуйте файлы anatN-ansi.txt на windows и anatN-utf8 на других OS")
 
