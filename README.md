@@ -8,7 +8,7 @@ Install as python package from TestPyPI:
 ```python3 -m pip install --index-url https://test.pypi.org/simple/ huelina --user```
 
 ## Requirements & Dependencies 
-python 3.6.x+ <br />
+python 3.6.x+, consider using huelina-old for python <= 3.5.x && >=3.0 <br />
 [Colorama](https://pypi.org/project/colorama/)
 
 
