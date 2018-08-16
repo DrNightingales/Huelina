@@ -4,8 +4,10 @@ A program for creating and solving tests with multiple choice
 ## Installation
 No installation packeges are avaliable yet
 
-## Dependencies 
-No dependencies yet
+## Requirements & Dependencies 
+python 3.6.x+ <br />
+[Colorama](https://pypi.org/project/colorama/)
+
 
 In future PyQT5 library will be used for GUI
 
