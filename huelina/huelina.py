@@ -7,33 +7,58 @@ except:
     from huelina.question import Question
 from colorama import Fore, init
 from random import shuffle
-from os import getcwd
+import os 
 from pathlib import Path
+script_path = Path(os.path.realpath(__file__)).parent
+data_path = script_path / "data"
 
-class quize():
+
+class Quiz():
     def __init__(self):
         self.questions = []
         self.mistakes = set() 
         
         print(Fore.CYAN) # Color background text in blue
-        print(f"Добро пожаловать в Хуелина v{__version__}\n \
-        \nВаш каталог: {getcwd()}\n \
-        \nВведите имя файла с тестами (по умолчанию anat.txt) \
-        \nИспользуйте файлы anatN-ansi.txt на windows и anatN-utf8 на других OS")
+        print(f"Добро пожаловать в Хуелина v{__version__}\n")
 
-        file = Path(input())
-        print(file)
-        if file == '':
-            file = "data/anat.txt"
-        self.quize_file = file
-
+        self.select_file()
         self.load_questions()
         self.start_and_end()
-        self.ask_questions()
+        print("Чтобы перемешать вопросы введите 1, другой ввод оставит вопросы в изначальном порядке")
+        self.ask_questions(True if input() == "1" else False)
+    
+    def select_file(self):
+        if not data_path.is_dir():
+            print(f"{Fore.RED}Внимание! Папка data/ не обнаружена")
+            raise FileNotFoundError
 
-    def ask_questions(self):
+        anats = sorted([file for file in data_path.glob("*.txt")])
+        print("Введите номер файла из списка\n"
+              "Добавьте файл в папку data/ и перезапустите программу, если не можете найти нужный")
+
+        for i, file in enumerate(anats):
+            print(f"{i+1}. {file.name}")
+
+        correct_input = False
+        while not correct_input:
+            try:
+                anat_n = int(input())
+                self.quiz_file = anats[anat_n-1]
+                correct_input = True
+            except ValueError:
+                print(f"{Fore.RED}Неверный ввод, введите число из списка{Fore.CYAN}")
+            except IndexError:
+                print(f"{Fore.RED}Неверный ввод, введите число из списка{Fore.CYAN}")
+
+
+
+    def ask_questions(self, shuffled=False):
+        print(f"{Fore.RED}Вводите ответ как на ЕГЭ\n(Цифры, без доп. символов, в любом порядке){Fore.CYAN}")
+
         chosen = self.questions[self.start:self.ends]
-        shuffle(chosen)
+        if shuffled:
+            shuffle(chosen)
+
         for q in chosen:
             print(f"[{chosen.index(q) + 1}/{len(chosen)}]", end=" ")
             q.printq()
@@ -43,13 +68,14 @@ class quize():
             print("")
 
         while len(self.mistakes) != 0:
-
             print(f"Количество Ваших ошибок: {len(self.mistakes)}\n"
                 "Сделать работу над ошибками? Введите 1 и нажмите Enter, чтобы выполнить "
                 "\n(Другие цифры или буквы, или просто нажатие Enter выключат программу)")
+
             if input() == "1":
                 pending_rem = set()
                 i = 1
+
                 for q in self.mistakes:
                     print(f"[{i}/{len(self.mistakes)}]", end=" ")
                     q.printq()
@@ -68,7 +94,7 @@ class quize():
         Parses file defined by filepath
         """
         try:
-            with open(self.quize_file) as f:
+            with open(self.quiz_file) as f:
                 for line in f.readlines():
                     if line[0].isnumeric():
                         self.questions.append(Question(line))
@@ -111,11 +137,7 @@ class quize():
             print(f"{Fore.RED}Неверный ввод, вы закончите вопросом номер {len(self.questions)} {Fore.CYAN}")
             self.ends = len(self.questions)
 
-        print(f"Вопросы в выбранном Вами диапазоне перемешаны автоматически \
-                    \n{Fore.RED}Вводите ответ как на ЕГЭ \
-                    \n(цифры в любой последовательности, без дополнительных знаков){Fore.CYAN}\n")
-
 
 if __name__ == "__main__":
     init()
-    new_quize = quize()
+    new_quiz = Quiz()
