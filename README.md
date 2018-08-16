@@ -1,6 +1,8 @@
 # Huelina
 A program for creating and solving tests with multiple choice
 
+https://github.com/DrNightingales/Huelina
+
 ## Installation
 Install as python package from TestPyPI:
 ```python3 -m pip install --index-url https://test.pypi.org/simple/ huelina --user```
