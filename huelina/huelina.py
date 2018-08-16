@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 # TODO: Unite encodings for windows and linux
-__version__ = 0.3
+__version__ = 0.6
 try:
     from question import Question
 except:
@@ -28,6 +28,9 @@ class Quiz():
         self.ask_questions(True if input() == "1" else False)
     
     def select_file(self):
+        """
+        Writes path of the file chosen by user to self.quiz
+        """
         if not data_path.is_dir():
             print(f"{Fore.RED}Внимание! Папка data/ не обнаружена")
             raise FileNotFoundError
@@ -50,9 +53,11 @@ class Quiz():
             except IndexError:
                 print(f"{Fore.RED}Неверный ввод, введите число из списка{Fore.CYAN}")
 
-
-
     def ask_questions(self, shuffled=False):
+        """
+        Starts quiz, with mistakes correction
+        shuffled - let's the user to decide either to shuffle quetsions or not
+        """
         print(f"{Fore.RED}Вводите ответ как на ЕГЭ\n(Цифры, без доп. символов, в любом порядке){Fore.CYAN}")
 
         chosen = self.questions[self.start:self.ends]
@@ -91,7 +96,7 @@ class Quiz():
         
     def load_questions(self):
         """
-        Parses file defined by filepath
+        Parses and loads question to self.questions
         """
         try:
             with open(self.quiz_file) as f:
@@ -109,7 +114,9 @@ class Quiz():
             file="data/anat.txt"
 
     def start_and_end(self):
-        #User specifies start and stop points
+        """
+        Asks user for the question to start from and the question to end with
+        """
         print("\nВведите номер вопроса, с которого хотите начать (по умолчанию 1)")
         self.start = input()
 
