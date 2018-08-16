@@ -1,0 +1,1766 @@
+#Anatomy unit test 7: cardiovascular system
+#Encoded in UTF-8
+1 Сердце (cor):
+* полый мышечный орган
+* имеет два предсердия
+* имеет два желудочка
+паренхиматозный орган
+покрыто адвентицией
+2 В сердце (cor) человека выделяют:
+* верхушку (apex cordis)
+* основание (basis cordis)
+* грудино-реберную поверхность (facies sternocostalis)
+* легочные поверхности (facies pulmonalis)
+позвоночную поверхность (facies vertebralis)
+3 На поверхности сердца (cor) выделяют:
+* венечную борозду (sulcus coronarius)
+* заднюю межжелудочковую борозду (sulcus interventricularis posterior)
+* переднюю межжелудочковую борозду (sulcus interventricularis anterior)
+реберную борозду (sulcus costalis)
+переднюю серединную борозду (sulcus mediana anterior)
+4 Венечная борозда сердца (sulcus coronarius):
+* граница между предсердиями (аtrium cordis) и желудочками (ventriculus cordis)
+расположена на диафрагмальной поверхности (facies diafragmatica)
+граница между правым и левым предсердия (аtrium cordis dextrum/sinistrum)
+граница между правым и левым желудочками (ventriculus cordis dexter/sinister)
+расположена на легочных поверхностях сердца (facies pulmonalis)
+5 Ушки сердца (auricula atria):
+* находятся в области правого предсердия (atrium dexter)
+* находятся в области левого предсердия (atrium sinister)
+находятся в области левого желудочка (ventriculus sinister)
+находятся в области верхушки сердца (apex cordis)
+находятся в области правого желудочка (ventriculus dexter)
+6 Передняя и задняя межжелудочковые борозды (sulcus interventricularis anterior et posterior):
+* соединяются в области вырезки верхушки сердца (incisura apicis cordis)
+* разделяют правый и левый желудочки сердца (ventriculus dexter et sinister)
+расположены на легочных поверхностях сердца (facies pulmonalis)
+в них расположена правая венечная артерия (a.coronaria dextra)
+соединяются в области основания сердца (basis cordis)
+7 В сердце (cor) человека выделяют:
+* диафрагмальную поверхность (facies diafragmatica)
+* грудино-реберную поверхность (facies sternocostalis)
+* легочную поверхность (facies pulmonalis)
+позвоночную поверхность (facies vertebralis)
+верхнюю поверхность (facies superior)
+8 Верхушка сердца (apex cordis) на переднюю грудную клетку проецируется:
+* в V межреберном промежутке
+* слева, на 1.5 см кнутри от среднеключичной линии
+в III межреберном промежутке
+слева, на 1.5 см кнутри от средней подмышечной линии
+слева, на 1.5 см кнаружи от среднеключичной линии
+9 Проекция на переднюю грудную стенку верхней границы сердца (cor) у взрослого человека
+* линия, соединяющая хрящи правого и левого Ш-х ребер
+линия, соединяющая хрящи правого и левого V-х ребер
+линия, соединяющая хрящи правого и левого П-х ребер
+линия, соединяющая хрящи правого и левого IV-х ребер
+верхняя апертура грудной клетки
+10 Верхушка сердца (apex cordis):
+* обращена косо вниз
+* расположена слева на 1.5 см кнутри от среднеключичной линии
+обращена косо вверх
+расположена по линии, соединяющая хрящи правого и левого Ш ребер
+расположена по краю грудины
+11 Нижняя граница сердца (cor) проходит по линии:
+* от хряща V правого ребра до верхушки сердца
+от хряща III правого ребра до верхушки сердца
+от хряща III левого ребра до верхушки сердца
+хряща III правого ребра до основания сердца
+хряща V левого ребра до основания сердца
+12 Нижняя граница сердца (cor):
+* образована краями правого и левого желудочков (ventriculus cordis dexter/sinister)
+* проходит по линии от хряща V правого ребра до верхушки сердца (apex cordis)
+проходит по линии от хряща III правого ребра до верхушки сердца (apex cordis)
+проходит по линии от хряща III левого ребра до верхушки сердца (apex cordis)
+хряща V левого ребра до основания сердца (basis cordis)
+13 Правое предсердие (atrium dexter):
+* заполнено венозной кровью
+* соединяется с правым желудочком через предсердно-желудочковое отверстие (ostium atrioventriculare)
+заполнено артериальной кровью
+соединяется с левым предсердием (atrium sinister) через овальное отверстие
+соединяется с левым желудочком через предсердно-желудочковое отверстие (ostium atrioventriculare)
+14 У правого предсердия (atrium dexter) имеются отверстия:
+* верхней полой вены (vena cava superior)
+* нижней полой вены (vena cava inferior)
+овальное (foramen ovalis)
+воротной вены (vena portae)
+левое предсердно-желудочковое (ostium atrioventriculare sinistrum)
+15 Овальная ямка (fossa ovalis):
+* расположена на межпредсердной перегородке (septum interatriale)
+* является остатком заросшего овального отверстия (foramen ovalis)
+расположена на межжелудочковой перегородке (septum interventriculare)
+расположена на стенке правого желудочка (ventriculus dexter)
+отсутствует у взрослого человека
+16 Отверстия, открывающиеся в левое предсердие (atrium cordis sinistrum):
+* легочных вен (vena pulmonales)
+* левое предсердно-желудочковое отверстие (ostium atrioventriculare sinister)
+верхней полой вены (vena cava superior)
+нижней полой вены (vena cava inferior)
+синуса полых вен (sinus venarum cavarum)
+17 Ушки сердца (auricular cordis):
+* дополнительные полости предсердий сердца (atrium cordis dextrum/sinistrum)
+* на внутренней поверхности имеются гребенчатые мышцы (mm.pectinati)
+дополнительные полости желудочков сердца (ventriculus cordis dexter/sinister)
+на внутренней поверхности имеются мясистые трабекулы (trabeculae carneae)
+не сообщаются с полостью предсердий
+18 Правый желудочек сердца (ventriculus dexter):
+* заполнен венозной кровью
+* имеет отверстие легочного ствола (ostium trunci pulmonalis)
+заполнен артериальной кровью
+имеет отверстие аорты (ostium aortae)
+имеет отверстия легочных вен (ostium venarum pulmonalium)
+19 Внутренняя поверхность правого желудочка (ventriculus dexter):
+* на ней расположены мясистые трабекулы (trabeculae carneale)
+* на ней расположены сосочковые мышцы (mm. papillares)
+гладкая
+имеет отверстия наименьших вен сердца (foramina venarum minimarum)
+имеет дополнительные полости – ушки сердца (auricular cordis)
+20 Межжелудочковая перегородка: (septum interventriculare)
+* отделяет правый желудочек от левого (ventriculus dexter/sinister):
+* имеет мышечную часть (pars muscularis)
+* имеет перепончатую часть (pars membranacea)
+имеет овальную ямку (fossa ovalis)
+на ней расположены клапаны (valve cordis)
+21 Отверстия левого желудочка сердца (ventriculus cordis sinistrum):
+* отверстие аорты (ostium aortae)
+* левое предсердно-желудочковое отверстие (ostium atrioventriculare sinistrum)
+отверстие нижней полой вены (ostium venae cavae inferioris)
+отверстие легочного ствола (ostium trunci pulmonalis)
+овальное отверстие (foramen ovale)
+22 Левый желудочек характеризуется тем, что
+* стенка левого желудочка (ventriculus cordis sinistrum) имеет большую толщину, чем у правого
+* из левого желудочка (ventriculus cordis sinistrum) выходит аорта (aorta)
+* левый желудочек (ventriculus cordis sinistrum) заполнен артериальной кровью
+стенки левого желудочка (ventriculus cordis sinistrum) гладкие
+в левый желудочек (ventriculus cordis sinistrum) впадают легочные вены (v,v pulmonalis)
+23 В стенке сердца (cor) выделяют:
+* эндокард (endocardium)
+* миокард (myocardium)
+* эпикард (epicardium)
+эндометрий (endometrium)
+переметрий (peremetrium)
+24 Эндокард (endocardium):
+* образован эндотелиоцитами
+* выстилает полость сердца изнутри
+* покрывает сосочковые мышцы (mm. papillares)
+самая наружная оболочка сердца
+образован висцеральным и париетальным листками
+25 Миокард (myocardium):
+* образован кардиомиоцитами
+* в желудочках имеет 3 слоя
+* образует сосочковые мышцы (mm papillaris)
+* образует мясистые трабекулы (trabeculae carneale)
+выстилает полость сердца изнутри
+26 Миокард (myocardium):
+* средний слой сердца
+* образует мясистые трабекулы (trabeculae carneale)
+* образует сосочковые мышцы (mm papillaris)
+выстилает полость сердца изнутри
+висцеральный листок перекарда (lamina visceralis pericardialis)
+27 К скелету сердца (cor) относятся:
+* фиброзные кольца (annulus fibrosus)
+* фиброзные треугольники (trigonum fibrosus)
+мясистые трабекулы (trabeculae carneale)
+сухожильные хорды (chordae tendineae)
+клапаны сердца (valve cordis)
+28 Правое и левое фиброзные кольца сердца (annulus fibrosus dexter /sinister):
+* часть мягкого скелета сердца (cor)
+* образуют опору предсердно-желудочковых клапанов (valva atrioventricularis)
+часть эндокарда (endocardium)
+часть проводящей системы сердца (complexus stimulans cordis)
+часть перикарда (pericardium)
+29 Эпикард (epicardium):
+* самая наружная оболочка сердца (cor)
+* является висцеральным листком перикарда (lamina visceralis pericardialii)
+часть мягкого скелета сердца (cor)
+является париетальным листком перикарда (lamina parietalis pericardialii)
+* покрыт мезотелием
+30 Правое предсердно-желудочковое отверстие сердца закрывает (ostium atrioventriculare dextrum):
+* трехстворчатый клапан (valva atrioventricularis dexstrum, valva tricuspidalis)
+аортальный клапан (valva aortae)
+двухстворчатый, митральный клапан (valva atrioventricularis sinistra, valva mitralis)
+заслонка нижней полой вены (valvula venae cavae inferioris)
+заслонка венечного синуса (valvula sinus coronarii)
+31 В клапане аорты выделяют (valve aortae):
+* полулунные заслонки (valvula semilunaris)
+* узелки полулунных заслонок (nodule valvularum semilunarium)
+предверие аорты (vestibulum aortae)
+переднюю створку (cuspis anterior)
+заднюю створку (cuspis posterior)
+32 Трехстворчатый клапан (valva atrioventricularis dexstrum, valva tricuspidalis) расположен:
+* между правым желудочком (ventriculus cordis dexter) и правым предсердием (atrium cordis dextrum)
+в предверии аорты (vestibulum aortae)
+между левым желудочком (ventriculus cordis sinistrum) и левым предсердием (atrium cordis sinistrum)
+между левым предсердием (atrium cordis sinistrum) и правым желудочком (ventriculus cordis dexter)
+в основании легочного ствола (truncus pulmonalis)
+33 Двухстворчатый клапан (valva atrioventricularis sinistra, valva mitralis) (митрального) расположен:
+* между левым желудочком (ventriculus cordis sinistrum) и левым предсердием (atrium cordis sinistrum)
+в аорте (aorta)
+в основании легочного ствола (truncus pulmonalis)
+между правым желудочком (ventriculus cordis dexter) и правым предсердием (atrium cordis dextrum)
+между левым предсердием (atrium cordis sinistrum) и правым желудочком (ventriculus cordis dexter)
+34 В двухстворчатом (митральном) клапане выделяют (valva atrioventricularis sinistra; valva mitralis):
+* переднюю створку (cuspis anterior)
+* заднюю створку (cuspis posterior)
+перегородочную створку (cuspis septalis)
+переднюю полулунную заслонку (valvula semilunaris anterior)
+узелки полулунных заслонок (noduli valvularum semilunarium)
+35 В трехстворчатом клапане (valva atrioventricularis dexstrum , valva tricuspidalis) выделяют:
+* переднюю створку (cuspis anterior)
+* перегородочную створку (cuspis septalis)
+* заднюю створку (cuspis posterior)
+переднюю полулунную заслонку (valvula semilunaris anterior)
+узелки полулунных заслонок (noduli valvularum semilunarium)
+36 Полулунные клапаны расположены (valvae semilunaris):
+* в отверстии аорты (ostium aortae)
+* в устье легочного ствола (ostium trunci pulmonalis)
+в левом предсердно-желудочковом отверстии (ostium atrioventriculare sinistrum)
+в правом предсердно-желудочковом отверстии (ostium atrioventriculare dextrum)
+в устье верхней и нижней полых вен (ostium venae cavae inferioris/superioris)
+37 Элементы проводящей системы сердца (сomplexus stimulans cordis):
+* ножки предсердно-желудочкового пучка (crus nodus atrioventricularis)
+* синусно-предсердный узел (nodus sinuatrialis)
+* предсердно-желудочковый узел (nodus atrioventricularis)
+верхушка сердца (apex cordis)
+узелки полулунных заслонок (noduli valvularum semilunarium)
+38 Синусо-предсердный узел (Киса-Флека) проводящей системы сердца располагается:
+* в стенке правого предсердия (atrium cordis dextrum) справа от устья верхней полой вены (ostium venae cavae superioris)
+* в стенке правого предсердия (atrium cordis dextrum) слева от его ушка
+в толще межжелудочковой перегородки (septum interventriculare)
+в толще нижнего отдела межпредсердной перегородки (septum atrioventriculare)
+в стенке левого предсердия (atrium sinistrum)
+39 Предсердно-желудочковый узел (Ашоффа-Тавары) проводящей системы сердца располагается:
+* в толще нижнего отдела межпредсердной перегородки (septum interatriale)
+в стенке правого предсердия (atrium cordis dextrum) справа от устья верхней полой вены (ostium venae cavae superioris)
+в стенке правого предсердия (atrium cordis dextrum) слева от его ушка
+в толще межжелудочковой перегородки (septum interventriculare)
+в стенке левого предсердия (atrium cordis sinistrum)
+40 Предсердно-желудочковый пучок (пучок Гисса) проводящей системы сердца:
+* заканчивается в миокарде желудочков концевыми волокнами (волокна Пуркинье)
+* делится на правую и левую ножки (crus dexter/sinister)
+расположен в межпредсердной перегородке (septum interatriale)
+делится на переднюю и заднюю ножки (crus anterior/posterior)
+расположен в области верхушки сердца (apex cordis)
+41 Предсердно-желудочковый пучок (пучок Гисса) проводящей системы сердца:
+* связывает миокард предсердий (atrium cordis) с миокардом желудочков (ventriculus cordis)
+* делится на правую и левую ножки (crus dexter/sinister)
+* концевые волокна (волокна Пуркинье) заканчиваются в миокарде желудочков (ventriculus cordis)
+расположен в стенке правого предсердия (atrium cordis dextrum)
+делится на переднюю и заднюю ножки (crus anterior/posterior)
+42 Перикард (pericardium):
+* серозная оболочка
+* имеет полость
+* состоит из 2 листков
+адвентициальная оболочка
+не имеет полости
+43 Полость перикарда сердца (cavitas pericardium):
+* ограничена висцеральным листком
+* заполнена серозной жидкостью
+* ограничена париетальным листком
+заполнена жировой клетчаткой
+заполнена ликвором
+44 В полости перикарда выделяют пазухи (sinus pericardii):
+* поперечная пазуха перикарда (sinus transversus pericardii)
+* косая пазуха (sinus obliquus pericardii)
+реберно-диафрагмальная пазуха (recessus costodiaphragmaticus)
+реберно-средостенная пазуха (recessus costomediastinalis)
+диафрагмально-средостенная пазуха (recessus phrenicomediastinalis)
+45 Поперечная пазуха перикарда (sinus transversus pericardii)
+* расположена у основания сердца (basis cordis)
+* заполнена серозной жидкостью
+* ограничена аортой (aorta)
+расположена у верхушки сердца (apex cordis)
+ограничена нижней полой веной (vena cava inferior)
+46 Косая пазуха перикарда (sinus obliquus pericardii):
+* расположена на диафрагмальной поверхности сердца (facies diaphragmatica)
+* ограничена задней поверхностью левого предсердия (facies posterior atrium sinistrum)
+расположена на грудино-реберной поверхности сердца (facies sternocostalis)
+ограничена передней поверхностью правого предсердия (facies anterior atrium dextrum)
+ограничена аортой (aorta)
+47 Слои перикарда (pericardium):
+* фиброзный
+* серозный
+подслизистая основа
+мышечный
+слизистый
+48 Правая венечная артерия сердца (arteria coronaria dextra):
+* лежит в венечной борозде (sulcus coronaria)
+* начинается от восходящего отдела аорты (pars accendens aortae)
+лежит в межжелудочковой борозде (sulcus interventriculare)
+начинается от грудного отдела аорты (pars thoracica aortae)
+делится на две ветви
+49 Местом начала венечных артерий сердца является:
+* луковица аорты (bulbus aortae)
+дуга аорты (arcus aorta)
+легочный ствол (truncus pulmonalis)
+левый желудочек (ventriculus sinister)
+грудной отдел аорты (pars thoracica aortae)
+50 Правая венечная артерия кровоснабжает:
+* заднюю часть межжелудочковой перегородки (septum interventriculare)
+* заднюю сосочковую мышцу правого желудочка (m.papillaris posterior atrium dexter)
+* заднюю сосочковую мышцу левого желудочка (m.papillaris posterior atrium sinister)
+переднюю часть межжелудочковой перегородки (septum interventriculare)
+стенки грудной полости 
+51 Ветвями левой венечной артерии (arteria coronaria sinistra) являются:
+* огибающая ветвь (r. circumflexus)
+* передняя межжелудочковая ветвь (r. interventricularis anterior)
+задняя межжелудочковая ветвь (r. interventricularis posterior)
+передние межреберные артерии (a. intercostalis anterior)
+задние межреберные артерии (a. intercostalis posterior)
+52 Вены сердца, впадающие в венечный синус (sinus coronarius):
+* средняя вена сердца (v. cardiaca media)
+* большая вена сердца (v. cardiaca magna)
+* косая вена левого предсердия (v. obliqua atrii sinistri)
+* малая вена сердца (v. cardiaca parva)
+верхняя полая вена (v. cava superior)
+53 Венечный синус сердца (sinus coronarius):
+* расположен в венечной борозде (sulcus coronarius)
+* впадает в правое предсердие (atrium cordis dextrum)
+расположен в задней межжелудочковой борозде (sulcus interventriculare posterior)
+собирает кровь от наименьших вен сердца (vv. cardiacae minimae)
+впадает в левое предсердие (atrium cordis sinistrum)
+54 Вены сердца, впадающие непосредственно в правое предсердие (atrium cordis dextrum):
+* наименьшие вены сердца (vv. cardiacae minimae)
+* передние вены сердца (vv. cordis anteriores)
+большая вена сердца (v. cardiaca magna)
+косая вена левого предсердия (v. obliqua atrii sinistri)
+малая вена сердца (v. cardiaca parva)
+55 Ветви плечеголовного ствола (truncus brachiocephalicus):
+* правая подключичная артерия (a.subclavia dextra)
+* правая общая сонная артерия (a.carotis communis dextra)
+левая подключичная артерия (a.subclavia sinistra)
+левая общая сонная артерия (a.carotis communis sinistra)
+внутренняя сонная артерия (a.carotis interna)
+56 Уровень бифуркации общей сонной артерии (a.carotis communis):
+* верхний край щитовидного хряща
+яремная вырезка грудины
+нижний край щитовидного хряща
+перстеневидный хрящ
+угол нижней челюсти
+57 Ветви дуги аорты (arcus aortae):
+* левая подключичная артерия (a.subclavia sinistra)
+* левая общая сонная артерия (a.carotis communis sinistra)
+* плечеголовной ствол (truncus brachiocephalicus)
+правая подключичная артерия (a.subclavia dextra)
+правая общая сонная артерия (a.carotis communis dextra)
+58 К передним ветвям наружной сонной артерии (a.carotis externa) относятся:
+* лицевая артерия (a.facialis)
+* язычная артерия (a.lingualis)
+* верхняя щитовидная артерия (a.thyroidea superior)
+верхнечелюстная артерия (a.maxillaris)
+глазная артерия (a.ophthalmica)
+59 К медиальным ветвям наружной сонной артерии (a.carotis externa) относится:
+* восходящая глоточная артерия (a.pharyngea ascendens)
+поверхностная височная артерия (a.temporalis superficialis)
+верхнечелюстная артерия (a.maxillaris)
+восходящая небная артерия (a.palatina ascendens)
+лицевая артерия (a.facialis)
+60 К конечным ветвям наружной сонной артерии (a.carotis externa) относятся:
+* поверхностная височная артерия (a.temporalis superficialis)
+* верхнечелюстная артерия (a.maxillaris)
+надглазничная артерия (a.supraorbitalis)
+подглазничная артерия (a.infraorbitalis)
+верхняя щитовидная артерия (a.thyroidea superior)
+61 Щитовидные артерии (aa.thyroidei) отходят от:
+* щитошейного ствола (truncus brachiocephalicus)
+* наружней сонной артерии (a.carotis externa)
+позвоночной артерии (a.vertebralis)
+реберно-шейного ствола (truncus costocervicalis)
+подключичной артерии (a.subclavia)
+62 Ветви лицевой артерии (a.facialis):
+* угловая артерия (a.angularis)
+* нижняя губная артерия (a.labialis inferior)
+* верхняя губная артерия (a.labialis superior)
+дорсальная артерия носа (a.dorsalis nasi)
+поперечная артерия лица (a.transversa faciei)
+63 Лицевая артерия (a.facialis) является ветвью
+* наружной сонной артерии (a.carotis externa)
+поперечной артерии лица (a.transversa faciei)
+верхнечелюстной артерии (a.maxillaris)
+внутренней сонной артерии (a.carotis interna)
+поверхностной височной артерии (a.temporalis superficialis)
+64 Конечной ветвью лицевой артерии (a.facialis) является:
+* угловая артерия (a.angularis)
+глазная артерия (a.ophthalmica)
+надблоковая артерия (a.supratrochlearis)
+надглазничная артерия (a.supraorbitalis)
+верхнечелюстная артерия (a.maxillaris)
+65 Лицевая артерия (a.facialis) анастомозирует с:
+* ветвями глазной артерии (a.ophthalmica)
+* ветвями поверхностной височной артерии (a.temporalis superficialis)
+ветвями подключичной артерии (a.subclavia)
+ветвями базилярной артерии (a.basilaris)
+не участвует в формировании анастомозов
+66 Мягкие ткани лица кровоснабжают:
+* лицевая артерия (a.facialis)
+* верхнечелюстная артерия (a.maxillaris)
+* надглазничная артерия (a.supraorbitalis)
+позвоночная артерия (a.vertebralis)
+подключичная артерия (a.subclavia)
+67 Направление хода лицевой артерии (a.facialis):
+* от угла нижней челюсти к медиальному углу глаза
+параллельно скуловой дуге и под ней
+от угла нижней челюсти к латеральному углу глаза
+от подбородочного отверстия к нижней губе
+от надбровной дуги к медиальному углу глаза
+68 От верхнечелюстной артерии (a.maxillaris) в крыловидном отделе отходят:
+* жевательная артерия (a.masseterica)
+* крыловидные артерии (aa.pterygoidei)
+* глубокая височная артерия (a.temporalis profunda)
+* щечная артерия (a.buccalis)
+средняя менингеальная артерия (a.meningea media)
+69 К ветвям верхнечелюстной артерии (a.maxillaris) в крыловидно-небном отделе относят:
+* клиновидно-небную артерию (a.sphenopalatina)
+* нисходящую небную артерию (a.palatina descendens)
+* подглазничную артерию (a.infraorbitalis)
+среднюю менингеальную артерию (a.meningea media)
+поверхностную височную артерию (a.temporalis superficialis)
+70 Верхние альвеолярные артерии (aa.alveolares superior) отходят от:
+* верхнечелюстной артерии (a.maxillaris)
+* подглазничной артерии (a.infraorbitalis)
+лицевой артерии (a.facialis)
+глазной артерии (a.ophthalmica)
+подбородочной артерии (a.mentalis)
+71 Ветви челюстного отдела верхнечелюстной артерии (a.maxillaris):
+* нижняя альвеолярная артерия (a.alveolaris inferior)
+* средняя менингеальная артерия (a.meningea media)
+подглазничная артерия (a.infraorbitalis)
+нисходящая нёбная артерия (a.palatina descendens)
+язычная артерия (a.lingualis)
+72 Средняя менингеальная артерия (a.meningea media) является ветвью:
+* верхнечелюстной артерии (a.maxillaris)
+внутренней сонной артерии (a.carotis interna)
+наружной сонной артерии (a.carotis externa)
+глазной артерии (a.ophthalmica)
+лицевой артерии (a.facialis)
+73 Ветви верхнечелюстной артерии (a.maxillaris) в челюстном отделе:
+* нижняя альвеолярная артерия (a.alveolaris inferior)
+* средняя менингеальная артерия (a.meningea media)
+лицевая артерия (a.facialis)
+поперечная артерия лица (a.transversa faciei)
+язычная артерия (a.lingualis)
+74 Ветви поверхностной височной артерии (a.temporalis superficialis):
+* околоушные ветви (rr.parotidei)
+* лобная артерия (a.frontalis)
+* теменная артерия (a.parietalis)
+надглазничная артерия (a.supraorbitalis)
+глазная артерия (a.ophthalmica)
+75 Поверхностная височная артерия (a.temporalis superficialis) является конечной ветвью:
+* наружной сонной артерии (a.carotis externa)
+лицевой артерии (a.facialis)
+глазной артерии (a.ophthalmica)
+внутренней сонной артерии (a.carotis interna)
+верхнечелюстной артерии (a.maxillaris)
+76 Ветви поверхностной височной артерии (a.temporalis superficialis):
+* теменная ветвь (a.parietalis)
+* лобная ветвь (a.frontalis)
+* поперечная артерия лица (a.transversa faciei)
+* передние ушные ветви (rr.auriculares anterior)
+надблоковая артерия (a.supratrochlearis)
+77 Поверхностная височная артерия (a.temporalis superficialis) анастомозирует:
+* с надглазничной артерией (a.supraorbitalis)
+* с надблоковой артерией (a.supratrochlearis)
+* с задней ушной артерией (a.auricularis posterior)
+* с затылочной артерией (a.occipitalis)
+не участвует в формировании анастомозов
+78 Отделы внутренней сонной артерии (a.carotis interna):
+* мозговой
+* пещеристый
+* каменистый
+* шейный
+лицевой
+79 Ветви каменистой части внутренней сонной артерии (a.carotis interna):
+* сонно-барабанные артерии (аa.caroticotympanicaе)
+передняя мозговая артерия (a.cerebri anterior)
+передняя решётчатая артерия (a.ethmoidalis anterior)
+угловая артерия (a.angularis)
+глазная артерия (a.ophthalmica)
+80 Внутренняя сонная артерия (a.carotis interna) отходит от общей сонной артерии
+* на уровне верхнего края щитовидного хряща
+на уровне 1го ребра
+на уровне нижнего края щитовидного хряща
+на уровне угла нижней челюсти
+на уровне большого затылочного отверстия
+81 Ветвью внутренней сонной артерии (a.carotis interna) является:
+* глазная артерия (a.ophthalmica)
+лицевая артерия (a.facialis)
+верхнечелюстная артерия (a.maxillaris)
+позвоночные артерии (aa.vertebrales)
+базилярная артерия (a.basilaris)
+82 Ветвью глазной артерии (a.ophthalmica), участвующей в кровоснабжении стенок носовой полости является
+* передняя решетчатая артерия (a.ethmoidalis anterior)
+надблоковая артерия (a.supratrochlearis)
+слезная артерия (a.lacrimalis)
+задняя решетчатая артерия (a.ethmoidalis posterior)
+надглазничная артерия (a.supraorbitalis)
+83 Ветвями глазной артерии являются (a.ophthalmica):
+* слезная артерия (a.lacrimalis)
+* центральная артерия сетчатки (a.centralis retinae)
+* надблоковая артерия (a.supratrochlearis)
+* надглазничная артерия (a.supraorbitalis)
+подглазничная артерия (a.infraorbitalis)
+84 Ветви глазной артерии (a.ophthalmica):
+* центральная артерия сетчатки (a.centralis retinae)
+* надблоковая артерия (a.supratrochlearis)
+* надглазничная артерия (a.supraorbitalis)
+средняя менингеальная артерия (a.meningea media)
+поперечная артерия лица (a.transversa faciei)
+85 Глазная артерия (a.ophthalmica) является ветвью: 
+* внутренней сонной артерии (a.carotis interna)
+наружной сонной артерии (a.carotis externa)
+лицевой артерии (a.facialis)
+поверхностной височной артерии (a.temporalis superficialis)
+верхнечелюстной артерии (a.maxillaris)
+86 Ветви глазной артерии (a.ophthalmica):
+* надглазничная артерия (a.supraorbitalis)
+* решётчатые артерии (aa.ethmoidales)
+подглазничная артерия (a.infraorbitalis)
+базилярная артерия (a.basilaris)
+верхнечелюстная артерия (a.maxillaris)
+87 Надблоковая артерия (a.supratrochlearis) является конечной ветвью:
+* глазной артерии (a.ophthalmica)
+верхнечелюстной артерии (a.maxillaris)
+лицевой артерии (a.facialis)
+угловой артерии (a.angularis)
+поверхностной височной артерии (a.temporalis superficialis)
+88 Средняя менингеальная артерия (a.meningea media) является ветвью:
+* верхнечелюстной артерии (a.maxillaris)
+подглазничной артерии (a.infraorbitalis)
+внутренней сонной артерии (a.carotis interna)
+затылочной артерии (a.occipitalis)
+лицевой артерии (a.facialis)
+89 Передняя соединительная артерия (a.communicans anterior) соединяет:
+* правую и левую передние мозговые артерии (aa.cerebri anterior dextra et sinistra)
+переднюю и среднюю мозговые артерии (aa.cerebri anterior et media)
+среднюю и заднюю мозговые артерии (aa.cerebri posterior et media)
+правую и левую внутренние сонные артерии (aa.carotis internae dextra et sinistra)
+внутреннюю и наружную сонные артерии (aa.carotis interna et externa)
+90 Конечные ветви базилярной артерии (a.basilaris):
+* задние мозговые артерии (aa.cerebri post.)
+средние мозговые артерии (aa.cerebri med.)
+мозжечковые артерии (aa.cerebellares)
+глазная артерия (a.ophthalmica)
+поверхностная височная артерия (a.temporalis superficialis)
+91 Большой артериальный круг мозга образован:
+* передней соединительной артерией (a.communicans anterior)
+* передними мозговыми артериями (a.cerebri ant.)
+* задними мозговыми артериями (a.cerebri post.)
+передними ворсинчатыми артериями (aa.choroidei ant.)
+верхними мозжечковыми артериями (aa.cerebellares sup.)
+92 Позвоночные артерии (aa.vertebrales) кровоснабжают:
+* мозжечок
+* ствол мозга
+* затылочные доли полушарий
+* шейные сегменты спинного мозга
+лобные доли полушарий
+93 Ветви щитошейного ствола (tr.thyrocervicalis):
+* надлопаточная артерия (a.suprascapularis)
+* нижняя щитовидная артерия (a.thyroidea inferior)
+* восходящая артерия (a.ascendens)
+поверхностная шейная артерия (a.cervicalis superficialis)
+верхняя щитовидная артерия  (a.thyroidea superior)
+94 От нижней щитовидной артерии (a.thyroidea inferior) отходят:
+* железистые ветви (rr.glandulares)
+* пищеводные ветви (rr.esophaphageales)
+* трахеальные ветви (rr.tracheales)
+нижняя щитовидная артерия (a.thyroidea inferior)
+восходящая артерия (a.ascendens)
+95 Ветви, отходящие от подключичной артерии (a.subclavia) до межлестничного промежутка:
+* внутренняя грудная артерия (a.thoracica interna)
+* щитошейный ствол (tr.thyrocervicalis)
+поперечная артерия шеи (a.transversa colli)
+глубокая артерия шеи (a.cervicalis profunda)
+* позвоночная артерия (a.vertebralis)
+96 У позвоночной артерии (a.vertebralis) выделяют следующие части:
+* внутричерепная часть
+* атлантовая часть
+* поперечноостистая (шейная) часть
+* предпозвоночная часть
+лицевая часть
+97 Ветви внутричерепной части позвоночной артерии (a.vertebralis):
+* передняя спинномозговая артерия (a.spinalis ant.)
+* задняя нижняя мозжечковая артерия (a.cerebellaris post.inf.)
+задняя мозговая артерия (a.cerebri post.)
+задняя верхняя мозжечковые артерии (a.cerebellaris post.sup.)
+передняя верхняя мозжечковая артерия (a.cerebellaris ant.sup.)
+98 Ветви подключичной артерии (a.subclavia) после её выхода из межлестничного промежутка:
+* поперечная артерия шеи (a.transversa colli)
+реберно-шейный ствол (tr.costocervicalis)
+надключичная артерия (a.supraclavicularis)
+поверхностная шейная артерия (a.cervicalis superficialis)
+поперечная артерия лица (a.transversa faciei)
+99 Ветви подключичной артерии (a.subclavia) в межлестничном промежутке:
+* реберно-шейный ствол (tr.costocervicalis)
+поверхностная шейная артерия (a.cervicalis superficialis)
+надключичная артерия (a.supraclavicularis)
+щитошейный ствол (tr.thyrocervicalis)
+поперечная артерия шеи (a.transversa colli)
+100 Щитовидные вены (vv.thyroidei) являются притоками
+* внутренней яремной вены(v.jugularis int.)
+* плечеголовной вены (v.brachiocephalica)
+наружной яремной вены (v.jugularis ext.)
+лицевой вены (v.facialis)
+поверхностной височной вены (v.temporalis superficialis)
+101 Возможные варианты впадения наружной яремной вены (v.jugularis ext.):
+* угол слияния подключичной (v.subclavia) и внутренней яремной вены (v.jugularis int.)
+* подключичная вена (v.subclavia)
+передняя яремная вена (v.jugularis ant.)
+непарная вена (v.azygos)
+лицевая вена (v.facialis)
+102 Притоками наружной яремной вены (v.jugularis ext.) являются:
+* надлопаточная вена (v.suprascapularis)
+* поперечная вена шеи (v.transversa colli)
+лицевая вена (v.facialis)
+язычная вена (v.lingualis)
+подключичная вена (v.subclavia)
+103 Глазничные вены (vv.orbitales) открываются в
+* пещеристый синус (sinus cavernosus)
+передняя яремная вена (v.jugularis ant.)
+поверхностная височная вена (v.temporalis superficialis)
+сигмовидный синус (sinus sigmoideus)
+лицевая вена (v.facialis)
+104 Диплоические вены (vv.diploici) несут кровь в
+* верхний сагиттальный синус (sinus sagittalis sup.)
+* сигмовидный синус (sinus sigmoideus)
+наружную яремную вену (v.jugularis ext.)
+внутреннюю яремную вену (v.jugularis int.)
+переднюю ярёмную вену (v.jugularis ant.)
+105 Внечерепные притоки внутренней яремной вены (v.jugularis int.):
+* язычная вена (v.lingualis)
+* глоточные вены (vv.pharyngei)
+* лицевая вена (v.facialis)
+* верхняя щитовидная вена (v.thyroidea sup.)
+диплоические вены (vv.diploici)
+106 Вены, формирующие наружную яремную вену (v.jugularis ext.):
+* занижнечелюстная вена (v.retromandibularis)
+* затылочная вена (v.occipitalis)
+* задняя ушная вена (v.auricularis post.)
+лицевая вена (v.facialis)
+глоточные вены (vv.pharyngei)
+107 Слева подключичная артерия (a.subclavia) начинается от:
+* дуги аорты (arcus aortae)
+плечеголовного ствола (tr.brachiocephalicus)
+общей сонной артерией (a.carotis communis)
+грудной части аорты (pars thoracica aortae)
+восходящей части аорты (pars ascendens aortae)
+108 Справа подключичная артерия (a. subclavia) начинается от:
+* плечеголовного ствола (tr.brachiocephalicus)
+общей сонной артерией (a.carotis communis)
+дуги аорты (arcus aortae)
+грудной части аорты (pars thoracica aortae)
+восходящей части аорты (pars ascendens aortae)
+109 К париетальной ветви грудной части аорты относится:
+* верхняя диафрагмальная артерия (a.phrenica superior)
+бронхиальные ветви (rr.bronchiales)
+пищеводные ветви (a.oesophageales)
+перикардиальные ветви (rr.pericardiali)
+медиастинальные ветви (rr.mediastinales)
+110 К париетальным ветвям грудной части аорты относятся:
+* задние межреберные артерии (aa.intercostales posterior)
+бронхиальные ветви (rr.bronchiales)
+пищеводные ветви (a.oesophageales)
+бронхиальные ветви (rr.bronchiales)
+медиастинальные ветви (rr.mediastinales)
+111 От каждой из задних ветвей межреберных артерий отделяю(е)тся:
+* латеральная кожная ветвь (r.cutaneus lateralis)
+тимусные ветви (rr.thymici)
+бронхиальные ветви ( rr.bronchiales)
+грудинные ветви (rr.sternales)
+прободающие ветви (rr.perforantes)
+112 От каждой из задних ветвей межреберных артерий отделяю(е)тся:
+* медиальная кожная ветвь (r.сutaneus mediales)
+тимусные ветви (rr.thymici)
+бронхиальные ветви ( rr.bronchiales)
+грудинные ветви (rr.sternales)
+прободающие ветви (rr.perforantes)
+113 Внутренняя грудная артерия (a.thoracica interna) отходит от:
+* подключичной артерии (a.subclavia)
+внутренней сонной артерии (a.carotis interna)
+наружной сонной артерии (a.carotis externa)
+подмышечной артерии (a.axillaris)
+плечевой артерии (a.brachiales)
+114 От внутренней грудной артерии отходят ветви:
+* медиастенальные ветви (rr.mediastenales)
+* ветви молочной железы (rr.mammarii)
+глоточные ветви (rr.pharyngeales)
+* грудинные ветви (rr.sternales)
+грудные ветви (rr.pectorales)
+115 Конечными ветвями внутренней грудной артерии являются:
+* мышечно-диафрагмальная и верхняя надчревная артерии (aa.musculophrenica et epigastrica superior)
+медиастенальные ветви (rr.mediastenales)
+тимусные ветви (rr.thymici)
+бронхиальные и трахеальные ветви (rr.bronchiales et tracheales)
+грудинные ветви (rr.sternales)
+116 К париетальным ветвям брюшной аорты относится:
+* нижняя диафрагмальная артерия (a. phrenica inferior)
+чревный ствол (tr.coeliacus)
+общая печеночная артерия (a.hepatica communis)
+левая желудочная артерия (a.gastrica sinistra)
+селезеночная артерия (a.lienalis)
+117 К париетальным ветвям брюшной аорты относятся:
+* поясничные артерии (aa.lumbales)
+нижние панкреатодуоденальные артерии (aa.pancreaticoduodenales)
+тощекишечные артерии (aa.jejunales)
+подвздошно-кишечные артерии (aa.ileales)
+сигмовидные артерии (aa.sigmoideae)
+118 Кровоснабжение диафрагмы осуществляют:
+* нижние диафрагмальные артерии (aа.phrenicae inferiores)
+чревный ствол (tr.coeliacus)
+поясничные артерии (aa.lumbales)
+нижняя брыжеечная артерия (a.mesenterica inferior)
+верхняя брыжеечная артерия (a.mesenterica superior)
+119 Кровоснабжение диафрагмы осуществляют:
+* верхние диафрагмальные артерии (aа. phrenicae superiores)
+чревный ствол (tr. coeliacus)
+поясничные артерии (aa. lumbales)
+нижняя брыжеечная артерия (a.mesenterica inferior)
+верхняя брыжеечная артерия ( a.mesenterica superior)
+120 Кровоснабжение диафрагмы осуществляют:
+* задние межреберные артерии (aa.intercostales posteriores)
+чревный ствол (tr.coeliacus)
+поясничные артерии (aa.lumbales)
+нижняя брыжеечная артерия (a.mesenterica inferior)
+верхняя брыжеечная артерия (a.mesenterica superior)
+121 Верхние и нижние диафрагмальные артерии анастомозируют:
+* в толще диафрагмы
+в передней стенке грудной клетки
+в передней стенке брюшной стенки
+в задней стенке грудной клетки
+в задней стенке брюшной полости
+122 Непарная вена (v.azygos) является продолжением:
+* правой восходящей поясничной вены (v.lumbalis ascendes dextra)
+верхней полой вены (v. саva superior)
+полунепарной вены (v. hemiazygos)
+позвоночной вены (v. vertebralis)
+глубокой шейной вены (v. cervicalis profunda)
+123 Полунепарная вена (v.hemiazygos) является продолжением:
+* левой восходящей поясничной вены (v.lumbalis ascendes sinistra)
+верхней полой вены (v. саva superior)
+непарной вены (v. azygos)
+позвоночной вены (v. vertebralis)
+внутренней грудной вены (v. thoracica interna)
+124 В непарную вену (v.zygos) впадает:
+* полунепарная вена (v.hemiazygos)
+верхняя полая вена (v.саva superior)
+нижняя полая вена (v.саva inferior)
+внутренняя грудная вена (v.thoracica interna)
+позвоночная вена (v.vertebralis)
+125 В непарную вену (v.azygos) впадают:
+* задние межреберные вены (vv.intercostales posteriors)
+верхняя полая вена (v.саva superior)
+добавочная полунепарная вена (v.hemiazygos acessorius)
+плечеголовные вены (vv.brachiocephalicae)
+позвоночная вена (v.vertebralis)
+126 В полунепарную (v.hemiazygos) вену впадает:
+* добавочная полунепарная вена (v.hemiazygos acessorius)
+нижняя полая вена (v.саva inferior)
+позвоночная вена (v.vertebralis)
+непарная вена (v.azygos)
+внутренняя грудная вена (v.thoracica interna)
+127 В каждую из задних межреберных вен впадает:
+* межпозвоночная вена (v.intervertebralis)
+непарная вена (v.azygos)
+полунепарная вена (v.hemiazygos)
+добавочная полунепарная вена (v.hemiazygos acessorius)
+позвоночная вена (v.vertebralis)
+128 К париетальным притокам нижней полой вены относятся:
+* нижние диафрагмальные вены (vv.phrenicae inferiores)
+верхние диафрагмальные вены (vv.phrenicae superiors)
+печеночные вены (vv.hepaticae)
+подвздошно-поясничные вены (vv.iliolumbales)
+латеральные крестцовые вены (vv.sacrales laterales)
+129 К париетальным притокам нижней полой вены относятся:
+* поясничные вены (vv.lumbales)
+верхняя диафрагмальная вена (v.phrenica superior)
+печеночные вены (vv.hepaticae)
+подвздошно-поясничные вены (vv.iliolumbales)
+латеральные крестцовые вены (vv.sacrales laterales)
+130 Поясничные вены формируют кава-кавальный анастомоз:
+* на задней стенке живота
+в толще передней стенке живота
+внутри позвоночного канала
+в толще диафрагмы
+на боковых стенках живота
+131 Отток крови от диафрагмы осуществляется в:
+* нижнюю полую вену (v.саva inferior)
+* верхнюю полую вену (v.саva superior)
+портальную вену (v.portae)
+в плечеголовной ствол (tr.brachiocephalicus)
+общую подвздошную вену (v.iliaca communis)
+132 В области пищеводного отверстия диафрагмы имеется анастомоз:
+* пищеводными венами и левой желудочной вены (vv.oesophageales et v.gastrica sinistra)
+непарной вены, полунепарной вены и поясничными венами (v.azygos, v.hemiazygos et vv.lumbales)
+верхней и нижней надчревными венами (vv.epigastricae superior et inferior)
+нижней и верхней прямокишечными венами (vv.rectales inferior et superior)
+средней и верхней прямокишечными венами (vv.rectales media et superior)
+133 Венозный отток от нижней части брюшной стенки осуществляется:
+* во внутреннюю подвздошную вену (v.iliaca interna)
+в наружную подвздошную вену (v.iliaca externa)
+в непарную вену (v.azygos)
+в воротную вену (v.portae)
+в селезеночную вену (v.lienalis)
+134 К париетальным притокам внутренней подвздошной вены относятся:
+* латерально-крестцовые вены (vv.sacrales laterales)
+* подвздошно-поясничная вена (v.iliolumbalis)
+предстательные венозные сплетения (plexus venosus prostaticus)
+влагалищное венозное сплетение (plexus venosus vaginalis)
+мочепузырное венозное сплетение (plexus venosus vesicalis)
+135 В толще стенки живота формируется кава-кавальный анастомоз между:
+* верхней надчревной веной (v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+непарной веной, полунепарной веной и поясничными венами (v.azygos, v.hemiazygos et vv.lumbales)
+верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+нижней прямокишечной веной (v.rectalis inferior) и верхней прямокишечной веной (v.rectalis superior)
+136 В толще задней стенке живота формируется кава-кавальный анастомоз между:
+* непарной веной, полунепарной веной (v.azygos, v.hemiazygos) и поясничными венами (vv.lumbales)
+верхней надчревной веной (v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+нижней прямокишечной веной (v.rectalis inferior) и верхней прямокишечной веной (v.rectalis superior)
+верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+137 В формировании кава-кавального анастомоза внутри позвоночного канала участвуют:
+* задние межреберные вены (vv.spinales) и поясничные вены (vv.lumbales)
+верхняя надчревная вена (v.epigastrica superior) и нижняя надчревная вена (v.epigastrica inferior)
+пищеводные вены (vv.oesophageales) и левая желудочная вена (v.gastrica sinistra)
+непарная вена, полунепарная вена (v.azygos, v.hemiazygos) и поясничные вены (vv.lumbales)
+верхняя надчревная вена (v.epigastrica superior) и околопупочные вены (vv.paraumbilicales)
+138 В систему верхней полой вены входит:
+* верхняя надчревная вена (v.epigastrica superior)
+нижняя надчревная вена (v.epigastrica inferior)
+околопупочные вены (vv.paraumbilicales)
+поясничные вены (vv.lumbales)
+левая желудочная вена (v.gastrica sinistra)
+139 В систему верхней полой вены входит:
+* полунепарная вена (v.hemiazygos)
+нижняя надчревная вена (v.epigastrica inferior)
+околопупочные вены (vv.paraumbilicales)
+верхняя прямокишечная вена (v.rectalis superior)
+левая желудочная вена (v.gastric sinistra)
+140 В систему нижней полой вены входит:
+* нижняя надчревная вена (v.epigastrica inferior)
+верхняя надчревная вена (v.epigastrica superior)
+непарная вена (v.azygos)
+левая желудочная вена (v.gastrica sinistra)
+полунепарная вена (v.hemiazygos)
+141 К притокам нижней полой вены относится:
+* поясничные вены (vv.lumbales)
+верхняя надчревная вена (v.epigastrica superior)
+непарная вена (v.azygos)
+левая желудочная вена (v.gastrica sinistra)
+пищеводные вены (vv.oesophageales) 
+142 В толще передней стенки живота формируется порто-кавальный анастомоз между:
+* верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+средней прямокишечной веной (v.media superior)
+нижней прямокишечной веной (v.rectalis inferior) и верхней прямокишечной веной (v.rectalis superior)
+верхней надчревной веной(v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+143 В области кардии желудка формируется порто-кавальный анастомоз между:
+* пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+средней прямокишечной веной (v.rectalis media) и верхней прямокишечной веной (v.rectalis superior)
+верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+нижней прямокишечной веной (v.rectalis inferior) и нижней надчревной веной (v.epigastrica inferior)
+верхней надчревной веной (v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+144 В стенке прямой кишки формируется порто-кавальный анастомоз:
+* средней прямокишечной веной (v.rectalis media) и верхней прямокишечной веной (v.rectalis superior)
+верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+верхней надчревной веной (v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+непарной веной (v.azygos) и поясничными венами (vv.lumbales)
+145 В стенке прямой кишки располагается порто-кавальный анастомоз сформированный:
+* нижней прямокишечной веной (v.rectalis inferior) и верхней прямокишечной веной (v.rectalis superior)
+верхней надчревной веной (v.epigastrica superior) и околопупочными венами (vv.paraumbilicales)
+пищеводными венами (vv.oesophageales) и левой желудочной веной (v.gastrica sinistra)
+верхней надчревной веной (v.epigastrica superior) и нижней надчревной веной (v.epigastrica inferior)
+полунепарной веной (v.hemiazygos) и поясничными венами (vv.lumbales)
+146 К системе воротной вены относится:
+* левая желудочная вена (v. gastric sinistra)
+верхняя надчревная вена (v. epigastrica superior)
+нижняя надчревная вена (v. epigastrica inferior)
+средняя прямокишечная вена (v. media superior)
+нижняя прямокишечная вена (v.rectalis inferior)
+147 В систему воротной вены входят:
+* верхняя прямокишечная вена (v.rectalis superior)
+верхняя надчревная вена (v.epigastrica superior)
+нижняя надчревная вена (v.epigastrica inferior)
+средняя прямокишечная вена (v.rectalis media)
+нижняя прямокишечная вена (v.rectalis inferior)
+148 Система воротной вены включает в себя:
+* околопупочные вены (vv.paraumbilicales)
+верхнюю надчревную вену (v.epigastrica superior)
+нижнюю надчревную вену (v.epigastrica inferior)
+среднюю прямокишечную вену (v.media superior)
+нижнюю прямокишечную вену (v.rectalis inferior)
+149 В стенке грудной полости формируется анастомоз между:
+* ветвями грудной части аорты (pars thoracica aortae) и ветвями подключичной артерии (a.subclavia)
+ветвями абдоминальной части аорты (pars abdominalis aortae) и ветвями грудной части аорты (pars thoracica aortae)
+ветвями грудной части аорты (pars thoracica aortae) и ветвями дуги аорты (arcus aortae)
+ветвями грудной части аорты (pars thoracica aortae) и ветвями внутренней сонной артерии (a.carotis interna)
+ветвями грудной части аорты (pars thoracica aortae) и ветвями наружной сонной артерии (a.carotis externa)
+150 В толще диафрагмы анастомозируют ветви:
+* грудной части (pars thoracica aortae) аорты и брюшной части аорты (pars abdominalis aortae)
+грудной части аорты (pars thoracica aortae) и подключичной артерии (a.subclavia)
+грудной части аорты (pars thoracica aortae) и дуги аорты (arcus aortae)
+брюшной части аорты (pars abdominalis aortae) и дуги аорты (arcus aortae)
+брюшной части аорты (pars abdominalis aortae) и подключичной артерии (a.subclavia)
+151 Задние межреберные артерии анастомозируют с позвоночными артериями:
+* на поверхности грудного и шейного отделов позвоночника
+в толще диафрагмы
+в толще передней грудной стенке
+в толще передней брюшной стенке
+в области кардиального отдела желудка
+152 В толще диафрагмы анастомозируют ветви:
+* верхних диафрагмальных артерий (aa.phrenicae superiores) и нижних диафрагмальных артерий (aa.phrenicae inferiores)
+задних межреберных артерий (aa.intercostales posteriores) и передних межреберных артерий (aa.intercostales anteriores)
+задних межреберных артерий (aa.intercostales posteriores) и позвоночной артерии (a.vertebralis)
+верхних диафрагмальных артерий (aa.phrenicae superiores) и задних межреберных артерий (aa.intercostales posteriores)
+верхних диафрагмальных артерий (aa.phrenicae superiores) и позвоночной артерии (a.vertebralis)
+153 В области кардиального отдела желудка анастомозируют:
+* пищеводные ветви (rr.oesophageales) и левая желудочная артерия (a.gastrica sinistra)
+пищеводные ветви грудной части аорты (rr.oesophageales) и перикардиальные ветви (rr.pericardialici)
+пищеводные ветви (rr.oesophageales) и медиастенальные ветви (rr.mediastinales)
+медиастинальные ветви (rr.mediastinales) и левая желудочная артерия (a.gastrica sinistra)
+медиастинальные ветви (rr.mediastinales) и перикардиальные ветви (rr.pericardialici)
+154 В толще передней стенки живота анастомозируют ветви:
+* подключичной артерии (a.subclavia) и наружной подвздошной артерии (a.iliaca externa)
+чревного ствола (tr.coeliacus) и верхней брыжеечной артерии (a.mesenterica superior)
+верхней брыжеечной артерии (a.mesenterica superior) и нижней брыжеечной артерии (a.mesenterica inferior)
+нижней брыжеечной артерии (a.mesenterica inferior) и внутренней подвздошной артерии (a.iliaca interna)
+абдоминальной части аорты (pars abdominalis aortae) и внутренней подвздошной артерии (a.iliaca interna)
+155 В толще передней брюшной стенки формируется анастомоз между:
+* верхней надчревной артерией (a.epigastrica superior) и нижней надчревной артерией (a.epigastrica inferior)
+яичниковой артерией (a.ovarica) и маточной артерией (a.uterina)
+средней прямокишечной артерией (a.rectalis media), верхней прямокишечной артерией (a.rectalis superior) и нижней прямокишечной артерией (a.rectalis inferior)
+средней ободочной артерией (a.colica media) и левой ободочной артерией (a.colica sinistra)
+передними и задними панкродуоденальными артериями и нижними панкреодуоденальными артериями
+156 В брыжейке поперечной ободочной кишки анастомозируют ветви:
+* верхней брыжеечной артерии (a.mesenterica superior) и нижней брыжеечной артерии (a.mesenterica inferior)
+подключичной артерии (a.subclavia) и наружной подвздошной артерий (a.iliaca externa)
+чревного ствола (tr.coeliacus) и верхней брыжеечной артерии (a.mesenterica superior)
+абдоминальной части аорты (pars abdominalis aortae) и внутренней подвздошной артерии (a.iliaca interna)
+нижней брыжеечной артерии (a.mesenterica inferior) и внутренней подвздошной артерии (a.iliaca interna)
+157 В брыжейке поперечной ободочной кишки формируется анастомоз:
+* средней ободочной артерией (a.colica media) и левой ободочной артерией (a.colica sinistra)
+верхней надчревной артерии (a.epigastrica superior) и нижней надчревной артерии (a.epigastrica inferior)
+верхними панкреодуоденальными артериями и нижними панкреодуоденальными артериями 
+средней прямокишечной артерией (a.rectalis media), верхней прямокишечной артерией (a.rectalis superior), нижней прямокишечной артерией (a.rectalis inferior)
+яичниковой артерией (a.ovarica) и маточной артерией (a.uterine)
+158 Подмышечная артерия (a. axillaris) является продожением
+* подключичной артерии (a.subclavia)
+плечевой артерии (a. rachialis)
+локтевой артерии (a.ulnaris)
+лучевой артерии (a.radialis)
+глубокой артерии плеча (a.profunda brachii)
+159 От подмышечной артерии (a.axillaris) отходят:
+* верхняя грудная артерия (a.thoracica superior)
+* задняя артерия, огибающая плечевую кость (a.circumflexa humeri posterior)
+* подлопаточная артерия (a.subscapularis)
+* латеральная грудная артерия (a.thoracica lateralis)
+возвратная лучевая артерия (a.recurrens radialis)
+160 Грудоакромиальная артерия (a.thoracoacromialis) кровоснабжает
+* акромиальноключичный сустав (art.thoracoacromialis)
+* плечевой сустав (art.humeri)
+* подключичную мышцу (m.subclavius)
+трехглавую мышцу плеча (m.triceps brachii)
+плечевую мышцу (m.brachialis)
+161 Через трехстороннее отверстие (foramen trilaterum) проходит
+* артерия, огибающая лопатку (a.circumflexa scapulae)
+задняя артерия, огибающая плечевую кость (a.circumflexa humeri posterior)
+передняя артерия, огибающая плечевую кость (a.circumflexa humeri anterior)
+подлопаточная артерия (a.subscapularis)
+надлопаточная артерия (a.suprascapularis)
+162 Через четырехстороннее отверстие (foramen quadrilaterum) проходит
+* задняя артерия, огибающая плечевую кость (a.circumflexa humeri posterior)
+латеральная грудная артерия (a.thoracica lateralis)
+подлопаточная артерия (a.subscapularis)
+артерия,огибающая лопатку (a.circumflexa scapulae)
+передняя артерия, огибающая плечевую кость (a.circumflexa humeri anterior)
+163 Подлопаточная артерия (a.subscapularis) делится на
+* грудоспинную артерию (a.thoracodorsalis)
+* артерию, огибающую лопатку (a.circumflexa scapulae)
+верхнюю грудную артерию (a.thoracica superior)
+латеральную грудную артерию (a.thoracica lateralis)
+акромиальную ветвь (r.acromialis)
+164 В кровоснабжении дельтовидной мышцы (m.deltoideus) участвуют:
+* грудоакромиальная артерия (a.thoracoacromialis)
+* задняя артерия, огибающая плечевую кость (a.circumflexa humeri posterior)
+латеральная грудная артерия (a.thoracica lateralis)
+надлопаточная артерия (a.suprascapularis)
+подлопаточная артерия (a.subscapularis)
+165 Плечевая артерия (a.brachialis) является продолжением:
+локтевой артерии (a.ulnaris)
+лучевой артерии (a.radialis)
+* подмышечной артерии (a.axillaris)
+подключичной артерии (a.subclavia)
+подлопаточной артерии (a.subscapularis)
+166 От плечевой артерии (a.brachialis) отходят:
+* мышечные ветви (rr.musculares)
+* верхняя локтевая коллатеральная артерия (a.collateralis ulnaris superior)
+* нижняя локтевая коллатеральная артерия (a.collateralis ulnaris inferior)
+* глубокая артерия плеча (a.profunda brachii)
+локтевая возвратная артерия (a.recurrens ulnaris)
+167 От глубокой артерии плеча (a.profunda brachii) отходят:
+* артерии, питающие плечевую кость (aa.nutriciae humeri)
+* дельтовидная ветвь (r.deltoideus)
+* средняя коллатеральная артерия (a.collateralis media)
+* лучевая коллатеральная артерия (a.collateralis radialis)
+верхняя локтевая коллатеральная артерия (a.collateralis ulnaris superior)
+168 В формировании локтевой сосудистой сети участвуют следующие сосуды из системы плечевой артерии:
+* верхняя локтевая коллатеральная артерия (a.collateralis ulnaris superior)
+* нижняя локтевая коллатеральная артерия (a.collateralis ulnaris inferior)
+* лучевая коллатеральная артерия (a.collateralis radialis)
+* средняя коллатеральная артерия (a.collateralis media)
+мышечные ветви (rr.musculares)
+169 В кровоснабжении передней группы мышц плеча принимают участие:
+* верхняя и нижняя локтевые коллатеральные артерии (aa.collaterales ulnares superior et inferior)
+* плечевая артерия (a.brachialis)
+* лучевая возвратная артерия (a.recurrens radialis)
+лучевая коллатеральная артерия (a.collateralis radialis)
+надлопаточная артерия (a.suprascapularis)
+170 В кровоснабжении задней группы мышц плеча принимают участие:
+* задняя артерия, огибающая плечевую кость (a.circumflexa humeri posterior)
+* глубокая артерия плеча (a.profunda brachii)
+* верхняя и нижняя локтевые коллатеральные артерии (aa.collaterles ulnares superior et inferior)
+надлопаточная артерия (a.suprascapularis)
+подлопаточная артерия (a.subscapularis)
+171 Плечевая артерия (a. brachialis) проходит в
+* медиальной борозде двуглавой мышцы (sulcus bicipitalis medialis)
+* локтевой ямке (fossa cubitalis)
+латеральной борозде двуглавой мышцы (sulcus bicipitalis lateralis)
+плечемышечном канале (canalis humeromuscularis)
+лучевой борозде (sul.radialis)
+172 От локтевой артерии (a.ulnaris) отходят:
+* мышечные ветви (rr.musculares)
+* ладонная запястная ветвь (r.carpalis palmaris)
+* локтевая возвратная артерия (a.recurrens ulnaris)
+* общая межкостная артерия (a.interossea communis)
+поверхностная ладонная ветвь (r.palmaris superficialis)
+173 От локтевой артерии (a.ulnaris) отходят:
+* глубокая ладонная ветвь (r.palmaris profundus)
+* локтевая возвратная артерия (a.recurrens ulnaris)
+поверхностная ладонная ветвь (r.palmaris superficialis)
+нижняя локтевая коллатеральная артерия (a.collateralis ulnaris inferior)
+возвратная межкостная артерия (a.interossea recurrens)
+174 Локтевая артерия (a.ulnaris) проходит через
+* медиальный (локтевой) запястный канал (canalis carpi ulnaris)
+* локтевую борозду (sul.ulnaris)
+* локтевую ямку (fossa cubitalis)
+канал запястья (canalis carpi)
+латеральный (лучевой) запястный канал (canalis carpi radialis)
+175 Общая межкостная артерия (a.interossea communis) делится на
+* переднюю межкостную артерию (a.interossea anterior)
+* заднюю межкостную артерию (a.interossea posterior)
+возвратную межкостную артерию (a.interossea recurrens)
+ладонную запястную ветвь (r.carpalis palmaris)
+дорсальную запястную ветвь (r.carpalis dorsalis)
+176 Локтевая артерия (a.ulnaris) кровоснабжант следующие группы мышц:
+* переднюю группу мышц предплечья
+переднюю группу мышц плеча
+заднюю группу мышц плеча
+заднюю группу мышц предплечья
+мышцы возвышения большого пальца 
+177 От лучевой артерии (a.radialis) отходят:
+* ладонная запястная ветвь (r.carpalis palmaris)
+* поверхностная ладонная ветвь (r.palmaris superficialis)
+* лучевая возвратная артерия (a.recurrens radialis}
+общая межкостная артерия (a.interossea communis)
+средняя коллатеральная артерия (a.collateralis media)
+178 От лучевой артерии (a. radialis) отходят
+* мышечные ветви (rr.musculares)
+* тыльная запястная ветвь (r.carpalis dorsalis)
+* артерия большого пальца кисти (a.princips pollicis)
+общая межкостная артерия (a.interossea communis)
+лучевая коллатеральная артерия (a. collateralis radialis)
+179 От лучевой артерии (a.radialis) отходят:
+* мышечные ветви (rr.musculares)
+* лучевая возвратная артерия (a.recurrens radialis)
+* артерия, питающая лучевую кость (a.nutricia radii)
+лучевая коллатеральная артерия (a.collateralis radialis)
+глубокая ладонная ветвь (r.palmaris profundus)
+180 Лучевая артерия (a.radialis) проходит в следующих топографических образованиях
+* лучевая борозда (sul.radialis)
+* локтевая ямка (fossa cubitalis)
+* анатомическая табакерка
+локтевая борозда (sul.ulnaris)
+латеральный (запястный лучевой) канал (canalis carpi radialis)
+181 Лучевая артерия (a.radialis) кровоснабжает следующие группы мышц
+* переднюю группу мышц предлечья
+* заднюю группу мышц предплечья
+переднюю группу мышц плеча
+заднюю группу мышц плеча
+мышцы возвышения мизинца, гипотенар (hypothenar)
+182 Лучевая  артерия (a. radialis) участвует в кросовснабжении 
+* локтевого сустава (art. cubiti)
+* проксимального лучелоктевого сустава (art. radioulnaris proximalis)
+* дистального лучелоктевого сустава (art. radioulnaris distalis)
+* лучезапястного сустава (art. radiocarpalis)
+плечевого сустава (art. humeri)
+183 Плечевой сустав (art. humeri) кровоснабжают
+* передняя артерия, огибающая плечевую кость (a.circumflexa humeri anterior)
+* задняя артерия, огибающая плечевую кость (a.circumflexa humeri  posterior)
+* грудоакромиальная артерия (a.thoracoacromialis)
+* надлопаточная артерия (a.suprascapularis)
+грудоспинная артерия (a.thoracodorsalis)
+184 В формировании артериальной  локтевой суставной сети (rete articulare cubiti) участвуют
+* лучевая коллатеральная артерия (a. collateralis radialis)
+* верхняя локтевая коллатеральная артерия (a. collateralis ulnaris superior)
+* нижняя локтевая коллатеральная артерия (a. collateralis ulnaris inferior)
+* передняя и задняя ветви локтевой возвратной артерии (r. anterior et r. posterior a. recurrens ulnarae)
+передняя межкостная артерия (a. interossea anterior)
+185 В формировании артериальной локтевой суставной сети (rete articulare cubiti) участвуют
+* коллатеральная лучевая артерия (a. collateralis radialis)
+* возвратная лучевая артерия (a. recurrens radialis)
+передняя межкостная артерия (a. interossea anterior)
+плечевая артерия (a. brachialis)
+локтевая артерия (a.ulnaris)
+186 В формировании артериальной локтевой суставной сети (rete articulare cubiti) участвуют
+* средняя коллатеральная артерия (a.collateralis media)
+* лучевая коллатеральная артерия (a.collateralis radialis)
+* задняя ветвь локтевой возвратной артерии (r. posterior a. recurrens ulnares)
+* возвратная межкостная артерия (a. interossea recurrens)
+общая межкостная артерия (a. interossea communis)
+187 Лучезапястный сустав (art. radiocarprlis) кровоснабжают
+* тыльная запястная сеть  (rete carpale dorsale)
+* ладонная запястная ветвь (r. carpalis palmaris)
+общая межкостная артерия (a. interossea communis)
+возвратная лучевая артерия (a. recurrens radialis)
+возвратная локтевая артерия (a. recurrens ulnaris)
+188 Большой палец кисти кровоснабжают
+* артерия большого пальца кисти (a. princeps pollicis)
+* первая тыльная пястная артерия (a.metacarpalis dorsalis prima)
+* первая ладонная пястная артерия (a. metacarpalis palmaris prima)
+общая ладонная пальцевая артерия (a. digitalis palmaris communis)
+прободающие ветви (rr. perforantes)
+189 Межфаланговые суставы II-V пальцев кисти (artt. interphalangeales II-V manus) кровоснабжяют
+* тыльные артерии пальцев (aa. digitales dorsales)
+* собственные ладонные артерии пальцев (aa. digitales palmares propriae)
+тыльные пястные артерии (aa. metacarpales  dorsales)
+ладонные пястные артерии (aa. metacarpales palmares)
+тыльная запястная ветвь (r. carpalis dorsalis)
+190 Тыльная запястная сеть (rete carpale dorsale) образуется
+* задней межкостной артерией (a. interossea posterior)
+* передней межкостной артерией (a. interossea anterior)
+* тыльной запястной ветвью из лучевой артерии (r. carpalis dorsalis a. radiales)
+* тыльной запястной ветвью из локтевой артерии (r. carpalis dorsalis a. ulnares)
+общей межкостной артерией (a. interossea communis)
+191 Лучезапястный сустав (art. radiocarpalis) кровоснабжают
+* ладонная запястная ветвь локтевой артерии (r. carpalis palmaris a. ulnares)
+* ладонная запястная ветвь лучевой артерии (r. carpalis palmaris a. radiales)
+* тыльная запястная ветвь локтевой артерии (r. carpalis dorsalis a. ulnares)
+* передняя межкостная артерия (a. interossea anterior)
+общая межкостная артерия (a. interossea communis)
+192 Лучезапястный сустав (art. radiocarpalis) кровоснабжают
+* тыльная запястная сеть (rete carpale dorsale)
+* ладонные запястные ветви лучевой и локтевой артерий 
+тыльные пястные артерии (aa. metacarpales dorsales)
+ладонные пястные артерии (aa. metacarpales palmares)
+поверхностная ладонная ветвь (r. palmaris superficialis)
+193 От тыльной сети запястья (rete carpale dorsale) отходят
+* тыльные пястные артерии (aa.metacarpales dorsales)
+ладонная запястная ветвь (r.carpalis palmaris)
+артерия большого пальца кисти (a.princeps pollicis)
+тыльная запястная ветвь (r.carpalis dorsalis)
+ладонные пястные артерии (aa.metacarpales palmares)
+194 От тыльной сети запястья (rete carpale dorsale) крвоснабжаются
+* лучезапястный сустав (art. radiocarpalis)
+* дорсальная поверхность кисти (facies dorsalis manus)
+квадратный пронатор (m.pronator quadratus)
+локтевой сгибатель запястья (m.flexor carpi ulnaris)
+плечелучевая мышца (m.brachioradialis)
+195 Тыльные пястные артерии (aa. metacarpales dorsales) делятся на
+* тыльные пальцевые артерии (aa. digitales dorsales)
+прободающие ветви (rr. perforantes)
+собственные пальцевые ладонные артерии (aa. digitales palmares proprii)
+глубокая ладонная ветвь (r. palmaris profundus)
+поверхностная ладонная ветвь (r. palmaris superficialis)
+196 От собственной артерии большого пальца кисти (a. princeps pollicis) отходят
+* лучевая артерия указательного пальца (a. radialis indicis)
+* две ладонные пальцевые артерии (2 aa. digitales dorsales)
+прободающие ветви (rr. perforantes)
+собственные ладонные пальцевые артерии (aa. digitales palmares proprii)
+глубокая ладонная ветвь (r. palmaris profundus)
+197 Поверхностная ладонная дуга (arcus palmaris superficialis) образована
+* поверхностнй ладонной ветвью (r. palmaris superficialis)
+* локтевой артерией (a. ulnaris)
+ладонной запястной ветвью (r. carpalis palmaris)
+артерией большого пальца кисти (a. princeps pollicis)
+лучевой артерией (a. radialis)
+198 От поверхностной ладонной дуги (arcus palmaris superficialis) отходят
+* общие ладонные пальцевые артерии (aa. digitales palmares communes)
+тыльные пястные артерии (aa. metacarpales dorsales)
+ладонные пястные артерии (aa. metacarpales palmares)
+артерия большого пальца кисти (a. princeps pollicis)
+лучевая артерия указательного пальца (a. radialis indicis)
+199 Глубокая ладонная дуга (arcus palmaris profundus) образована
+* лучевой артерией (a. radialis)
+* глубокой ладонной ветвью (r. palmaris profundus)
+локтевой артерией (a. ulnaris)
+поверхностной ладонной ветвью (r. palmaris superficialis)
+общей межкостной артерией (a. interossea communis)
+200 От глубокой ладонной дуги (arcus palmaris profundus) отходят
+* ладонные пястные артерии (aa. metacarpales palmares)
+артерия большого пальца кисти (a. princips pollicis)
+общие ладонные пальцевые артерии (aa. digitales palmares communes)
+тыльные пястные артерии (aa. metacarpales dorsales)
+мышечные ветви (rr. musculares)
+201 От ладонных пястных артерий (aa. metacarpales palmares) отходят
+* прободающие ветви (rr. perforantes)
+поверхностная ладонная ветвь (r. palmaris superficialis)
+глубокая ладонная ветвь (r. palmaris profundus)
+собственные пальцевые артерии (aa.digitales palmares propriae)
+ладонная запястная ветвь (r. carpalis palmaris)
+202 Конечными артериями у общих ладонных пальцевых артерий (aa. digitales palmares communes) являются
+* собственные пальцевые артерии (aa. digitales palmares propriae)
+прободающие ветви (rr. perforantes)
+ладонные запястные ветви (rr. carpales palmares)
+тыльные запястные ветви (rr. carpales dorsales)
+передняя межкостная артерия (a. interossea anterior)
+203 Кисть (manus) кровоснабжают
+* прободающие ветви (rr. perforantes)
+* общие пальцевые артерии (aa. digitales palmarea communes)
+* тыльные пястные артерии (aa. metacarpales  dorsales)
+* ладонные пястные артерии (aa. metacarpales palmares)
+общая межкостная артерия (a. interossea communis)
+204 Пальцы кисти (digitorum manus) кровоснабжают
+* собственные ладонные пальцевые артерии (aa. digitales palmares proprii)
+* тыльные пальцевые артерии (aa. digitales dorsales)
+прободающие ветви (rr. perforantes)
+лучевая артерия (a. radialis)
+локтевая артерия (a.ulnaris)
+205 Большой палец кисти (pollicis) кровоснабжают
+* артерия большого пальца кисти (a. princeps pollicis)
+* первая тыльная пястная артерия (a. metacarpalis dorsalis1)
+тыльная запястная ветвь (r. carpalis dorsalis)
+ладонная запястная ветвь (r. carpalis palmaris)
+передняя межкостная артерия (a. interossea anterior)
+206 Анастомоз на ладонной поверхности запястья образуют
+* дорсальная запястная ветвь из лучевой артерии (r. carpalis dorsalis a. radiales)
+* дорсальная запястная ветвь из локтевой артерии (r. carpalis dorsalis a. ulnares)
+* передняя межкостная артерия (a. interossea anterior)
+задняя межкостная артерия (a. interossea posterior)
+ладонные пястные артерии (aa. metacarpales palmares)
+207 На верхней конечности (venae membri superioris) выделяют гуппы вен
+* поверхностные вены (vv. superficiales)
+* глубокие вены (vv. profundae)
+передние вены (vv. anteriores)
+задние вены (vv. posteriores)
+латеральные вены (vv. laterales)
+208 Поверхностные вены верхней конечности (vv. superficiales membri superioris):
+* латеральная подкожная вена руки; головная (v. cephalica)
+* медиальная подкожная вена руки; основная (v. basilica)
+* срединная вена локтя (v. mediana cubiti)
+* срединная вена предплечья (v. mediana antebrachii)
+большая подкожная вена (v.saphena magna)
+209 Латеральная подкожная вена руки; головная вена (v. cephalica) проходит в
+* латеральной борозде двуглавой мышцы (sul. bicipitalis lateralis)
+* дельтовидно-грудной борозде (sul. deltoideopectoralis)
+лучевой борозде (sulcus radialis)
+медиальной борозде двуглавой мышцы (sul. bicipitalis medialis)
+локтевой борозде (sul. ulnaris)
+210 Латеральная подкожная вена руки; головная вена (v. cephalica) впадает в
+первую дорсальную пястную вену (v. metacarpalis dorsalis I)
+* подмышечную венау (v. axillaris)
+четвертую дорсальную пястную вену (v. metacarpalis dorsalis IV)
+срединную вену локтя (v. mediana cubiti)
+плечевую вену (v. brachialis)
+211 Медиальная подкожная вена руки (v. basilica) впадает в
+четвертую дорсальную пястную вену (v. metacarpalis dorsalis IV)
+* плечевую вену (v. brachialis)
+первую дорсальную пястную вену (v. metacarpalis dorsalis I)
+подключичную вену (v. subclavia)
+подмышечную вену (v. axillaris)
+212 Латеральная подкожная вена руки (v. cephalica) соединяется c медиальной подкожной веной руки (v. basilica) и с глубокими венами посредством
+* срединной вены локтя (v. mediana cubiti)
+локтевой вены (v. ulnaris)
+лучевой вены (v. radialis)
+вены плеча (vv. brachiales)
+срединной вена предплечья (v. mediana antebrachia)
+213 Артерии верхней конечности, спровождаемые двумя одноименными венами
+* лучевая артерия (a. radialis)
+* локтевая артерия (a. ulnaris)
+* плечевая артерия (a. brachialis)
+подключичная артерия (a. subclavia)
+подмышечная артерия (a. axillaris)
+214 На верхней конечности выделяют группы лимфатических сосудов (vasa lymphatica)
+* поверхностные лимфатические сосуды (vasa lymphatica superficialia)
+* глубокие лимфатические сосуды (vasa lymphatica profunda)
+верхние лимфатические сосуды (vasa lymphatica superiores)
+нижние лимфатические сосуды (vasa lymphatica inferiores)
+внутренние лимфатические сосуды (vasa lymphatica internae)
+215 Глубокие лимфатические сосуды (vasa lymphatica profunda) верхней конечности проходят 
+* рядом с артериями
+* рядом с глубокими венами
+рядом с нервами
+рядом с сухожилиями мышц
+рядом со связками
+216 На верхней конечности имеются лимфатические узлы (nodi lymphоidei)
+* локтевые лимфатические узлы (nodi lymphoidei cubitales)
+* подмышечные лимфатические узлы (nodi lymphoidei axillares)
+сосцевидные лимфатические узлы (nodi lymphoidei mastoidei)
+латеральные аортальные лимфатические узлы (nodi lymphoidei aortici laterales)
+предкавальные лимфатические узлы (nodi lymphoidei precavales)
+217 Латеральная группа лимфатических сосудов верхней конечности (vasa lymphatici laterales) прходит через
+* подмышечные лимфатические узлы (nodi lymphoidei axillares)
+локтевые лимфатические узлы (nodi lymphoidei cubitales)
+нижние диафрагмальные лимфатические узлы (nodi lymphoidei phrenici inferiores)
+окологрудинные лимфатические узлы (nodi lymphoidei parasternales)
+поверхностные шейные лимфатические узлы (nodi lymphoidei cervicales superficiales)
+218 Медиальная группа поверхностных лимфатических сосудов верхней конечности (vasa lymphatici superficiales) прходит через
+* локтевые лимфатические узлы (nodi lymphoidei cubitales)
+* подмышечные лимфатические узлы (nodi lymphoidei axillares)
+поясничные лимфатические узлы (nodi lymphoidei lumbales)
+предкавальные лимфатические узлы (nodi lymphoidei precavales)
+позадикавальные лимфатические узлы (nodi lymphoidei postcavales)
+219 Глубокие лимфатические сосуды верхней конечности (vasa lymphatici profundae) прходят через
+* подмышечные лимфатические узлы (nodi lymphoidei axillares)
+* локтевые лимфатические узлы (nodi lymphoidei cubitales)
+сосцевидные лимфатические узлы (nodi lymphoidei mastoidei)
+поясничные лимфатические узлы (nodi lymphoidei lumbales)
+глубокие шейные лимфатические узлы (nodi lymphoidei cervicales profundi)
+220 В кровоснабжении большой ягодичной мышцы (m. gluteus maximus) участвуют:
+* нижняя ягодичная артерия (a.glutea inferior)
+* внутренняя подвздошная артерия (a.iliaca interna)
+верхняя ягодичная артерия (a.glutea superior)
+наружная подвздошная артерия (a.iliaca externa)
+внутренняя половая артерия (a.pudenda interna)
+221 Малая ягодичная мышца (m. gluteus minimus) кровоснабжается:
+* верхняя ягодичная артерия (a.glutea superior)
+* внутренняя подвздошная артерия (a.iliaca interna)
+нижняя ягодичная артерия (a.glutea inferior)
+запирательная артерия (a.obturatoria)
+внутренняя половая артерия (a.pudenda interna)
+222 Верхняя ягодичная артерия (a.glutea superior) кровоснабжает:
+* грушевидную мышцу (m. piriformis)
+* малую ягодичную мышцу (m. gluteus minimus)
+большую ягодичную мышцу (m. gluteus maximus)
+большую поясничную мышцу (m. psoas major)
+сфинктер мочеиспускательного канала (m. sphincter uretrae)
+223 Запирательная артерия (a.obturatoria) кровоснабжает:
+* наружную запирательную мышцу(m.obturatorius externus)
+* большую приводящую мышцу
+подвздошно-поясничную мышцу
+близнецовые мышцы (mm. gemelli)
+мышцу, поднимающую задний проход (m. levator ani)
+224 Запирательная артерия (a.obturatoria) кровоснабжает:
+* кожу наружных половых органов
+* медиальную группу мышц бедра
+* наружную запирательную мышцу (m.obturatorius externus)
+большую ягодичную мышцу(m. gluteus maximus)
+малую ягодичную мышцу (m. gluteus minimus)
+225 Нижняя ягодичная артерия (a.glutea inferior) кровоснабжает:
+* грушевидную мышцу (m. piriformis)
+* мышцу, поднимающую задний проход (m.levator ani)
+большую поясничную мышцу (m. psoas major)
+большую ягодичную мышцу (m. gluteus maximus)
+внутреннюю запирательную мышцу (m.obturatorius internus)
+226 Мышцы таза кровоснабжаются:
+* ветвями внутренней подвздошной артерии (a. iliaca interna)
+* верхней ягодичной артерией (a.glutea superior)
+* запирательной артерией (a.obturatoria)
+ветвями наружной подвздошной артерии (a. iliaca externa)
+внутренней половой артерией (a. pudenda interna)
+227 Ветви наружной подвздошной артерии (a. iliaca externa):
+* нижняя надчревная артерия (a. epigastrica inferior)
+* глубокая артерия, огибающая подвздошную кость (a. circumflexa ilium profunda)
+поверхностная надчревная артерия (a. epigastrica superficialis)
+запирательная артерия (a.obturatoria)
+верхняя ягодичная артерия (a.glutea superior)
+228 Ветвями внутренней подвздошной артерии (a. iliaca interna) являются:
+* верхняя ягодичная артерия (a.glutea superior)
+* запирательная артерия (a.obturatoria)
+* внутренняя половая артерия (a. pudenda interna)
+глубокая артерия, огибающая подвздошную кость (a.circumflexa ilium profunda)
+нижняя надчревная артерия (a. epigastrica inferior)
+229 В кровоснабжении тазобедренного сустава (art. coxae) участвуют:
+* вертлужная ветвь запирательной артерии (r. acetabularis a.obturatoria)
+* запирательная артерия (a.obturatoria)
+* медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+лобковая ветвь запирательной артерии (r. pubicus a.obturatoria)
+запирательная ветвь нижней надчревной артерии (r. obturatorius a. epigastrica inferior)
+230 Бедренная артерия (a.femoralis) на бедре расположена:
+* медиально от портняжной мышцы (m.sartorius)
+* за портняжной мышцей (m.sartorius)
+* медиально от медиальной широкой мышцы (m.vastus medialis)
+перед портняжной мышцей (m.sartorius)
+латерально от медиальной широкой мышцы (m.vastus medialis)
+231 В приводящем канале (canalis adductorius) бедренная артерия (a.femoralis):
+* лежит вместе с подкожным нервом (n.saphenus)
+* лежит вместе с бедренной веной (v.femoralis)
+* отдает нисходящую коленную артерию (a.descendens genus)
+лежит вместе с большой подкожной веной (v.saphena magna)
+отдает глубокую артерию бедра (a.profunda femoris)
+232 В бедренном треугольнике (trigonum femorale) от бедренной артерии (arteria femoralis) отходят следующие ветви:
+* поверхностная артерия, огибающая подвздошную кость (a.circumflexa ilium superficialis)
+* поверхностная надчревная артерия (a.epigastrica superficialis)
+глубокая артерия, огибающая подвздошную кость (a.circumflexa ilium profunda)
+нижняя надчревная артерия (a.epigastrica inferior)
+внутренняя половая артерия (a.pudenda interna)
+233 В области бедренного треугольника (trigonum femorale) бедренная артерия (a. femoralis) отдает следующие ветви:
+* глубокую артерию бедра (a.profunda femoris)
+* поверхностную надчревную артерию (a.epigastrica superficialis)
+* наружные половые артерии (aa.pudendae externae)
+нижнюю надчревную артерию (a.epigastrica inferior)
+прободающие артерии (aa.perforantes)
+234 Глубокая артерия бедра (a.profunda femoris):
+* отходит от бедренной артерии в области бедренного треугольника (trigonum femorale)
+* заканчивается прободающими артериями (aa.perforantes)
+* лежит позади бедренной артерии (arteria .femoralis)
+отходит от бедренной артерии на уровне паховой связки (lig.inguinale)
+заканчивается в подколенной ямке (fossa poplitea)
+235 Глубокая артерия бедра (a.profunda femoris) отдает следующие ветви:
+* медиальную артерию, огибающую бедренную кость (a.circumflexa femoris medialis)
+* латеральную артерию, огибающую бедренную кость (a.circumflexa femoris lateralis)
+* прободающие артерии (aa.perforantes)
+нисходящую коленную артерию (a.descendens genus)
+поверхностная артерия, огибающая подвздошную кость (a.circumflexa ilium superficialis)
+236 Медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis), отдает ветви:
+* восходящую (r.ascendens)
+* нисходящую (r.descendens)
+* вертлужной впадины (r.acetabularis)
+* глубокую (r.profundus)
+поперечную (r. transversus)
+237 Источниками кровоснабжения передней группы мышц бедра являются:
+* глубокая артерия бедра (a.profunda femoris)
+* латеральная артерия, огибающая бедренную кость (a.circumflexa femoris lateralis)
+медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+запирательная артерия (a.obturatoria)
+нисходящая коленная (a.descendens genus)
+238 Источниками кровоснабжения медиальной группы мышц бедра являются:
+* запирательная артерия (a.obturatoria)
+* глубокая артерия бедра (a.profunda femoris)
+* прободающие артерии (aa.perforantes)
+подколенная артерия (a.poplitea)
+медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+239 Источниками кровоснабжения медиальной группы мышц бедра являются:
+* наружные половые артерии (aa.pudendae externae)
+* запирательная артерия (a.obturatoria)
+* медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+* прободающие артерии (aa.perforantes)
+внутренняя половая артерия (a.pudenda interna)
+240 Заднюю группу мышц бедра кровоснабжают:
+* медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+* подколенная артерия (a.poplitea)
+латеральная артерия, огибающая бедренную кость (a.circumflexa femoris lateralis)
+запирательная артерия (a.obturatoria)
+внутренняя половая артерия (a.pudenda interna)
+241 В кровоснабжении тазобедренного сустава участвуют следующие сосуды системы бедренной артерии (arteria femoralis)
+* глубокая артерия бедра (a.profunda femoris)
+* запирательная артерия (a.obturatoria)
+* медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+поверхностная артерия, огибающая подвздошную кость (a.circumflexa ilium superficialis)
+латеральная артерия, огибающая бедренную кость (a.circumflexa femoris lateralis)
+242 Латеральная артерия, огибающая бедренную кость (a.circumflexa femoris lateralis), участвует в кровоснабжении следующих мышц:
+* портняжной (m.sartorius)
+* средней ягодичной (m.gluteus medius)
+* напрягателя широкой фасции бедра (m.tensor fasciae latae)
+двуглавой мышцы бедра (m.biceps femoris)
+медиальной широкой (m.vastus medialis)
+243 Медиальная артерия, огибающая бедренную кость, (a.circumflexa femoris medialis) участвует в кровоснабжении следующих структур:
+* тазобедренного сустава (art.coxae)
+* наружной запирательной мышцы (m.obturatorius externus)
+* полуперепончатой мышцы (m.semimembranosus)
+портняжной мышцы (m.sartorius)
+тонкой мышцы (m.gracilis)
+244 Подколенная артерия (a poplitea)
+* является продолжением бедренной артерии (a.femoralis)
+* входит в состав сосудисто-нервного пучка голени
+* лежит впереди от подколенной вены (v. poplitea)
+является ветвью задней большеберцовой артерии (a. tibialis posterior)
+лежит позади от большеберцового нерва (n. tibialis)
+245 Для подколенной артерии (a poplitea) характерно:
+* ее ветви кровоснабжают коленный сустав (art. genus)
+* идет по дну подколенной ямки (fossa poplitea)
+* ее ветвью является передняя большеберцовая артерия (a. tibialis anterior)
+* кровоснабжает подошвенную мышцу (m. plantaris)
+начинается на уровне щели между головками икроножной мышцы (m.gastrocnemius)
+246 Артериальную сеть коленного сустава (art. genus) образуют:
+* артерия, огибающая малоберцовую кость (r. circumflexus fibularis)
+* нисходящая коленная артерия (a. descendens genus)
+* латеральная нижняя коленная артерия (a. inferior lateralis genus)
+* задняя большеберцовая возвратная артерия (A. recurrens tibialis posterior)
+малоберцовая артерия (a. fibularis)
+247 В образовании артериальной сети коленного сустава (art. genus) участвуют:
+* медиальная верхняя коленная артерия (a.superior medialis genus)
+* артерия, огибающая малоберцовую кость (r.circumflexus fibularis)
+* передняя большеберцовая возвратная артерия (a.recurrens tibialis posterior)
+медиальная артерия, огибающая бедренную кость (a.circumflexa femoris medialis)
+малоберцовая артерия (a.fibularis)
+248 Коленный сустав (art. genus) кровоснабжается ветвями:
+* подколенной артерии (a poplitea)
+* бедренной артерии (a.femoralis)
+* задней большеберцовой артерии (a. tibialis posterior)
+* передней большеберцовой артерии (a. tibialis anterior)
+малоберцовой артерии (a. fibularis)
+249 Задняя большеберцовая артерия (a. tibialis posterior):
+* является продолжением подколенной артерии (a poplitea)
+является ветвью бедренной артерии (a.femoralis)
+является ветвью передней большеберцовой артерии (a. tibialis anterior)
+лежит между головками икроножной мышцы (m.gastrocnemius)
+лежит впереди задней большеберцовой мышцы (m. tibialis posterior)
+250 Передняя большеберцовая артерия (a. tibialis anterior) является:
+* ветвью подколенной артерии (a.poplitea)
+* прободает межкостную мембрану голени (membrana interossea cruris)
+ветвью бедренной артерии (a.femoralis)
+ветвью задней большеберцовой артерии (a. tibialis posterior)
+лежит между передней большеберцовой мышцей и длинным разгибателем пальцев 
+251 Малоберцовая артерия (a. fibularis):
+* является ветвью задней большеберцовой артерии (a. tibialis posterior)
+является ветвью передней большеберцовой артерии (a. tibialis anterior)
+является продолжением подколенной артерии (a. poplitea)
+проходит между мышцами передней группы голени
+проходит между поверхностными и глубокими мышцами задней группы голени
+252 Задняя большеберцовая артерия (a.tibialis posterior):
+* является ветвью подколенной артерии (a.poplitea)
+* лежит между поверхностными и глубокими мышцами задней группы голени
+* дает ветви для кровоснабжения коленного сустава (art. genus)
+* дает ветви для кровоснабжения голеностопного сустава (art. cruropopliteus)
+является ветвью передней большеберцовой артерии (a. tibialis anterior)
+253 Передняя большеберцовая артерия (a.tibialis anterior)
+* проходит по передней поверхности межкостной перепонки (membrana interossea cruris)
+* дает ветви к голеностопному суставу (art. cruropopliteus)
+* от нее начинается тыльная артерия стопы (a. dorsalis pedis)
+* дает ветви для кровоснабжения коленного сустава (art. genus)
+является ветвью задней большеберцовой артерии (a. tibialis posterior)
+254 Малоберцовая артерия (a. fibularis):
+* дает латеральные лодыжковые ветви (rr. malleolares laterales)
+* дает пяточные ветви (rr. calcanei)
+* проходит ниже головки малоберцовой кости (caput fibulae)
+дает медиальные лодыжковые ветви (rr. malleolares mediales)
+проходит в области медиальной лодыжки (malleolus medialis)
+255 Задняя большеберцовая артерия (a. tibialis posterior)
+* дает медиальные лодыжковые ветви (rr. malleolares mediales)
+* дает пяточные ветви (rr. calcanei)
+дает латеральные лодыжковые ветви (rr. malleolares laterales)
+проходит позади камбаловидной мышцы (m. soleus)
+проходит позади икроножной мышцы (m.gastrocnemius)
+256 Передняя группа мышц голени кровоснабжается:
+* передней большеберцовой артерией (a. tibialis anterior)
+подколенной артерией (a. poplitea)
+малоберцовой артерией (a. fibularis)
+бедренной артерией (a.femoralis)
+задней большеберцовой артерией (a. tibialis posterior)
+257 Трехглавая мышца голени (m. triceps surae) кровоснабжается:
+* задней большеберцовой артерией (a. tibialis posterior)
+подколенной артерией (a. poplitea)
+передней большеберцовой артерией (a. tibialis anterior)
+малоберцовой артерией (a. fibularis)
+бедренной артерией (a. femoralis)
+258 Медиальная лодыжковая сеть (rete malleolare mediale) образована ветвями следующих артерий:
+* задней большеберцовой артерии (a. tibialis posterior)
+* передней большеберцовой артерии (a. tibialis anterior)
+* тыльной артерии стопы (a. dorsalis pedis)
+малоберцовой артерии (a. fibularis)
+медиальной подошвенной артерии (a. plantaris medialis)
+259 Латеральная лодыжковая сеть (rete malleolare laterale) образована ветвями следующих артерий:
+* малоберцовой артерии (a. fibularis)
+* передней большеберцовой артерии (a. tibialis anterior)
+задней большеберцовой артерии (a. tibialis posterior)
+тыльной артерии стопы (a. dorsalis pedis)
+латеральной подошвенной артерии (a. plantaris lateralis)
+260 Пяточная сеть (rete calcaneum) образована ветвями следующих артерий:
+* малоберцовой артерии (a. fibularis)
+* задней большеберцовой артерии (a. tibialis posterior)
+передней большеберцовой артерии (a. tibialis anterior)
+медиальной подошвенной артерии (a. plantaris medialis)
+тыльной артерии стопы (a. dorsalis pedis)
+261 Источниками кровоснабжения голеностопного сустава (art. cruropopliteus) являются ветви:
+* передней большеберцовой артерии (a. tibialis anterior)
+* малоберцовой артерии (a. fibularis)
+* задней большеберцовой артерии (a. tibialis posterior)
+* тыльной артерии стопы (a. dorsalis pedis)
+медиальной подошвенной артерии (a. plantaris medialis)
+262 В образовании пяточной сети (rete calcaneum) участвуют следующие артерии:
+* пяточные ветви (rr. calcanei) задней большеберцовой артерии (a. tibialis posterior)
+* пяточные ветви (rr. calcanei) малоберцовой артерии (a. fibularis)
+медиальная подошвенная артерия (a. plantaris medialis)
+латеральная подошвенная артерия (a. plantaris lateralis)
+тыльная артерия стопы (a. dorsalis pedis)
+263 Голеностопный сустав (art. cruropopliteus) кровоснабжают:
+* передняя большеберцовая артерия (a. tibialis anterior)
+* задняя большеберцовая артерия (a. tibialis posterior)
+тыльная артерия стопы (a. dorsalis pedis)
+медиальная подошвенная артерия (a. plantaris medialis)
+латеральная подошвенная артерия (a. plantaris lateralis)
+264 Латеральная подошвенная артерия (a. plantaris lateralis) дает ветви:
+* прободающие (rr. perforantes)
+латеральные лодыжковые (rr. malleolares laterales)
+пяточные (rr. calcanei)
+глубокую подошвенную (a. plantaris profunda)
+предплюсневые (a. tarsalis)
+265 Глубокая подошвенная дуга (arcus plantaris profundus) образована:
+* латеральной подошвенной артерией (a. plantaris lateralis)
+* глубокой ветвью (r. profundus) медиальной подошвенной артерии (a. plantaris medialis)
+тыльной артерией стопы (a. dorsalis pedis)
+медиальной подошвенной артерией (a. plantaris medialis)
+глубокой подошвенной ветвью (a. plantaris profunda) тыльной артерии стопы (a. dorsalis pedis)
+266 Медиальная подошвенная артерия (a. plantaris medialis) дает ветви:
+* глубокую (r. profundus)
+* поверхностную (r. superficialis)
+прободающую (r. perforantus)
+медиальные лодыжковые ( rr. malleolares mediales)
+пяточные (rr. calcanei)
+267 К ветвям глубокой подошвенной дуги (arcus plantaris profundus) относятся:
+* подошвенные плюсневые артерии (aa. metatarsales plantares)
+* прободающие ветви (rr. perforantes)
+поверхностная (r. superficialis)
+глубокая подошвенная (a. plantaris profunda)
+предплюсневые артерии (a. tarsalis)
+268 Анастомоз между артериями тыла стопы и глубокой подошвенной дугой (arcus plantaris profundus) образован:
+* глубокой подошвенной ветвью (a. plantaris profunda)
+прободающей ветвью (r. perforantus)
+глубокой ветвью (r. profundus) медиальной подошвенной артерии (a. plantaris medialis)
+первой тыльной плюсневой артерией (a. metatarsalis dorsalis)
+подошвенные плюсневые артерии (aa. metatarsales plantares)
+269 В образовании анастомоза в первом межплюсневом промежутке принимают участие:
+* глубокая подошвенная артерия (a. plantaris profunda)
+* латеральная подошвенная артерия (a. plantaris lateralis)
+прободающая ветвь (r. perforantus)
+глубокая ветвь медиальной подошвенной артерии (a. plantaris medialis)
+первая тыльная плюсневая артерия (a. metatarsalis dorsalis)
+270 Дугообразная артерия (a. arcuata) является ветвью:
+* тыльной артерии стопы (a. dorsalis pedis)
+латеральной подошвенной артерии (a. plantaris lateralis)
+медиальной подошвенной артерии (a. plantaris medialis)
+передней большеберцовой артерии (a. tibialis anterior)
+задней большеберцовой артерии (a. tibialis posterior)
+271 Венозный отток от кожи тыла стопы происходит преимущественно в:
+* малую подкожную вену (v. saphena parva)
+* большую подкожную вену (v. sapbena magna)
+переднюю большеберцовую вену (v. tibialis anterior)
+заднюю большеберцовую вену (v. tibialis posterior)
+малоберцовую вену (v. fibularis)
+272 К притокам большой подкожной вены нижней конечности (v. sapbena magna) относятся:
+* наружные половые вены (vv. pudendae externae)
+* поверхностная надчревная вена (v. epigastrica superficialis)
+* поверхностная вена, огибающая подвздошную кость (v. circumflexa ilium superficialis)
+подколенная вена (v. poplitea)
+нижняя надчревная вена (v. epigastrica inferior)
+273 Большая подкожная вена (v. sapbena magna) впадает в:
+* бедренную вену (v.femoralis)
+подколенную (v. poplitea)
+заднюю большеберцовую вену (v. tibialis posterior)
+наружную подвздошную вену (vena iliaca externa)
+внутреннюю подвздошную вену (vena iliaca interna)
+274 Малая подкожная вена (v. saphena parva) впадает в:
+* подколенную вену (v. poplitea)
+бедренную вену (v.femoralis)
+заднюю большеберцовую вену (v. tibialis posterior)
+наружную подвздошную вену (vena iliaca externa)
+внутреннюю подвздошную вену (vena iliaca interna)
+275 В бедренную вену (v.femoralis) в области бедренного треугольника (trigonum femorale) впадают:
+* большая подкожная вена (v. sapbena magna)
+* глубокая вена бедра (v. profunda femoris)
+глубокая вена, огибающая подвздошную кость (v. circumflexa ilium profunda)
+нижняя надчревная вена (v. epigastrica inferior)
+внутренняя половая вена (v. pudenda interna)
+276 Большая подкожная вена (v. sapbena magna) впадает в бедренную вену (v.femoralis) в области:
+* бедренного треугольника (trigonum femorale)
+сосудистой лакуны (lacuna vasorum)
+приводящего канала (canalis adductorius)
+бедренного канала (canalis femoralis)
+подколенной ямки (fossa poplitea)
+277 К первичным органам иммунной системы относят:	
+* костный мозг (medulla ossium)
+селезенка (lien)
+лимфатические узлы (nodi lymphoidei)
+* тимус (thymus)
+миндалины(tonsilla)
+278 К вторичным органам иммунной системы относят:
+костный мозг (medulla ossium)
+* селезенка (lien)
+* лимфатические узелки (noduli lymphoidei)
+тимус (thymus)
+* лимфатические узлы (nodi lymphoidei)
+279 Грудной лимфатический проток (ductus thoracicus):
+* формируется на уровне XI грудного - II поясничного позвонков (Th11- L2)
+формируется на уровне X - XII грудных позвонков (Th10 - Th12)
+* впадает в левый венозный угол
+впадает в правый венозный угол
+лежит в заднем средостении
+280 В грудном лимфатическом протоке (ductus thoracicus) выделяют части:
+* брюшную (pars abdominalis)
+* дугу (arcus)
+* шейную (pars cervicalis)
+* грудную (pars thoracica)
+цистерну (cysterna chyli)
+281 В начальный отдел грудного лимфатического протока (ductus thoracicus) впадают:
+млечная цистерна (cysterna chili)
+* поясничные стволы (truncus lumbalis)
+* кишечные стволы (truncus intestinalis)
+правый лимфатический проток (ductus lymphaticus dexter)
+бронхосредостенные стволы (truncus bronchomediastinalis)
+282 В грудной лимфатический проток (ductus thoracicus)  впадают стволы (truncus):
+* правый поясничный (truncus lumbalis)
+бронхосредостенный (truncus bronchomediastinalis dexter)
+* левый бронхосредостенный (truncus bronchomediastinalis sinister)
+правый подключичный (truncus subclavius dexter sinister)
+* левый подключичный (truncus subclavius sinister)
+283 В правый лимфатический проток (ductus lymphaticus dexter) впадают:
+* правый бронхосредостенный ствол (truncus bronchomediastinalis dexter)
+правый поясничный ствол (truncus lumbalis dexter)
+* правый яремный ствол (truncus jugularis dexter)
+левый бронхосредостенный ствол (truncus bronchomediastinalis sinister)
+* правый подключичный ствол (truncus subclavius dexter)
+284 Узлы, в которые оттекает лимфа от языка:
+* яремно-лопаточноподъязычный (nodus juguloomohyoideus)
+* яремно-двубрюшный (nodus jugulodigastricus)
+околоушные (nodi parotidei)
+* поднижнечелюстные (nodi submandibularis)
+сосцевидные (nodi mastoidei)
+285 Узлы, в которые оттекает лимфа от зубов и десен:
+* подподбородочные (nodi submentalis)
+* поднижнечелюстные (nodi submandibularis)
+околоушные (nodi parotidei)
+* лицевые (nodi facials)
+заглоточные (nodi retropharyngeales)
+286 Узлы, которые собирают лимфу от стенок полости рта:
+* поднижнечелюстные (nodi submandibularis)
+* лицевые (nodi faciales)
+* подподбородочные (nodi submentalis)
+* заглоточные (nodi retropharyngeales)
+околоушные (nodi parotidei)
+287 От верхнелатерального квадранта молочной железы лимфа оттекает в лимфатические узлы
+предпозвоночные (nodi prevertebrales)
+окологрудинные (nodi parasternales)
+межреберные (nodi intercostales)
+* подмышечные (nodi axillares)
+* надключичные (nodi supraclaviculares)
+288 От нижнелатерального квадранта молочной железы лимфа оттекает в лимфатические узлы
+верхние диафрагмальные (nodi phrenici superiors)
+* окологрудинные (nodi parasternales)
+межреберные (nodi intercostales)
+* подмышечные (nodi axillares)
+надключичные (nodi supraclaviculares)
+289 От нижнемедиального квадранта молочной железы лимфа оттекает в лимфатические узлы
+верхние диафрагмальные (nodi phrenici superiores)
+межреберные (nodi intercostales)
+* окологрудинные (nodi parasternales)
+надключичные (nodi supraclaviculares)
+* подмышечные (nodi axillares)
+290 От верхнемедиального квадранта молочной железы лимфа оттекает в лимфатические узлы
+межреберные (nodi intercostales)
+* окологрудинные (nodi parasternales)
+надключичные (nodi supraclaviculares)
+предперикардиальные (nodi prepericardiales)
+* подмышечные (nodi axillares)
+291 Узлы, в которые оттекает лимфа от прямой кишки
+верхние брыжеечные (nodi mesenterici superiors)
+* нижние брыжеечные (nodi mesenterici inferiors)
+* поясничные (nodi lumbales)
+* поверхностные паховые (nodi lymphoidei inguinales superficiales)
+чревные (nodi coeliaci)
+292 Отток лимфы от матки происходит в следующие узлы:
+* поясничные (nodi lumbales)
+* наружные подвздошные (nodi iliaci externi)
+* крестцовые (nodi sacrales)
+нижние брыжеечные (nodi mesenterici inferiores)
+* паховые (nodi lymphoidei inguinales)
+293 Узлы, в которые идет отток лимфы от яичника:
+запирательные (nodi obturatorii)
+* поясничные (nodi lumbales)
+внутренние подвздошные (nodi iliaci interni)
+нижние брыжеечные (nodi mesenterici inferiors)
+общие подвздошные (nodi iliaci communes)
+294 От нижнего отдела прямой кишки лимфа оттекает в следующие узлы:
+* паховые (nodi lymphoidei inguinales)
+* крестцовые (nodi sacrales)
+запирательные (nodi obturatorii)
+* внутренние подвздошные (nodi iliaci interni)
+ягодичные (nodi gluteales)
