@@ -2,7 +2,8 @@
 A program for creating and solving tests with multiple choice
 
 ## Installation
-No installation packeges are avaliable yet
+Install as python package from TestPyPI:
+```python3 -m pip install --index-url https://test.pypi.org/simple/ example_pkg```
 
 ## Requirements & Dependencies 
 python 3.6.x+ <br />
@@ -12,12 +13,10 @@ python 3.6.x+ <br />
 In future PyQT5 library will be used for GUI
 
 ## Issues
-On windows 8 or later you should run huelina through powershell, since escape sequences for colors are not supported in standart cmd
-
-On linux you may change encoding for CSV files to utf8 rather than ansi
+You may have troubles with encodings. Use ANSI files on windows and UTF-8 on unix/linux
 
 
-## CSV for test
+## Syntax for files with questions&answers
 *example:*
 ~~~
 1 Question
