@@ -3,7 +3,7 @@ A program for creating and solving tests with multiple choice
 
 ## Installation
 Install as python package from TestPyPI:
-```python3 -m pip install --index-url https://test.pypi.org/simple/ example_pkg```
+```python3 -m pip install --index-url https://test.pypi.org/simple/ huelina --user```
 
 ## Requirements & Dependencies 
 python 3.6.x+ <br />
