@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 # TODO: Unite encodings for windows and linux
 version = 0.3
-from question import Question
+from huelina.question import Question
 from colorama import Fore, init
 from random import shuffle
 init()
