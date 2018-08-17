@@ -13,7 +13,7 @@ Install as python package from TestPyPI:
 
 ## Requirements & Dependencies 
 python 3.6.x+, consider using huelina-old for python <= 3.5.x && >=3.0 <br />
-[Colorama](https://pypi.org/project/colorama/)
+[Colorama](https://pypi.org/project/colorama/) - python3 -m pip install colorama --user
 
 
 In future PyQT5 library will be used for GUI
