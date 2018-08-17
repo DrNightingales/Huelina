@@ -1,7 +1,11 @@
 # Huelina
-A program for creating and solving tests with multiple choice
+A program for solving tests with multiple choice
 
+**Source code**
 https://github.com/DrNightingales/Huelina
+
+**Documentation and binaries**
+https://test.pypi.org/project/Huelina
 
 ## Installation
 Install as python package from TestPyPI:
