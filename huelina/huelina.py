@@ -93,7 +93,6 @@ class Quiz():
             else:
                 self.mistakes.clear()
 
-        
     def load_questions(self):
         """
         Parses and loads question to self.questions
