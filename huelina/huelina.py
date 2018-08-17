@@ -145,6 +145,10 @@ class Quiz():
             self.ends = len(self.questions)
 
 
-if __name__ == "__main__":
+def run():
     init()
-    new_quiz = Quiz()
+    Quiz()
+
+
+if __name__ == "__main__":
+    run()
