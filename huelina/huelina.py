@@ -101,7 +101,7 @@ class Quiz():
         Parses and loads question to self.questions
         """
         try:
-            with open(self.quiz_file) as f:
+            with open(self.quiz_file,"r", encoding="utf-8", newline="") as f:
                 for line in f.readlines():
                     if line[0].isnumeric():
                         self.questions.append(Question(line))
