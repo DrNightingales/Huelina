@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from huelina.huelina import __version__
+from huelina.huelina import __version__, script_path
 import setuptools
 
 with open ("README.md","r") as fh:
