@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*- 
 # TODO: Unite encodings for windows and linux
 __version__ = 0.6
+
+# Try-except block for the script to be used both as package as executable script
 try:
     from question import Question
 except:
     from huelina.question import Question
 from colorama import Fore, init
+
 from random import shuffle
 import os 
 from pathlib import Path
