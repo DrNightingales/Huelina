@@ -7,7 +7,7 @@ try:
     from question import Question
 except:
     from huelina.question import Question
-from colorama import Fore, init
+from colorama import Fore, init, Back
 
 from random import shuffle
 import os 
@@ -21,6 +21,7 @@ class Quiz():
         self.questions = []
         self.mistakes = set() 
         
+        print(Back.BLAVK)
         print(Fore.CYAN) # Color background text in blue
         print(f"Добро пожаловать в Хуелина v{__version__}\n")
 
