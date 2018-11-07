@@ -21,7 +21,7 @@ class Quiz():
         self.questions = []
         self.mistakes = set() 
         
-        print(Back.BLAVK)
+        print(Back.BLACK)
         print(Fore.CYAN) # Color background text in blue
         print(f"Добро пожаловать в Хуелина v{__version__}\n")
 
